@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1609301273" url="file:///product/fdroid/repo/" version="21">
+	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1609906072" url="file:///product/fdroid/repo/" version="21">
 		<description>This is a repository of apps to be used with CalyxOS. It is installed to the system partition, and meant to be used to initially install apps when offline. It contains a limited number of applications deemed suitable for inclusion with CalyxOS. </description>
 	</repo>
 	<application id="com.aurora.store">
 		<id>com.aurora.store</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Aurora Store</name>
 		<summary>A Google Playstore Client
 </summary>
@@ -33,7 +33,7 @@
 			<size>4596353</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>6b9ac7fa32e48b1b97796cc2f0ffd1cb</sig>
 			<permissions>ACCESS_MOCK_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INSTALL_PACKAGES,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="25" name="android.permission.WAKE_LOCK"/>
@@ -42,8 +42,8 @@
 	</application>
 	<application id="org.briarproject.briar.android">
 		<id>org.briarproject.briar.android</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Briar</name>
 		<summary>Secure Messaging, Anywhere
 </summary>
@@ -69,15 +69,15 @@
 			<size>32152305</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>c47c736234483df29c95f62bc7bf0333</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.calyxinstitute.vpn">
 		<id>org.calyxinstitute.vpn</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Calyx VPN</name>
 		<summary>Free VPN Service offered by The Calyx Institute
 </summary>
@@ -102,7 +102,7 @@
 			<size>15952548</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>be23b05d2c9ba3c652d579c1fbd6bf72</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -112,12 +112,12 @@
 	</application>
 	<application id="eu.siacs.conversations">
 		<id>eu.siacs.conversations</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Conversations</name>
 		<summary>An encrypted, user friendly XMPP instant messaging client optimized for mobile
 </summary>
-		<icon>eu.siacs.conversations.402.png</icon>
+		<icon>eu.siacs.conversations.403.png</icon>
 		<desc>&lt;p&gt;Easy to use, reliable, battery friendly. With built-in support for images, group chats and e2e encryption.&lt;/p&gt;&lt;p&gt;Design principles:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Be as beautiful and easy to use as possible without sacrificing security or privacy&lt;/li&gt;&lt;li&gt; Rely on existing, well established protocols&lt;/li&gt;&lt;li&gt; Do not require a Google Account or specifically Google Cloud Messaging (GCM)&lt;/li&gt;&lt;li&gt; Require as few permissions as possible&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; End-to-end encryption with either &lt;a href=&quot;http://conversations.im/omemo/&quot;&gt;OMEMO&lt;/a&gt; or &lt;a href=&quot;http://openpgp.org/about/&quot;&gt;OpenPGP&lt;/a&gt;&lt;/li&gt;&lt;li&gt; Sending and receiving images&lt;/li&gt;&lt;li&gt; Intuitive UI that follows Android Design guidelines&lt;/li&gt;&lt;li&gt; Pictures / Avatars for your Contacts&lt;/li&gt;&lt;li&gt; Syncs with desktop client&lt;/li&gt;&lt;li&gt; Conferences (with support for bookmarks)&lt;/li&gt;&lt;li&gt; Address book integration&lt;/li&gt;&lt;li&gt; Multiple accounts / unified inbox&lt;/li&gt;&lt;li&gt; Very low impact on battery life&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Conversations makes it very easy to create an account on the conversations.im server. Using that server comes with an annual fee of 8 Euro after a 6 month trial period. However Conversations will work with any other XMPP server as well. A lot of XMPP servers are run by volunteers and are free of charge.&lt;/p&gt;&lt;p&gt;XMPP Features:&lt;/p&gt;&lt;p&gt;Conversations works with every XMPP server out there. However XMPP is an extensible protocol. These extensions are standardized as well in so called XEP’s. Conversations supports a couple of those to make the overall user experience better. There is a chance that your current XMPP server does not support these extensions. Therefore to get the most out of Conversations you should consider either switching to an XMPP server that does or - even better - run your own XMPP server for you and your friends.&lt;/p&gt;&lt;p&gt;These XEPs are - as of now:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; XEP-0065: SOCKS5 Bytestreams (or mod_proxy65). Will be used to transfer files if both parties are behind a firewall (NAT).&lt;/li&gt;&lt;li&gt; XEP-0163: Personal Eventing Protocol for avatars&lt;/li&gt;&lt;li&gt; XEP-0191: Blocking command lets you blacklist spammers or block contacts without removing them from your roster.&lt;/li&gt;&lt;li&gt; XEP-0198: Stream Management allows XMPP to survive small network outages and changes of the underlying TCP connection.&lt;/li&gt;&lt;li&gt; XEP-0280: Message Carbons which automatically syncs the messages you send to your desktop client and thus allows you to switch seamlessly from your mobile client to your desktop client and back within one conversation.&lt;/li&gt;&lt;li&gt; XEP-0237: Roster Versioning mainly to save bandwidth on poor mobile connections&lt;/li&gt;&lt;li&gt; XEP-0313: Message Archive Management synchronize message history with the server. Catch up with messages that were sent while Conversations was offline.&lt;/li&gt;&lt;li&gt; XEP-0352: Client State Indication lets the server know whether or not Conversations is in the background. Allows the server to save bandwidth by withholding unimportant packages.&lt;/li&gt;&lt;li&gt; XEP-0363: HTTP File Upload allows you to share files in conferences and with offline contacts. Requires an additional component on your server.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Internet,Default</categories>
@@ -133,14 +133,14 @@
 		<marketversion>2.5.2+fcr</marketversion>
 		<marketvercode>329</marketvercode>
 		<package>
-			<version>2.9.2+fcr</version>
-			<versioncode>402</versioncode>
+			<version>2.9.3+fcr</version>
+			<versioncode>403</versioncode>
 			<apkname>Conversations.apk</apkname>
-			<hash type="sha256">d4f5c6b73cd8d4ae01203fcb960b81c32a17ef8f4992b8562452f6151984d6bf</hash>
-			<size>30182322</size>
+			<hash type="sha256">2f82789df4db5a651b9ac313b221f67dd983b71bf83e091708044a268795ada1</hash>
+			<size>30186950</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,CAMERA,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_PROFILE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.READ_PHONE_STATE"/>
@@ -149,8 +149,8 @@
 	</application>
 	<application id="at.bitfire.davdroid">
 		<id>at.bitfire.davdroid</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>DAVx⁵</name>
 		<summary>CalDAV/CardDAV Synchronization and Client
 </summary>
@@ -183,7 +183,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>9747265</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>03542175324d067b4c36582242f8aecc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_CALENDAR,READ_CONTACTS,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_SYNC_SETTINGS,org.dmfs.permission.READ_TASKS,org.dmfs.permission.WRITE_TASKS,org.tasks.permission.READ_TASKS,org.tasks.permission.WRITE_TASKS</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.AUTHENTICATE_ACCOUNTS"/>
@@ -194,8 +194,8 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="com.duckduckgo.mobile.android">
 		<id>com.duckduckgo.mobile.android</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>DuckDuckGo Privacy Browser</name>
 		<summary>Privacy, simplified
 </summary>
@@ -219,7 +219,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>11440283</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>e564ffbbc910f359b0eca66be3cc4d52</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -227,8 +227,8 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="com.fsck.k9">
 		<id>com.fsck.k9</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>K-9 Mail</name>
 		<summary>Full-featured email client</summary>
 		<icon>com.fsck.k9.27024.xml</icon>
@@ -252,15 +252,15 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>7038120</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>4cc8dc4af011320a78e2cae3b5a1fc31</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,com.fsck.k9.permission.DELETE_MESSAGES,com.fsck.k9.permission.READ_MESSAGES</permissions>
 		</package>
 	</application>
 	<application id="info.guardianproject.locationprivacy">
 		<id>info.guardianproject.locationprivacy</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>LocationPrivacy</name>
 		<summary>privacy filters for shared location links
 </summary>
@@ -286,15 +286,15 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>1421922</size>
 			<sdkver>10</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
 			<permissions>INTERNET</permissions>
 		</package>
 	</application>
 	<application id="com.artifex.mupdf.viewer.app">
 		<id>com.artifex.mupdf.viewer.app</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>MuPDF viewer</name>
 		<summary>Lightweight document viewer</summary>
 		<icon>com.artifex.mupdf.viewer.app.90.png</icon>
@@ -316,7 +316,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>12008738</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>5f189df9c7482a659154c71fa1c0a45f</sig>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -324,8 +324,8 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="org.openobservatory.ooniprobe">
 		<id>org.openobservatory.ooniprobe</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>OONI Probe</name>
 		<summary>Open Observatory of Network Interference (OONI)
 </summary>
@@ -348,7 +348,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>44917730</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>a1d02df38f28bbe3af69161786e1d39b</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,org.openobservatory.ooniprobe.permission.C2D_MESSAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -356,8 +356,8 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="org.sufficientlysecure.keychain">
 		<id>org.sufficientlysecure.keychain</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>OpenKeychain</name>
 		<summary>Encrypt your Files and Communications. Compatible with the OpenPGP Standard.
 </summary>
@@ -382,15 +382,15 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>10090743</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>19c18c4bdc8adbcd2df4bbcd2c24fb1d</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,CAMERA,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,NFC,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_PROFILE,WRITE_SYNC_SETTINGS</permissions>
 		</package>
 	</application>
 	<application id="org.dmfs.tasks">
 		<id>org.dmfs.tasks</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>OpenTasks</name>
 		<summary>Keep track of your list of goals</summary>
 		<icon>org.dmfs.tasks.78500.png</icon>
@@ -412,7 +412,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>2820335</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>fa93bb60dd4605fa49196de3c06ba7e7</sig>
 			<permissions>GET_ACCOUNTS,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,com.android.alarm.permission.SET_ALARM,org.dmfs.permission.READ_TASKS,org.dmfs.permission.WRITE_TASKS</permissions>
 			<uses-permission maxSdkVersion="25" name="android.permission.GET_ACCOUNTS"/>
@@ -420,8 +420,8 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="org.torproject.android">
 		<id>org.torproject.android</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Orbot</name>
 		<summary>Enhance your privacy, break through firewalls and communicate more safely.
 </summary>
@@ -447,7 +447,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>47280566</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>8bd7e51b479aeba908ff46ada3305a29</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -457,8 +457,8 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="se.leap.riseupvpn">
 		<id>se.leap.riseupvpn</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Riseup VPN</name>
 		<summary>Secure VPN powered by Bitmask
 </summary>
@@ -483,7 +483,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>16328683</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>93382ad36b0a32133bb7790999ec1107</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -493,8 +493,8 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="com.jarsilio.android.scrambledeggsif">
 		<id>com.jarsilio.android.scrambledeggsif</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Scrambled Exif</name>
 		<summary>Remove the metadata from your pictures before sharing them</summary>
 		<icon>com.jarsilio.android.scrambledeggsif.60.png</icon>
@@ -554,7 +554,7 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 			<size>4624032</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>e6590e61cbe069a1d900172fa99a1707</sig>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -562,8 +562,8 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 	</application>
 	<application id="org.thoughtcrime.securesms">
 		<id>org.thoughtcrime.securesms</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Signal</name>
 		<summary>Signal Private Messenger</summary>
 		<icon>org.thoughtcrime.securesms.7590.png</icon>
@@ -584,7 +584,7 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 			<size>78559661</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>4685187b2fceb9e4d3946ae7fffb5fe6</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,BROADCAST_WAP_PUSH,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MODIFY_AUDIO_SETTINGS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALENDAR,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SMS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECEIVE_MMS,RECEIVE_SMS,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SEND_SMS,SET_WALLPAPER,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_PROFILE,WRITE_SMS,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -593,8 +593,8 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 	</application>
 	<application id="org.torproject.torbrowser">
 		<id>org.torproject.torbrowser</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Tor Browser</name>
 		<summary>Experience real private browsing without tracking, surveillance, or censorship.</summary>
 		<icon>org.torproject.torbrowser.2015737923.png</icon>
@@ -619,7 +619,7 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 			<size>84817496</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>31e36334f34e126a0e0d1efd29b84fb2</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<uses-permission maxSdkVersion="26" name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
@@ -628,12 +628,12 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 	</application>
 	<application id="org.secuso.privacyfriendlyweather">
 		<id>org.secuso.privacyfriendlyweather</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Weather</name>
 		<summary>Get weather information and forecast
 </summary>
-		<icon>org.secuso.privacyfriendlyweather.7.png</icon>
+		<icon>org.secuso.privacyfriendlyweather.9.png</icon>
 		<desc>&lt;p&gt;Lets you watch the weather for cities and locations. This includes the current weather as well as a 5 day / 3 hour forecast. Furthermore, Privacy Friendly Weather provides a radius search. This makes it possible to find the locations around a given location which have the best weather conditions at the moment.&lt;/p&gt;&lt;p&gt;Weather data is provided by &lt;a href=&quot;http://openweathermap.org/&quot;&gt;Open Weather Map&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The app belongs to the group of Privacy Friendly Apps developed at the &lt;a href=&quot;https://secuso.org/&quot;&gt;SECUSO research group&lt;/a&gt; of Technische Universitaet Darmstadt. It does not require any permission and relinquishes advertisement and tracking mechanisms.&lt;/p&gt;&lt;p&gt;&lt;i&gt;NonFreeNet:&lt;/i&gt; OpenWeatherMap service itself is not open source.&lt;/p&gt;</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Multimedia,Internet,Default</categories>
@@ -646,22 +646,22 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 		<marketvercode>6</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
-			<version>2.2</version>
-			<versioncode>7</versioncode>
+			<version>2.4</version>
+			<versioncode>9</versioncode>
 			<apkname>Weather.apk</apkname>
-			<hash type="sha256">43ad9e99f9210b6532a14e9b74d4d68c74cdbc9178172d2f2431ecf4f4d3fc8d</hash>
-			<size>5627149</size>
+			<hash type="sha256">7804d1651e6a44c43ec6fe17271b4467a42eb39a2027c202b188c1a37dbc0698</hash>
+			<size>12560707</size>
 			<sdkver>17</sdkver>
-			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-12-30</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-01-06</added>
 			<sig>10b7b827ba94eb45da3218e3456cdd7a</sig>
 			<permissions>INTERNET,WAKE_LOCK</permissions>
 		</package>
 	</application>
 	<application id="com.yubico.yubioath">
 		<id>com.yubico.yubioath</id>
-		<added>2020-12-30</added>
-		<lastupdated>2020-12-30</lastupdated>
+		<added>2021-01-06</added>
+		<lastupdated>2021-01-06</lastupdated>
 		<name>Yubico Authenticator</name>
 		<summary>Generate OATH codes with YubiKey NEO over NFC</summary>
 		<icon>com.yubico.yubioath.20199.png</icon>
@@ -682,7 +682,7 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 			<size>2659129</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-12-30</added>
+			<added>2021-01-06</added>
 			<sig>79cdf8d8669c903673109e3b2d94cee5</sig>
 			<permissions>CAMERA,NFC</permissions>
 		</package>
