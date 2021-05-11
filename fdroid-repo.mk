@@ -1,6 +1,7 @@
 # Auto generated, do not edit.
 
 PRODUCT_COPY_FILES += \
+    prebuilts/calyx/fdroid/fallback-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/fallback-icon.png \
     prebuilts/calyx/fdroid/repo/categories.txt:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/categories.txt \
     prebuilts/calyx/fdroid/repo/icons-120/at.bitfire.davdroid.303100003.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/at.bitfire.davdroid.303100003.png \
     prebuilts/calyx/fdroid/repo/icons-120/com.artifex.mupdf.viewer.app.90.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.artifex.mupdf.viewer.app.90.png \
