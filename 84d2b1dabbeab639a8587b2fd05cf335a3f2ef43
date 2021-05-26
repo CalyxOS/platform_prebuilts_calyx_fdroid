@@ -16,6 +16,23 @@
       "message": "privext will need an update.",
       "revId": "84d2b1dabbeab639a8587b2fd05cf335a3f2ef43",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6093e439_901266dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-05-26T12:00:20Z",
+      "side": 1,
+      "message": "If you\u0027re going to change the signing key, then it is essential that the Application ID is also changed.  Copperhead failed to do that, then stopped updating some devices, so those users were locked out from installing official F-Droid releases.",
+      "revId": "84d2b1dabbeab639a8587b2fd05cf335a3f2ef43",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
