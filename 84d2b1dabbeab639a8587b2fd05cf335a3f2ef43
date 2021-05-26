@@ -33,6 +33,24 @@
       "message": "If you\u0027re going to change the signing key, then it is essential that the Application ID is also changed.  Copperhead failed to do that, then stopped updating some devices, so those users were locked out from installing official F-Droid releases.",
       "revId": "84d2b1dabbeab639a8587b2fd05cf335a3f2ef43",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f7bcaee_aa7ee081",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-05-26T12:56:49Z",
+      "side": 1,
+      "message": "Yes, we will be doing that. It will have to be a two step process as mentioned in the linked issue (https://gitlab.com/CalyxOS/calyxos/-/issues/295)\n\nWe can\u0027t change both signing key and package name at the same time, so we\u0027ll have to ship 1 build with just the signing key changed, and then we\u0027ll be able to change the package name in a future build.\n\nPackage name changes require both packages to have the same signature.",
+      "parentUuid": "6093e439_901266dc",
+      "revId": "84d2b1dabbeab639a8587b2fd05cf335a3f2ef43",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
