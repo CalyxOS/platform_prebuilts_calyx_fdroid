@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0bf20759_6a2c50fb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-06-07T15:48:07Z",
+      "side": 1,
+      "message": "Works:\n\n\u003e W PackageManager: System package org.fdroid.fdroid signature changed; retaining data.",
+      "revId": "a6e79bc8292257d17888b8dd2e6a5ccf0f3bf487",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
