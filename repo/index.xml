@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1620848374" url="file:///product/fdroid/repo/" version="21">
-		<description>This is a repository of apps to be used with CalyxOS. It is installed to the system partition, and meant to be used to initially install apps when offline. It contains a limited number of applications deemed suitable for inclusion with CalyxOS. </description>
+	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1623125264" url="file:///product/fdroid/repo/" version="20000">
+		<description>
+This is a repository of apps to be used with CalyxOS. It is installed
+to the system partition, and meant to be used to initially install
+apps when offline. It contains a limited number of applications deemed
+suitable for inclusion with CalyxOS.
+</description>
 	</repo>
 	<application id="com.aurora.store">
 		<id>com.aurora.store</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Aurora Store</name>
-		<summary>A Google Playstore Client
-</summary>
-		<icon>com.aurora.store.35.png</icon>
-		<desc>&lt;p&gt;This &lt;i&gt;Aurora Store&lt;/i&gt; is a complete rewrite, replacing https://f-droid.org/packages/com.dragons.aurora.&lt;/p&gt;&lt;p&gt;Aurora Store is an alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.&lt;/p&gt;</desc>
+		<summary>A Google Playstore Client</summary>
+		<icon>com.aurora.store.36.png</icon>
+		<desc>This ''Aurora Store'' is a complete rewrite, replacing https://f-droid.org/packages/com.dragons.aurora.
+
+Aurora Store is an alternate to Google's Play Store, with an elegant design,
+using Aurora you can download apps, update existing apps, search for apps,
+get details about in-app trackers, spoof your location and much more.</desc>
 		<license>GPL-3.0-or-later</license>
 		<categories>System,Default</categories>
 		<category>System</category>
@@ -23,30 +31,35 @@
 		<email>whyorean@gmail.com</email>
 		<donate>https://www.paypal.me/whyorean</donate>
 		<marketversion></marketversion>
-		<marketvercode>35</marketvercode>
+		<marketvercode>36</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
-			<version>4.0.4</version>
-			<versioncode>35</versioncode>
+			<version>4.0.5</version>
+			<versioncode>36</versioncode>
 			<apkname>AuroraStore.apk</apkname>
-			<hash type="sha256">5437f66b6efe956ca241bf6a57b713c0d3c7666efd2e4800575cd575d1fe6710</hash>
-			<size>5661144</size>
+			<hash type="sha256">01529997b4695883b2d064cf7c018a421624afc3199f120dacead967f11c7790</hash>
+			<size>5739114</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>6b9ac7fa32e48b1b97796cc2f0ffd1cb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,DELETE_PACKAGES,FOREGROUND_SERVICE,INSTALL_PACKAGES,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.briarproject.briar.android">
 		<id>org.briarproject.briar.android</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Briar</name>
-		<summary>Secure Messaging, Anywhere
-</summary>
+		<summary>Secure Messaging, Anywhere</summary>
 		<icon>org.briarproject.briar.android.10220.png</icon>
-		<desc>&lt;p&gt;Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. Unlike traditional messaging tools such as email, Twitter or Telegram, Briar doesn't rely on a central server - messages are synchronized directly between the users' devices. If the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the Internet's up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.&lt;/p&gt;</desc>
+		<desc>Briar is a messaging app designed for activists, journalists, and anyone else
+who needs a safe, easy and robust way to communicate. Unlike traditional
+messaging tools such as email, Twitter or Telegram, Briar doesn't rely on a
+central server - messages are synchronized directly between the users' devices.
+If the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the
+information flowing in a crisis. If the Internet's up, Briar can sync via the
+Tor network, protecting users and their relationships from surveillance.</desc>
 		<license>GPL-3.0-or-later</license>
 		<categories>Connectivity,Internet,Security,Default</categories>
 		<category>Connectivity</category>
@@ -67,7 +80,7 @@
 			<size>31343637</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>c47c736234483df29c95f62bc7bf0333</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -77,13 +90,18 @@
 	</application>
 	<application id="org.calyxinstitute.vpn">
 		<id>org.calyxinstitute.vpn</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Calyx VPN</name>
-		<summary>Free VPN Service offered by The Calyx Institute
-</summary>
+		<summary>Free VPN Service offered by The Calyx Institute</summary>
 		<icon>org.calyxinstitute.vpn.149.png</icon>
-		<desc>&lt;p&gt;CalyxVPN is an application to provide easy and secure encrypted communication. The app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is preconfigured with one trusted provider—The Calyx Institute—and allows anonymous VPN usage without any manual setup.&lt;/p&gt;&lt;p&gt;By encrypting and securely routing all your network traffic through Calyx's servers, CalyxVPN is able to prevent many forms of censorship and surveillance.&lt;/p&gt;</desc>
+		<desc>CalyxVPN is an application to provide easy and secure encrypted communication.
+The app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is
+preconfigured with one trusted provider—The Calyx Institute—and allows
+anonymous VPN usage without any manual setup.
+
+By encrypting and securely routing all your network traffic through Calyx's
+servers, CalyxVPN is able to prevent many forms of censorship and surveillance.</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Internet,Security,Default</categories>
 		<category>Internet</category>
@@ -103,7 +121,7 @@
 			<size>15952548</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>be23b05d2c9ba3c652d579c1fbd6bf72</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -113,13 +131,12 @@
 	</application>
 	<application id="eu.siacs.conversations">
 		<id>eu.siacs.conversations</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Conversations</name>
-		<summary>An encrypted, user friendly XMPP instant messaging client optimized for mobile
-</summary>
+		<summary>An encrypted, user friendly XMPP instant messaging client optimized for mobile</summary>
 		<icon>eu.siacs.conversations.42015.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>No description available</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Internet,Default</categories>
 		<category>Internet</category>
@@ -141,7 +158,7 @@
 			<size>33494711</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,CAMERA,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_PROFILE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.READ_PHONE_STATE"/>
@@ -150,12 +167,10 @@
 	</application>
 	<application id="at.bitfire.davdroid">
 		<id>at.bitfire.davdroid</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>DAVx⁵</name>
-		<summary>CalDAV/CardDAV Synchronization and Client
-</summary>
-		<icon>at.bitfire.davdroid.303100003.png</icon>
+		<summary>CalDAV/CardDAV Synchronization and Client</summary>
 		<desc>DAVx⁵ is a CalDAV/CardDAV management and synchronization app for Android which natively integrates with Android calendar/contact apps.
 
 Use it with your own server or with a trusted hoster to keep your contacts, events and tasks under your control.
@@ -174,16 +189,16 @@ For more information and a list of tested servers/services, have a look at the W
 		<bitcoin>bc1q0hvy0mknt9vce2f9hh829h72n3sht9llaltumk</bitcoin>
 		<liberapay>14101</liberapay>
 		<marketversion></marketversion>
-		<marketvercode>303100003</marketvercode>
+		<marketvercode>303110004</marketvercode>
 		<package>
-			<version>3.3.10-ose</version>
-			<versioncode>303100003</versioncode>
+			<version>3.3.11-ose</version>
+			<versioncode>303110004</versioncode>
 			<apkname>DAVx5.apk</apkname>
-			<hash type="sha256">b57c63fea55b14f3d3d9db30d15d5a23c5fb03a4c51ec20717971df00fd96dea</hash>
-			<size>10314273</size>
+			<hash type="sha256">10d2e2abb9ee5b0f10c3467f05d961092d4c622775c3268ca6e21338e2fd28f8</hash>
+			<size>10238398</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>03542175324d067b4c36582242f8aecc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_CALENDAR,READ_CONTACTS,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_SYNC_SETTINGS,org.dmfs.permission.READ_TASKS,org.dmfs.permission.WRITE_TASKS,org.tasks.permission.READ_TASKS,org.tasks.permission.WRITE_TASKS</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.AUTHENTICATE_ACCOUNTS"/>
@@ -194,13 +209,44 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="com.duckduckgo.mobile.android">
 		<id>com.duckduckgo.mobile.android</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>DuckDuckGo Privacy Browser</name>
-		<summary>Privacy, simplified
-</summary>
-		<icon>com.duckduckgo.mobile.android.58503.png</icon>
-		<desc>&lt;p&gt;At DuckDuckGo, we believe the Internet shouldn’t feel so creepy, and getting the privacy you deserve online should be as simple as closing the blinds.&lt;/p&gt;&lt;p&gt;Our app provides the privacy essentials you need to seamlessly take control of your personal information as you search and browse the web, no matter where the Internet takes you:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Escape Advertising Tracker Networks — Our Privacy Protection will block all the hidden third-party trackers we can find, exposing the major advertising networks tracking you over time, so that you can track who’s trying to track you.&lt;/li&gt;&lt;li&gt; Increase Encryption Protection — We force sites to use an encrypted connection where available, protecting your data from prying eyes, like ISPs.&lt;/li&gt;&lt;li&gt; Search Privately — You share your most personal information with your search engine, like your financial, medical, and political questions. What you search for is your own business, which is why DuckDuckGo search doesn’t track you. Ever.&lt;/li&gt;&lt;li&gt; Decode Privacy Policies — We’ve partnered with Terms of Service Didn’t Read to include their scores and labels of website terms of service and privacy policies, where available.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;As you search and browse, the DuckDuckGo Privacy Browser shows you a Privacy Grade rating when you visit a website (A-F). This rating lets you see how protected you are at a glance, dig into the details to see who we caught trying to track you, and learn how we enhanced the underlying site’s privacy measures. The Privacy Grade is scored automatically based on the prevalence of hidden tracker networks, encryption availability, and website privacy practices.&lt;/p&gt;&lt;p&gt;Our app provides standard browsing functionality including tabs, bookmarks, and autocomplete. In addition to strong Privacy Protection as described above, we also packed in some extra privacy features into the browser itself:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Fire Button — Clear all your tabs and data with one tap.&lt;/li&gt;&lt;li&gt; Application Lock — Secure the app with Touch ID or Face ID.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Too many people believe you simply can’t expect privacy on the Internet. We’re fighting to change that, and have made it our mission to set a new standard of trust online. Install DuckDuckGo and take back your privacy!&lt;/p&gt;&lt;p&gt;Antifeatures:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; NonFreeNet - Uses DuckDuckGo as the exclusive search engine, for which the&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;source code is not available.&lt;/p&gt;</desc>
+		<summary>Privacy, simplified</summary>
+		<icon>com.duckduckgo.mobile.android.58602.png</icon>
+		<desc>At DuckDuckGo, we believe the Internet shouldn’t feel so creepy, and getting the
+privacy you deserve online should be as simple as closing the blinds.
+
+Our app provides the privacy essentials you need to seamlessly take control of
+your personal information as you search and browse the web, no matter where the
+Internet takes you:
+
+* Escape Advertising Tracker Networks — Our Privacy Protection will block all the hidden third-party trackers we can find, exposing the major advertising networks tracking you over time, so that you can track who’s trying to track you.
+* Increase Encryption Protection — We force sites to use an encrypted connection where available, protecting your data from prying eyes, like ISPs.
+* Search Privately — You share your most personal information with your search engine, like your financial, medical, and political questions. What you search for is your own business, which is why DuckDuckGo search doesn’t track you. Ever.
+* Decode Privacy Policies — We’ve partnered with Terms of Service Didn’t Read to include their scores and labels of website terms of service and privacy policies, where available.
+
+As you search and browse, the DuckDuckGo Privacy Browser shows you a Privacy
+Grade rating when you visit a website (A-F). This rating lets you see how
+protected you are at a glance, dig into the details to see who we caught trying
+to track you, and learn how we enhanced the underlying site’s privacy measures.
+The Privacy Grade is scored automatically based on the prevalence of hidden
+tracker networks, encryption availability, and website privacy practices.
+
+Our app provides standard browsing functionality including tabs, bookmarks, and
+autocomplete. In addition to strong Privacy Protection as described above, we
+also packed in some extra privacy features into the browser itself:
+
+* Fire Button — Clear all your tabs and data with one tap.
+* Application Lock — Secure the app with Touch ID or Face ID.
+
+Too many people believe you simply can’t expect privacy on the Internet. We’re
+fighting to change that, and have made it our mission to set a new standard of
+trust online. Install DuckDuckGo and take back your privacy!
+
+Antifeatures:
+* NonFreeNet - Uses DuckDuckGo as the exclusive search engine, for which the
+source code is not available.</desc>
 		<license>Apache-2.0</license>
 		<categories>Internet,Default</categories>
 		<category>Internet</category>
@@ -211,17 +257,17 @@ For more information and a list of tested servers/services, have a look at the W
 		<author>DuckDuckGo</author>
 		<email>android@duckduckgo.com</email>
 		<marketversion></marketversion>
-		<marketvercode>58503</marketvercode>
+		<marketvercode>58602</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
-			<version>5.85.3</version>
-			<versioncode>58503</versioncode>
+			<version>5.86.2</version>
+			<versioncode>58602</versioncode>
 			<apkname>DuckDuckGoPrivacyBrowser.apk</apkname>
-			<hash type="sha256">f8fc722738fe6db0131eaac10f264bfe56d2563b5da5c06e0506434bd9a6eed9</hash>
-			<size>12593489</size>
+			<hash type="sha256">507d798efe28c6a4ae51c5f73e232ae3c641b7895ada8044e3f1cbf521f78510</hash>
+			<size>12671074</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>e564ffbbc910f359b0eca66be3cc4d52</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -229,13 +275,15 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="com.fsck.k9">
 		<id>com.fsck.k9</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>K-9 Mail</name>
-		<summary>Full-featured email client
-</summary>
-		<icon>com.fsck.k9.27034.xml</icon>
-		<desc>&lt;p&gt;E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do OpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings and account configurations can be exported so that they can be imported easily if you are switching packages/signatures: a file manager will need to be already installed to achieve this.&lt;/p&gt;</desc>
+		<summary>Full-featured email client</summary>
+		<desc>E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do
+OpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings
+and account configurations can be exported so that they can be imported easily
+if you are switching packages/signatures: a file manager will need to be already
+installed to achieve this.</desc>
 		<license>Apache-2.0</license>
 		<categories>Internet,Default</categories>
 		<category>Internet</category>
@@ -254,20 +302,19 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>7321219</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>4cc8dc4af011320a78e2cae3b5a1fc31</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,com.fsck.k9.permission.DELETE_MESSAGES,com.fsck.k9.permission.READ_MESSAGES</permissions>
 		</package>
 	</application>
 	<application id="info.guardianproject.locationprivacy">
 		<id>info.guardianproject.locationprivacy</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>LocationPrivacy</name>
-		<summary>privacy filters for shared location links
-</summary>
+		<summary>privacy filters for shared location links</summary>
 		<icon>info.guardianproject.locationprivacy.31.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>No description available</desc>
 		<license>GPL-3.0-or-later</license>
 		<categories>Navigation,Security,Default</categories>
 		<category>Navigation</category>
@@ -288,20 +335,21 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>1421922</size>
 			<sdkver>10</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
 			<permissions>INTERNET</permissions>
 		</package>
 	</application>
 	<application id="com.artifex.mupdf.viewer.app">
 		<id>com.artifex.mupdf.viewer.app</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>MuPDF viewer</name>
-		<summary>Lightweight document viewer
-</summary>
+		<summary>Lightweight document viewer</summary>
 		<icon>com.artifex.mupdf.viewer.app.90.png</icon>
-		<desc>&lt;p&gt;MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations, searching, form editing and more. It also reads OpenXPS and CBZ (comic book) documents.&lt;/p&gt;</desc>
+		<desc>MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations,
+searching, form editing and more. It also reads OpenXPS and CBZ (comic book)
+documents.</desc>
 		<license>AGPL-3.0-or-later</license>
 		<categories>Reading,Default</categories>
 		<category>Reading</category>
@@ -319,7 +367,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>12008738</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>5f189df9c7482a659154c71fa1c0a45f</sig>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -327,13 +375,22 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="com.nextcloud.client">
 		<id>com.nextcloud.client</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Nextcloud</name>
-		<summary>Synchronization client
-</summary>
-		<icon>com.nextcloud.client.30160090.png</icon>
-		<desc>&lt;p&gt;A safe home for all your data. Access &amp;amp; share your files, calendars, contacts, mail &amp;amp; more from any device, on your terms. This is the official Android app.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Easy, modern interface&lt;/li&gt;&lt;li&gt; Upload your files to your Nextcloud server&lt;/li&gt;&lt;li&gt; Share your files with others&lt;/li&gt;&lt;li&gt; Keep your favorite files and folders synced&lt;/li&gt;&lt;li&gt; Instant Upload for photos and videos taken by your device&lt;/li&gt;&lt;li&gt; Multi-account support&lt;/li&gt;&lt;/ul&gt;</desc>
+		<summary>Synchronization client</summary>
+		<icon>com.nextcloud.client.30160190.png</icon>
+		<desc>A safe home for all your data. Access &amp; share your files, calendars, contacts,
+mail &amp; more from any device, on your terms. This is the official Android app.
+
+'''Features:'''
+
+* Easy, modern interface
+* Upload your files to your Nextcloud server
+* Share your files with others
+* Keep your favorite files and folders synced
+* Instant Upload for photos and videos taken by your device
+* Multi-account support</desc>
 		<license>GPL-2.0-only</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -343,16 +400,16 @@ For more information and a list of tested servers/services, have a look at the W
 		<changelog>https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md</changelog>
 		<donate>https://nextcloud.com/include/</donate>
 		<marketversion></marketversion>
-		<marketvercode>30160090</marketvercode>
+		<marketvercode>30160190</marketvercode>
 		<package>
-			<version>3.16.0</version>
-			<versioncode>30160090</versioncode>
+			<version>3.16.1</version>
+			<versioncode>30160190</versioncode>
 			<apkname>Nextcloud.apk</apkname>
-			<hash type="sha256">a2f2f572e5d4dc7c9fd228a5334f68b7f295a98f36f75df4549732a8c0eb74ef</hash>
-			<size>19957385</size>
+			<hash type="sha256">cab8dcdfb06a985e61fcf5311ffbeef6d64da6f73be2a720b6e75c592fc99d4a</hash>
+			<size>19961481</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>0f8ca80a9abcc3452f65222ed09819a9</sig>
 			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CAMERA,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,NFC,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_CREDENTIALS,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.AUTHENTICATE_ACCOUNTS"/>
@@ -364,13 +421,65 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="org.openobservatory.ooniprobe">
 		<id>org.openobservatory.ooniprobe</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>OONI Probe</name>
-		<summary>Open Observatory of Network Interference (OONI)
-</summary>
-		<icon>org.openobservatory.ooniprobe.75.png</icon>
-		<desc>&lt;p&gt;Are websites and social media apps blocked? Is your network unusually slow? Run OONI Probe to find out!&lt;/p&gt;&lt;p&gt;With this app, you will examine the blocking of websites and instant messaging apps, measure your network’s speed and performance, and check whether systems that could be responsible for censorship and surveillance are in your network.&lt;/p&gt;&lt;p&gt;OONI Probe is developed by the Open Observatory of Network Interference (OONI), a free software project (under The Tor Project) that aims to uncover internet censorship around the world.&lt;/p&gt;&lt;p&gt;Since 2012, OONI’s global community has collected millions of network measurements from more than 200 countries, shedding light on multiple cases of network interference.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Collect evidence of internet censorship&lt;/b&gt; You can check whether and how websites and instant messaging apps are blocked. The network measurement data you will collect may serve as evidence of internet censorship.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Detect systems responsible for censorship and surveillance&lt;/b&gt; OONI Probe tests are also designed to uncover the presence of systems (middleboxes) that could be responsible for censorship and surveillance.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Measure the speed and performance of your network&lt;/b&gt; You can measure the speed and performance of your network by running OONI’s implementation of the Network Diagnostic Test (NDT). You can also measure video streaming performance with the Dynamic Adaptive Streaming over HTTP (DASH) test.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Open data&lt;/b&gt; OONI publishes network measurement data because open data allows third parties to verify OONI findings, conduct independent studies, and answer other research questions. Openly publishing OONI data also helps increase transparency of internet censorship around the world. You can explore and download OONI data here: https://ooni.io/data/&lt;/p&gt;&lt;p&gt;&lt;b&gt;Free software&lt;/b&gt; All OONI Probe tests (including our NDT and DASH implementations), are based on free and open source software. You can find OONI software projects &amp;lt;a href=&quot;https://github.com/ooni&quot;&amp;gt;on Github&amp;lt;/a&amp;gt;. Curious to learn how OONI Probe tests work? Learn more &amp;lt;a href=&quot;https://ooni.io/nettest&quot;&amp;gt;here&amp;lt;/a&amp;gt;.&lt;/p&gt;&lt;p&gt;To receive updates from the OONI-verse, &amp;lt;a href=&quot;https://twitter.com/OpenObservatory&quot;&amp;gt;follow us on Twitter&amp;lt;/a&amp;gt;&lt;/p&gt;&lt;p&gt;Disclaimer: Running OONI Probe might be against the terms of service of your ISP or legally questionable in your country. By running OONI Probe, you will connect to web services which might be banned. The OONI project will publish data submitted by probes, possibly including your IP address or other identifying information. In addition, your use of OONI Probe will be clear to anyone who has access to your computer, and to anyone who can monitor your Internet connection (such as your employer, ISP or government). Learn more about potential risks &amp;lt;a href=&quot;https://ooni.torproject.org/about/risks&quot;&amp;gt;here&amp;lt;/a&amp;gt;&lt;/p&gt;</desc>
+		<summary>Open Observatory of Network Interference (OONI)</summary>
+		<desc>Are websites and social media apps blocked? Is your network unusually slow?
+Run OONI Probe to find out!
+
+With this app, you will examine the blocking of websites and instant
+messaging apps, measure your network’s speed and performance, and check
+whether systems that could be responsible for censorship and surveillance
+are in your network.
+
+OONI Probe is developed by the Open Observatory of Network Interference
+(OONI), a free software project (under The Tor Project) that aims to uncover
+internet censorship around the world.
+
+Since 2012, OONI’s global community has collected millions of network
+measurements from more than 200 countries, shedding light on multiple cases
+of network interference.
+
+'''Collect evidence of internet censorship'''
+You can check whether and how websites and instant messaging apps are
+blocked. The network measurement data you will collect may serve as evidence
+of internet censorship.
+
+'''Detect systems responsible for censorship and surveillance'''
+OONI Probe tests are also designed to uncover the presence of systems
+(middleboxes) that could be responsible for censorship and surveillance.
+
+'''Measure the speed and performance of your network'''
+You can measure the speed and performance of your network by running OONI’s
+implementation of the Network Diagnostic Test (NDT). You can also measure
+video streaming performance with the Dynamic Adaptive Streaming over HTTP
+(DASH) test.
+
+'''Open data'''
+OONI publishes network measurement data because open data allows third
+parties to verify OONI findings, conduct independent studies, and answer
+other research questions. Openly publishing OONI data also helps increase
+transparency of internet censorship around the world. You can explore and
+download OONI data here: https://ooni.io/data/
+
+'''Free software'''
+All OONI Probe tests (including our NDT and DASH implementations), are based
+on free and open source software. You can find OONI software projects
+&lt;a href=&quot;https://github.com/ooni&quot;&gt;on Github&lt;/a&gt;. Curious to learn how OONI Probe tests
+work? Learn more &lt;a href=&quot;https://ooni.io/nettest&quot;&gt;here&lt;/a&gt;.
+
+To receive updates from the OONI-verse,
+&lt;a href=&quot;https://twitter.com/OpenObservatory&quot;&gt;follow us on Twitter&lt;/a&gt;
+
+Disclaimer: Running OONI Probe might be against the terms of service of your ISP
+or legally questionable in your country. By running OONI Probe, you will connect
+to web services which might be banned. The OONI project will publish data
+submitted by probes, possibly including your IP address or other identifying
+information. In addition, your use of OONI Probe will be clear to anyone who has
+access to your computer, and to anyone who can monitor your Internet connection
+(such as your employer, ISP or government). Learn more about potential risks
+&lt;a href=&quot;https://ooni.torproject.org/about/risks&quot;&gt;here&lt;/a&gt;</desc>
 		<license>BSD-2-Clause</license>
 		<categories>Internet,Security,Default</categories>
 		<category>Internet</category>
@@ -381,31 +490,30 @@ For more information and a list of tested servers/services, have a look at the W
 		<author>Open Observatory of Network Interference</author>
 		<email>contact@openobservatory.org</email>
 		<marketversion></marketversion>
-		<marketvercode>75</marketvercode>
+		<marketvercode>77</marketvercode>
 		<antifeatures>Tracking</antifeatures>
 		<package>
-			<version>2.11.0</version>
-			<versioncode>75</versioncode>
+			<version>3.0.0</version>
+			<versioncode>77</versioncode>
 			<apkname>OONIProbe.apk</apkname>
-			<hash type="sha256">dbef52271d2e839bd4e3565ec8f701b16ddd244ebf218051024dbf2c314c4541</hash>
-			<size>58502780</size>
+			<hash type="sha256">c00c98920b8c9ae67767c3371307bc3b67fe11bb86ac36ffd048bbd73db55901</hash>
+			<size>60330893</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>a1d02df38f28bbe3af69161786e1d39b</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,org.openobservatory.ooniprobe.permission.C2D_MESSAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,org.openobservatory.ooniprobe.permission.C2D_MESSAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="org.sufficientlysecure.keychain">
 		<id>org.sufficientlysecure.keychain</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>OpenKeychain</name>
-		<summary>Encrypt your Files and Communications. Compatible with the OpenPGP Standard.
-</summary>
+		<summary>Encrypt your Files and Communications. Compatible with the OpenPGP Standard.</summary>
 		<icon>org.sufficientlysecure.keychain.57500.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>No description available</desc>
 		<license>GPL-3.0-or-later</license>
 		<categories>Security,Default</categories>
 		<category>Security</category>
@@ -426,20 +534,23 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>10073931</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>19c18c4bdc8adbcd2df4bbcd2c24fb1d</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,INTERNET,NFC,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
 		</package>
 	</application>
 	<application id="org.dmfs.tasks">
 		<id>org.dmfs.tasks</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>OpenTasks</name>
-		<summary>Keep track of your list of goals
-</summary>
+		<summary>Keep track of your list of goals</summary>
 		<icon>org.dmfs.tasks.82200.png</icon>
-		<desc>&lt;p&gt;A task manager app, allowing you to categorise your todo list by urgency, state, timeframe etc.&lt;/p&gt;&lt;p&gt;Tasks can be synchronised with a CalDAV server using, e.g., https://f-droid.org/packages/at.bitfire.davdroid and https://f-droid.org/packages/com.etesync.syncadapter&lt;/p&gt;</desc>
+		<desc>A task manager app, allowing you to categorise your todo list by urgency, state,
+timeframe etc.
+
+Tasks can be synchronised with a CalDAV server using, e.g.,
+https://f-droid.org/packages/at.bitfire.davdroid and https://f-droid.org/packages/com.etesync.syncadapter</desc>
 		<license>Apache-2.0</license>
 		<categories>Writing,Default</categories>
 		<category>Writing</category>
@@ -459,7 +570,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>3685910</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>fa93bb60dd4605fa49196de3c06ba7e7</sig>
 			<permissions>GET_ACCOUNTS,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,com.android.alarm.permission.SET_ALARM,org.dmfs.permission.READ_TASKS,org.dmfs.permission.WRITE_TASKS</permissions>
 			<uses-permission maxSdkVersion="25" name="android.permission.GET_ACCOUNTS"/>
@@ -467,12 +578,27 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="org.torproject.android">
 		<id>org.torproject.android</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Orbot</name>
-		<summary>Enhance your privacy, break through firewalls and communicate more safely.
-</summary>
-		<desc>&lt;p&gt;Tor is both software and an open network that helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships.&lt;/p&gt;&lt;p&gt;Orbot allows access to Tor by accessing a local SOCKS or HTTP proxy. On a rooted device, the proxying can be completely transparent i.e. the app that accesses the network need not be aware of the proxy's existence; you can choose which apps go via the proxy in the settings.&lt;/p&gt;&lt;p&gt;If you don't have root access, there are some apps that are designed to work closely with tor or allow proxied connections: https://f-droid.org/packages/info.guardianproject.otr.app.im, https://f-droid.org/packages/acr.browser.lightning and https://f-droid.org/packages/org.mariotaku.twidere. There is also a proxy configurator addon for Firefox called &amp;lt;a href=&quot;https://github.com/guardianproject/ProxyMob/downloads&quot;&amp;gt;ProxyMob&amp;lt;/a&amp;gt; (not yet available from the Mozilla addon site).&lt;/p&gt;</desc>
+		<summary>Enhance your privacy, break through firewalls and communicate more safely.</summary>
+		<desc>Tor is both software and an open network that helps you defend against network
+surveillance that threatens personal freedom and privacy, confidential business
+activities and relationships.
+
+Orbot allows access to Tor by accessing a local SOCKS or HTTP proxy.
+On a rooted device, the proxying can be completely transparent
+i.e. the app that accesses the network need not be aware of the
+proxy's existence; you can choose which apps go via the proxy in the
+settings.
+
+If you don't have root access, there are some apps that are designed to work
+closely with tor or allow proxied connections:
+https://f-droid.org/packages/info.guardianproject.otr.app.im, https://f-droid.org/packages/acr.browser.lightning and
+https://f-droid.org/packages/org.mariotaku.twidere. There is also a proxy configurator addon for Firefox
+called &lt;a href=&quot;https://github.com/guardianproject/ProxyMob/downloads&quot;&gt;ProxyMob&lt;/a&gt; (not yet
+available from the Mozilla addon site).
+</desc>
 		<license>BSD-3-Clause</license>
 		<categories>Security,Internet,Default</categories>
 		<category>Security</category>
@@ -492,7 +618,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>63052394</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>8bd7e51b479aeba908ff46ada3305a29</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -502,13 +628,18 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="se.leap.riseupvpn">
 		<id>se.leap.riseupvpn</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Riseup VPN</name>
-		<summary>Secure VPN powered by Bitmask
-</summary>
+		<summary>Secure VPN powered by Bitmask</summary>
 		<icon>se.leap.riseupvpn.149.png</icon>
-		<desc>&lt;p&gt;RiseupVPN is an application to provide easy and secure encrypted communication. The app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is preconfigured with one trusted provider—the Riseup collective—and allows anonymous VPN usage without any manual setup.&lt;/p&gt;&lt;p&gt;By encrypting and securely routing all your network traffic through Riseup’s servers, RiseupVPN is able to prevent many forms of censorship and surveillance.&lt;/p&gt;</desc>
+		<desc>RiseupVPN is an application to provide easy and secure encrypted communication.
+The app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is
+preconfigured with one trusted provider—the Riseup collective—and allows
+anonymous VPN usage without any manual setup.
+
+By encrypting and securely routing all your network traffic through Riseup’s
+servers, RiseupVPN is able to prevent many forms of censorship and surveillance.</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Internet,Security,Default</categories>
 		<category>Internet</category>
@@ -529,7 +660,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>16328683</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>93382ad36b0a32133bb7790999ec1107</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -539,11 +670,11 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="com.jarsilio.android.scrambledeggsif">
 		<id>com.jarsilio.android.scrambledeggsif</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Scrambled Exif</name>
 		<summary>Remove the metadata from your pictures before sharing them</summary>
-		<icon>com.jarsilio.android.scrambledeggsif.63.png</icon>
+		<icon>com.jarsilio.android.scrambledeggsif.66.png</icon>
 		<desc>Scrambled Exif (pronounced &lt;i&gt;egg&lt;/i&gt;sif) helps you remove the metadata in your pictures before you share them.
 
 If you feel like it.
@@ -591,28 +722,42 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 		<email>juam+scrambled@posteo.net</email>
 		<bitcoin>bc1qagv574q7k66nwmtef8gxmjge4ekvnjxfytxp5e</bitcoin>
 		<marketversion></marketversion>
-		<marketvercode>63</marketvercode>
+		<marketvercode>66</marketvercode>
 		<package>
-			<version>1.7.1</version>
-			<versioncode>63</versioncode>
+			<version>1.7.3</version>
+			<versioncode>66</versioncode>
 			<apkname>ScrambledExif.apk</apkname>
-			<hash type="sha256">c598b5063e430af06ebdc7ac71daf0077fda8b958038dbd0decdc97cbcf900c9</hash>
-			<size>4666049</size>
+			<hash type="sha256">83ce01a81bcacc8e55553bcd071c0691bf722fa4db1e36d406785ac8c5011f8d</hash>
+			<size>4699001</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>e6590e61cbe069a1d900172fa99a1707</sig>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.thoughtcrime.securesms">
 		<id>org.thoughtcrime.securesms</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Signal</name>
 		<summary>Signal Private Messenger</summary>
-		<icon>org.thoughtcrime.securesms.83210.png</icon>
-		<desc>&lt;p&gt;Privacy is possible. Signal makes it easy.&lt;/p&gt;&lt;p&gt;Using Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.&lt;/p&gt;&lt;p&gt;★ Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.&lt;/p&gt;&lt;p&gt;★ Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.&lt;/p&gt;&lt;p&gt;★ Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.&lt;/p&gt;&lt;p&gt;★ Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.&lt;/p&gt;&lt;p&gt;★ Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.&lt;/p&gt;&lt;p&gt;★ Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.&lt;/p&gt;</desc>
+		<icon>org.thoughtcrime.securesms.85100.png</icon>
+		<desc>Privacy is possible. Signal makes it easy.
+
+Using Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.
+
+★ Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.
+
+★ Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.
+
+★ Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.
+
+★ Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.
+
+★ Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.
+
+★ Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Internet,Default</categories>
 		<category>Internet</category>
@@ -620,16 +765,16 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 		<source>https://github.com/signalapp/Signal-Android</source>
 		<tracker>https://support.signal.org/</tracker>
 		<marketversion></marketversion>
-		<marketvercode>83210</marketvercode>
+		<marketvercode>85100</marketvercode>
 		<package>
-			<version>5.9.7</version>
-			<versioncode>83210</versioncode>
+			<version>5.12.3</version>
+			<versioncode>85100</versioncode>
 			<apkname>Signal.apk</apkname>
-			<hash type="sha256">2f5a21a1d2c9f6b0c84131571a7c19fb0edd235bb14a4994b5d169dd1ffec99e</hash>
-			<size>69099993</size>
+			<hash type="sha256">8a2da5c5fd7e64c81a56db1c04b9872489e6cea72fe4825463f1ed495c04a3e5</hash>
+			<size>65681825</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>4685187b2fceb9e4d3946ae7fffb5fe6</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,BROADCAST_WAP_PUSH,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MODIFY_AUDIO_SETTINGS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALENDAR,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SMS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECEIVE_MMS,RECEIVE_SMS,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SEND_SMS,SET_WALLPAPER,USE_BIOMETRIC,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_PROFILE,WRITE_SMS,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -638,12 +783,17 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 	</application>
 	<application id="org.torproject.torbrowser">
 		<id>org.torproject.torbrowser</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Tor Browser</name>
 		<summary>Experience real private browsing without tracking, surveillance, or censorship.</summary>
 		<icon>org.torproject.torbrowser.2015808075.png</icon>
-		<desc>&lt;p&gt;Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world’s strongest tool for privacy and freedom online.&lt;/p&gt;&lt;p&gt;BLOCK TRACKERS Tor Browser isolates each website you visit so third-party trackers and ads can’t follow you. Any cookies automatically clear when you’re done browsing.&lt;/p&gt;</desc>
+		<desc>Tor Browser for Android is the only official mobile browser supported by
+the Tor Project, developers of the world’s strongest tool for privacy and freedom online.
+
+BLOCK TRACKERS
+Tor Browser isolates each website you visit so third-party trackers and ads can’t follow you.
+Any cookies automatically clear when you’re done browsing.</desc>
 		<license>MPL</license>
 		<categories>Security,Internet,Default</categories>
 		<category>Security</category>
@@ -664,7 +814,7 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 			<size>81749434</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>31e36334f34e126a0e0d1efd29b84fb2</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<uses-permission maxSdkVersion="26" name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
@@ -673,13 +823,24 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 	</application>
 	<application id="org.secuso.privacyfriendlyweather">
 		<id>org.secuso.privacyfriendlyweather</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Weather</name>
-		<summary>Get weather information and forecast
-</summary>
-		<icon>org.secuso.privacyfriendlyweather.11.png</icon>
-		<desc>&lt;p&gt;Lets you watch the weather for cities and locations. This includes the current weather as well as a 5 day / 3 hour forecast. Furthermore, Privacy Friendly Weather provides a radius search. This makes it possible to find the locations around a given location which have the best weather conditions at the moment.&lt;/p&gt;&lt;p&gt;Weather data is provided by &amp;lt;a href=&quot;http://openweathermap.org/&quot;&amp;gt;Open Weather Map&amp;lt;/a&amp;gt;.&lt;/p&gt;&lt;p&gt;The app belongs to the group of Privacy Friendly Apps developed at the &amp;lt;a href=&quot;https://secuso.org/&quot;&amp;gt;SECUSO research group&amp;lt;/a&amp;gt; of Technische Universitaet Darmstadt. It does not require any permission and relinquishes advertisement and tracking mechanisms.&lt;/p&gt;&lt;p&gt;&lt;i&gt;NonFreeNet:&lt;/i&gt; OpenWeatherMap service itself is not open source.&lt;/p&gt;</desc>
+		<summary>Get weather information and forecast</summary>
+		<icon>org.secuso.privacyfriendlyweather.13.png</icon>
+		<desc>Lets you watch the weather for cities and locations. This includes the current
+weather as well as a 5 day / 3 hour forecast. Furthermore, Privacy Friendly
+Weather provides a radius search. This makes it possible to find the locations
+around a given location which have the best weather conditions at the moment.
+
+Weather data is provided by &lt;a href=&quot;http://openweathermap.org/&quot;&gt;Open Weather Map&lt;/a&gt;.
+
+The app belongs to the group of Privacy Friendly Apps developed at the
+&lt;a href=&quot;https://secuso.org/&quot;&gt;SECUSO research group&lt;/a&gt; of Technische Universitaet
+Darmstadt. It does not require any permission and relinquishes advertisement and
+tracking mechanisms.
+
+''NonFreeNet:'' OpenWeatherMap service itself is not open source.</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Multimedia,Internet,Default</categories>
 		<category>Multimedia</category>
@@ -690,30 +851,38 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 		<author>SECUSO - Security Usability Society</author>
 		<email>contact@secuso.org</email>
 		<marketversion></marketversion>
-		<marketvercode>11</marketvercode>
+		<marketvercode>13</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
-			<version>2.4.2</version>
-			<versioncode>11</versioncode>
+			<version>3.0.1</version>
+			<versioncode>13</versioncode>
 			<apkname>Weather.apk</apkname>
-			<hash type="sha256">27e9fa781cff5381278ae46a2c99322b2b9732dd360551f696281f63022c68dd</hash>
-			<size>12600483</size>
+			<hash type="sha256">d2704fd0916d020c0824093aa0f3caa85a3f194760b5f8dd05fccc6f3807fedf</hash>
+			<size>13752681</size>
 			<sdkver>17</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>10b7b827ba94eb45da3218e3456cdd7a</sig>
-			<permissions>INTERNET,WAKE_LOCK</permissions>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
 		</package>
 	</application>
 	<application id="com.yubico.yubioath">
 		<id>com.yubico.yubioath</id>
-		<added>2021-05-12</added>
-		<lastupdated>2021-05-12</lastupdated>
+		<added>2021-06-08</added>
+		<lastupdated>2021-06-08</lastupdated>
 		<name>Yubico Authenticator</name>
-		<summary>Generate OATH codes with YubiKey NEO over NFC
-</summary>
+		<summary>Generate OATH codes with YubiKey NEO over NFC</summary>
 		<icon>com.yubico.yubioath.20199.png</icon>
-		<desc>&lt;p&gt;Generate One-Time Passwords (OTPs) using a YubiKey NEO hardware, connected using NFC. It generates codes that are compatible with Google two-step verification, and can be used with any other site that supports OATH HOTP/TOTP.&lt;/p&gt;&lt;p&gt;There are two apps for YubiKey NEO and OATH: YubiTOTP and YubiOATH. They work differently, and both are supported, but to get the most features and best user experience we recommend use of YubiOATH. The YubiTOTP app works with all YubiKey NEOs, however it is more limited than the YubiOATH app. The YubiOATH app requires that the (free software) ykneo-oath applet has been loaded on to the YubiKey NEO. The YubiTOTP app is still maintained for backwards compatibility.&lt;/p&gt;</desc>
+		<desc>Generate One-Time Passwords (OTPs) using a YubiKey NEO hardware, connected using
+NFC. It generates codes that are compatible with Google two-step verification,
+and can be used with any other site that supports OATH HOTP/TOTP.
+
+There are two apps for YubiKey NEO and OATH: YubiTOTP and YubiOATH. They work
+differently, and both are supported, but to get the most features and best user
+experience we recommend use of YubiOATH. The YubiTOTP app works with all YubiKey
+NEOs, however it is more limited than the YubiOATH app. The YubiOATH app
+requires that the (free software) ykneo-oath applet has been loaded on to the
+YubiKey NEO. The YubiTOTP app is still maintained for backwards compatibility.</desc>
 		<license>BSD-2-Clause</license>
 		<categories>Connectivity,Default</categories>
 		<category>Connectivity</category>
@@ -730,7 +899,7 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 			<size>2659129</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-05-12</added>
+			<added>2021-06-08</added>
 			<sig>79cdf8d8669c903673109e3b2d94cee5</sig>
 			<permissions>CAMERA,NFC</permissions>
 		</package>
