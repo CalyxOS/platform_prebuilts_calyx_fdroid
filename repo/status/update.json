@@ -18,9 +18,10 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1623125267340,
+  "endTimestamp": 1623208774313,
   "failedBuilds": {},
   "noPackages": [
+    "app.organicmaps",
     "at.bitfire.davdroid",
     "com.artifex.mupdf.viewer.app",
     "com.aurora.store",
@@ -44,6 +45,6 @@
     "org.torproject.torbrowser",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1623125212000,
+  "startTimestamp": 1623208716000,
   "subcommand": "update"
 }
