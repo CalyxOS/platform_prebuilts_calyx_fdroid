@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8f2bdd04_a13aae6a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-06-11T18:21:50Z",
+      "side": 1,
+      "message": "Will also need vendor/calyx/scripts/fdroid-repo.sh update",
+      "revId": "e5f18377d21740d51caef0a7b9981878b1946c73",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
