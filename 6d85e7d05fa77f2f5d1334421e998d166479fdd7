@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6078194d_500e28a4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-07-01T14:32:08Z",
+      "side": 1,
+      "message": "Just for testing, isn\u0027t signed with the right keys.",
+      "revId": "6d85e7d05fa77f2f5d1334421e998d166479fdd7",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
