@@ -18,7 +18,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1623208774313,
+  "endTimestamp": 1625630837115,
   "failedBuilds": {},
   "noPackages": [
     "app.organicmaps",
@@ -45,6 +45,6 @@
     "org.torproject.torbrowser",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1623208716000,
+  "startTimestamp": 1625630772000,
   "subcommand": "update"
 }
