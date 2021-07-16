@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a0e03e6f_92ed1531",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-07-16T13:00:34Z",
+      "side": 1,
+      "message": "This can be further discussed in https://gitlab.com/CalyxOS/calyxos/-/issues/578",
+      "parentUuid": "b3cb0976_7efc8339",
+      "revId": "ca4a4cc5ef2d1139f2f59991a3937099073d6328",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "bb6ab2d7_17d9212e",
@@ -31,6 +49,24 @@
       "writtenOn": "2021-07-16T02:26:21Z",
       "side": 1,
       "message": "Build system does not like this.",
+      "revId": "ca4a4cc5ef2d1139f2f59991a3937099073d6328",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c7b9e26d_564ece9e",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-07-16T13:00:34Z",
+      "side": 1,
+      "message": "4520: [TEMPORARY] Use patched fdroidserver | https://review.calyxos.org/c/CalyxOS/calyxos-fdroid-repo/+/4520 makes this work again.",
+      "parentUuid": "bb6ab2d7_17d9212e",
       "revId": "ca4a4cc5ef2d1139f2f59991a3937099073d6328",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
