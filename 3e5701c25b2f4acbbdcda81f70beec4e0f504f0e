@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e2589231_dda13cec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-07-16T13:05:55Z",
+      "side": 1,
+      "message": "This does work with 4526: FDroidRepo: Support localized icons | https://review.calyxos.org/c/CalyxOS/platform_packages_apps_SetupWizard/+/4526\n\nWill be merged after another update right before we build.",
+      "revId": "3e5701c25b2f4acbbdcda81f70beec4e0f504f0e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
