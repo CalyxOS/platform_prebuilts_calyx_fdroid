@@ -14,12 +14,20 @@
     }
   },
   "commandLine": [
-    "/usr/bin/fdroid update",
+    "../fdroidserver/fdroid update",
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1625693782881,
+  "endTimestamp": 1626439829180,
   "failedBuilds": {},
+  "fdroidserver": {
+    "commitId": "fa186c40c4c2cb146cabf0abe763eb6583859d4c",
+    "isDirty": true,
+    "modifiedFiles": [
+      "fdroidserver/update.py"
+    ],
+    "untrackedFiles": []
+  },
   "noPackages": [
     "app.organicmaps",
     "at.bitfire.davdroid",
@@ -27,12 +35,9 @@
     "com.aurora.store",
     "com.duckduckgo.mobile.android",
     "com.fsck.k9",
-    "com.github.axet.maps",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
     "com.yubico.yubioath",
-    "eu.siacs.conversations.voicerecorder",
-    "eu.siacs.conversations",
     "info.guardianproject.locationprivacy",
     "org.briarproject.briar.android",
     "org.calyxinstitute.vpn",
@@ -45,6 +50,6 @@
     "org.torproject.torbrowser",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1625693715000,
+  "startTimestamp": 1626439766000,
   "subcommand": "update"
 }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1625693779" url="file:///product/fdroid/repo/" version="20000">
+	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1626439826" url="file:///product/fdroid/repo/" version="20000">
 		<description>
 This is a repository of apps to be used with CalyxOS. It is installed
 to the system partition, and meant to be used to initially install
@@ -10,8 +10,8 @@ suitable for inclusion with CalyxOS.
 	</repo>
 	<application id="com.aurora.store">
 		<id>com.aurora.store</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Aurora Store</name>
 		<summary>A Google Playstore Client</summary>
 		<icon>com.aurora.store.38.png</icon>
@@ -41,15 +41,15 @@ get details about in-app trackers, spoof your location and much more.</desc>
 			<size>5849772</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>6b9ac7fa32e48b1b97796cc2f0ffd1cb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,DELETE_PACKAGES,FOREGROUND_SERVICE,INSTALL_PACKAGES,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.briarproject.briar.android">
 		<id>org.briarproject.briar.android</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Briar</name>
 		<summary>Secure Messaging, Anywhere</summary>
 		<icon>org.briarproject.briar.android.10305.png</icon>
@@ -80,7 +80,7 @@ Tor network, protecting users and their relationships from surveillance.</desc>
 			<size>31522671</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>c47c736234483df29c95f62bc7bf0333</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -90,8 +90,8 @@ Tor network, protecting users and their relationships from surveillance.</desc>
 	</application>
 	<application id="org.calyxinstitute.vpn">
 		<id>org.calyxinstitute.vpn</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Calyx VPN</name>
 		<summary>Free VPN Service offered by The Calyx Institute</summary>
 		<icon>org.calyxinstitute.vpn.149.png</icon>
@@ -121,7 +121,7 @@ servers, CalyxVPN is able to prevent many forms of censorship and surveillance.<
 			<size>15952548</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>be23b05d2c9ba3c652d579c1fbd6bf72</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -129,46 +129,10 @@ servers, CalyxVPN is able to prevent many forms of censorship and surveillance.<
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
-	<application id="eu.siacs.conversations">
-		<id>eu.siacs.conversations</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
-		<name>Conversations</name>
-		<summary>An encrypted, user friendly XMPP instant messaging client optimized for mobile</summary>
-		<icon>eu.siacs.conversations.42015.png</icon>
-		<desc>No description available</desc>
-		<license>GPL-3.0-only</license>
-		<categories>Internet,Default</categories>
-		<category>Internet</category>
-		<web>https://conversations.im/</web>
-		<source>https://github.com/iNPUTmice/Conversations</source>
-		<tracker>https://github.com/iNPUTmice/Conversations/issues</tracker>
-		<changelog>https://github.com/iNPUTmice/Conversations/blob/HEAD/CHANGELOG.md</changelog>
-		<author>Daniel Gultsch</author>
-		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CW3SYT3KG5PDL</donate>
-		<bitcoin>3KAD8vew6tPZDjiUJNnZ3YUoUxrCEVNwFL</bitcoin>
-		<liberapay>34225</liberapay>
-		<marketversion></marketversion>
-		<marketvercode>42015</marketvercode>
-		<package>
-			<version>2.9.13+fcr</version>
-			<versioncode>42015</versioncode>
-			<apkname>Conversations.apk</apkname>
-			<hash type="sha256">3e10334bdb81cb62dd97ae060343c2ce657ca036c8cd3be23eba266ec191ba37</hash>
-			<size>33494711</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
-			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,CAMERA,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_PROFILE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
-			<uses-permission maxSdkVersion="22" name="android.permission.READ_PHONE_STATE"/>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
-	</application>
 	<application id="at.bitfire.davdroid">
 		<id>at.bitfire.davdroid</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>DAVx⁵</name>
 		<summary>CalDAV/CardDAV Synchronization and Client</summary>
 		<desc>DAVx⁵ is a CalDAV/CardDAV management and synchronization app for Android which natively integrates with Android calendar/contact apps.
@@ -198,7 +162,7 @@ For more information and a list of tested servers/services, have a look at the W
 			<size>10238398</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>03542175324d067b4c36582242f8aecc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_CALENDAR,READ_CONTACTS,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_SYNC_SETTINGS,org.dmfs.permission.READ_TASKS,org.dmfs.permission.WRITE_TASKS,org.tasks.permission.READ_TASKS,org.tasks.permission.WRITE_TASKS</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.AUTHENTICATE_ACCOUNTS"/>
@@ -209,11 +173,11 @@ For more information and a list of tested servers/services, have a look at the W
 	</application>
 	<application id="com.duckduckgo.mobile.android">
 		<id>com.duckduckgo.mobile.android</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>DuckDuckGo Privacy Browser</name>
 		<summary>Privacy, simplified</summary>
-		<icon>com.duckduckgo.mobile.android.58800.png</icon>
+		<icon>com.duckduckgo.mobile.android.58901.png</icon>
 		<desc>At DuckDuckGo, we believe the Internet shouldn’t feel so creepy, and getting the
 privacy you deserve online should be as simple as closing the blinds.
 
@@ -257,17 +221,17 @@ source code is not available.</desc>
 		<author>DuckDuckGo</author>
 		<email>android@duckduckgo.com</email>
 		<marketversion></marketversion>
-		<marketvercode>58800</marketvercode>
+		<marketvercode>58901</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
-			<version>5.88.0</version>
-			<versioncode>58800</versioncode>
+			<version>5.89.1</version>
+			<versioncode>58901</versioncode>
 			<apkname>DuckDuckGoPrivacyBrowser.apk</apkname>
-			<hash type="sha256">8f3d82e864c166c7545a8bb573c044c933861123c1d3ccaf9895b2fbf998a545</hash>
-			<size>12716949</size>
+			<hash type="sha256">d85f58a427b7ae2fe32d738d6f7f9f5dd32a3bda49d5559f6da73461a1d573ba</hash>
+			<size>12790701</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>e564ffbbc910f359b0eca66be3cc4d52</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -275,10 +239,11 @@ source code is not available.</desc>
 	</application>
 	<application id="com.fsck.k9">
 		<id>com.fsck.k9</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>K-9 Mail</name>
 		<summary>Full-featured email client</summary>
+		<icon>com.fsck.k9.27039.xml</icon>
 		<desc>E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do
 OpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings
 and account configurations can be exported so that they can be imported easily
@@ -293,24 +258,24 @@ installed to achieve this.</desc>
 		<changelog>https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml</changelog>
 		<liberapay>34990</liberapay>
 		<marketversion></marketversion>
-		<marketvercode>27037</marketvercode>
+		<marketvercode>27039</marketvercode>
 		<package>
-			<version>5.737</version>
-			<versioncode>27037</versioncode>
+			<version>5.739</version>
+			<versioncode>27039</versioncode>
 			<apkname>K-9Mail.apk</apkname>
-			<hash type="sha256">6625980d39113bd81a26dd9238c0c695cfdc49b6301f0208e83ec7bbc8b1b295</hash>
-			<size>7391164</size>
+			<hash type="sha256">1a90fb76fc48bdbd936d39f0203e76c31e13e2a3bbc917a3b1b6035ddc069656</hash>
+			<size>7411728</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>4cc8dc4af011320a78e2cae3b5a1fc31</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,com.fsck.k9.permission.DELETE_MESSAGES,com.fsck.k9.permission.READ_MESSAGES</permissions>
 		</package>
 	</application>
 	<application id="info.guardianproject.locationprivacy">
 		<id>info.guardianproject.locationprivacy</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>LocationPrivacy</name>
 		<summary>privacy filters for shared location links</summary>
 		<icon>info.guardianproject.locationprivacy.31.png</icon>
@@ -335,15 +300,15 @@ installed to achieve this.</desc>
 			<size>1421922</size>
 			<sdkver>10</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
 			<permissions>INTERNET</permissions>
 		</package>
 	</application>
 	<application id="com.artifex.mupdf.viewer.app">
 		<id>com.artifex.mupdf.viewer.app</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>MuPDF viewer</name>
 		<summary>Lightweight document viewer</summary>
 		<icon>com.artifex.mupdf.viewer.app.90.png</icon>
@@ -367,7 +332,7 @@ documents.</desc>
 			<size>12008738</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>5f189df9c7482a659154c71fa1c0a45f</sig>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -375,11 +340,10 @@ documents.</desc>
 	</application>
 	<application id="com.nextcloud.client">
 		<id>com.nextcloud.client</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Nextcloud</name>
 		<summary>Synchronization client</summary>
-		<icon>com.nextcloud.client.30160190.png</icon>
 		<desc>A safe home for all your data. Access &amp; share your files, calendars, contacts,
 mail &amp; more from any device, on your terms. This is the official Android app.
 
@@ -400,16 +364,16 @@ mail &amp; more from any device, on your terms. This is the official Android app
 		<changelog>https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md</changelog>
 		<donate>https://nextcloud.com/include/</donate>
 		<marketversion></marketversion>
-		<marketvercode>30160190</marketvercode>
+		<marketvercode>30170051</marketvercode>
 		<package>
-			<version>3.16.1</version>
-			<versioncode>30160190</versioncode>
+			<version>3.17.0 RC1</version>
+			<versioncode>30170051</versioncode>
 			<apkname>Nextcloud.apk</apkname>
-			<hash type="sha256">cab8dcdfb06a985e61fcf5311ffbeef6d64da6f73be2a720b6e75c592fc99d4a</hash>
-			<size>19961481</size>
-			<sdkver>21</sdkver>
+			<hash type="sha256">ab5f5b2b5401e6a65af5ec8e79193d5bf9018480295c30d52fd6f6793347e5c0</hash>
+			<size>22067941</size>
+			<sdkver>22</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>0f8ca80a9abcc3452f65222ed09819a9</sig>
 			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CAMERA,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,NFC,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_CREDENTIALS,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.AUTHENTICATE_ACCOUNTS"/>
@@ -421,8 +385,8 @@ mail &amp; more from any device, on your terms. This is the official Android app
 	</application>
 	<application id="org.openobservatory.ooniprobe">
 		<id>org.openobservatory.ooniprobe</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>OONI Probe</name>
 		<summary>Open Observatory of Network Interference (OONI)</summary>
 		<desc>Are websites and social media apps blocked? Is your network unusually slow?
@@ -500,7 +464,7 @@ access to your computer, and to anyone who can monitor your Internet connection
 			<size>60351429</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>a1d02df38f28bbe3af69161786e1d39b</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,org.openobservatory.ooniprobe.permission.C2D_MESSAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -508,8 +472,8 @@ access to your computer, and to anyone who can monitor your Internet connection
 	</application>
 	<application id="org.sufficientlysecure.keychain">
 		<id>org.sufficientlysecure.keychain</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>OpenKeychain</name>
 		<summary>Encrypt your Files and Communications. Compatible with the OpenPGP Standard.</summary>
 		<icon>org.sufficientlysecure.keychain.57500.png</icon>
@@ -534,15 +498,15 @@ access to your computer, and to anyone who can monitor your Internet connection
 			<size>10073931</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>19c18c4bdc8adbcd2df4bbcd2c24fb1d</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,FOREGROUND_SERVICE,INTERNET,NFC,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
 		</package>
 	</application>
 	<application id="org.dmfs.tasks">
 		<id>org.dmfs.tasks</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>OpenTasks</name>
 		<summary>Keep track of your list of goals</summary>
 		<icon>org.dmfs.tasks.82200.png</icon>
@@ -570,7 +534,7 @@ https://f-droid.org/packages/at.bitfire.davdroid and https://f-droid.org/package
 			<size>3685910</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>fa93bb60dd4605fa49196de3c06ba7e7</sig>
 			<permissions>GET_ACCOUNTS,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,com.android.alarm.permission.SET_ALARM,org.dmfs.permission.READ_TASKS,org.dmfs.permission.WRITE_TASKS</permissions>
 			<uses-permission maxSdkVersion="25" name="android.permission.GET_ACCOUNTS"/>
@@ -578,8 +542,8 @@ https://f-droid.org/packages/at.bitfire.davdroid and https://f-droid.org/package
 	</application>
 	<application id="org.torproject.android">
 		<id>org.torproject.android</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Orbot</name>
 		<summary>Enhance your privacy, break through firewalls and communicate more safely.</summary>
 		<desc>Tor is both software and an open network that helps you defend against network
@@ -618,7 +582,7 @@ available from the Mozilla addon site).
 			<size>63052394</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>8bd7e51b479aeba908ff46ada3305a29</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -628,11 +592,11 @@ available from the Mozilla addon site).
 	</application>
 	<application id="app.organicmaps">
 		<id>app.organicmaps</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Organic Maps</name>
 		<summary>Offline maps with turn-by-turn navigation</summary>
-		<icon>app.organicmaps.21062309.png</icon>
+		<icon>app.organicmaps.21070806.png</icon>
 		<desc>Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.
 
 * Detailed offline maps with places that don't exist on other maps
@@ -649,26 +613,26 @@ available from the Mozilla addon site).
 		<source>https://github.com/organicmaps/organicmaps/tree/HEAD</source>
 		<tracker>https://github.com/organicmaps/organicmaps/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>21062309</marketvercode>
+		<marketvercode>21070806</marketvercode>
 		<package>
-			<version>2021.06.23-9-gc3f05a1646-FDroid</version>
-			<versioncode>21062309</versioncode>
+			<version>2021.07.08-6-g73931f7918-FDroid</version>
+			<versioncode>21070806</versioncode>
 			<apkname>OrganicMaps.apk</apkname>
-			<hash type="sha256">c3091353bcc7e61d250abeb5808d9a2ccfaf25c5abff40ead0120e688f862953</hash>
-			<size>70112894</size>
+			<hash type="sha256">f19c0cd52f894707ec8012ed42da0fe63d5663167a9b77d625c56795874e14a0</hash>
+			<size>69629566</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>472167dd9f46ae80fec5f3a3e8f47a81</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,BATTERY_STATS,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,BATTERY_STATS,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="se.leap.riseupvpn">
 		<id>se.leap.riseupvpn</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Riseup VPN</name>
 		<summary>Secure VPN powered by Bitmask</summary>
 		<icon>se.leap.riseupvpn.155.png</icon>
@@ -699,7 +663,7 @@ servers, RiseupVPN is able to prevent many forms of censorship and surveillance.
 			<size>16994962</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>93382ad36b0a32133bb7790999ec1107</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -709,8 +673,8 @@ servers, RiseupVPN is able to prevent many forms of censorship and surveillance.
 	</application>
 	<application id="com.jarsilio.android.scrambledeggsif">
 		<id>com.jarsilio.android.scrambledeggsif</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Scrambled Exif</name>
 		<summary>Remove the metadata from your pictures before sharing them</summary>
 		<icon>com.jarsilio.android.scrambledeggsif.67.png</icon>
@@ -770,18 +734,18 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 			<size>4703097</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>e6590e61cbe069a1d900172fa99a1707</sig>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.thoughtcrime.securesms">
 		<id>org.thoughtcrime.securesms</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Signal</name>
 		<summary>Signal Private Messenger</summary>
-		<icon>org.thoughtcrime.securesms.87300.png</icon>
+		<icon>org.thoughtcrime.securesms.87700.png</icon>
 		<desc>Privacy is possible. Signal makes it easy.
 
 Using Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.
@@ -804,16 +768,16 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 		<source>https://github.com/signalapp/Signal-Android</source>
 		<tracker>https://support.signal.org/</tracker>
 		<marketversion></marketversion>
-		<marketvercode>87300</marketvercode>
+		<marketvercode>87700</marketvercode>
 		<package>
-			<version>5.15.6</version>
-			<versioncode>87300</versioncode>
+			<version>5.16.3</version>
+			<versioncode>87700</versioncode>
 			<apkname>Signal.apk</apkname>
-			<hash type="sha256">539856e204c50de23e10fb9ec5d272644736b0efde53c8411e074e9cb3df6340</hash>
-			<size>66380291</size>
+			<hash type="sha256">2329689104ae8b1db527a993225f388ba746a11b8fe65d91b77f04565eaefbc1</hash>
+			<size>66216316</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>4685187b2fceb9e4d3946ae7fffb5fe6</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,BROADCAST_WAP_PUSH,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MODIFY_AUDIO_SETTINGS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALENDAR,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SMS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECEIVE_MMS,RECEIVE_SMS,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SEND_SMS,SET_WALLPAPER,USE_BIOMETRIC,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_PROFILE,WRITE_SMS,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -822,8 +786,8 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 	</application>
 	<application id="org.torproject.torbrowser">
 		<id>org.torproject.torbrowser</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Tor Browser</name>
 		<summary>Experience real private browsing without tracking, surveillance, or censorship.</summary>
 		<icon>org.torproject.torbrowser.2015808091.png</icon>
@@ -853,7 +817,7 @@ Any cookies automatically clear when you’re done browsing.</desc>
 			<size>81958476</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>31e36334f34e126a0e0d1efd29b84fb2</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<uses-permission maxSdkVersion="26" name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
@@ -862,8 +826,8 @@ Any cookies automatically clear when you’re done browsing.</desc>
 	</application>
 	<application id="org.secuso.privacyfriendlyweather">
 		<id>org.secuso.privacyfriendlyweather</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Weather</name>
 		<summary>Get weather information and forecast</summary>
 		<icon>org.secuso.privacyfriendlyweather.14.png</icon>
@@ -900,15 +864,15 @@ tracking mechanisms.
 			<size>13756777</size>
 			<sdkver>17</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>10b7b827ba94eb45da3218e3456cdd7a</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
 		</package>
 	</application>
 	<application id="com.yubico.yubioath">
 		<id>com.yubico.yubioath</id>
-		<added>2021-07-07</added>
-		<lastupdated>2021-07-07</lastupdated>
+		<added>2021-07-16</added>
+		<lastupdated>2021-07-16</lastupdated>
 		<name>Yubico Authenticator</name>
 		<summary>Generate OATH codes with YubiKey NEO over NFC</summary>
 		<icon>com.yubico.yubioath.20199.png</icon>
@@ -938,7 +902,7 @@ YubiKey NEO. The YubiTOTP app is still maintained for backwards compatibility.</
 			<size>2659129</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-07-07</added>
+			<added>2021-07-16</added>
 			<sig>79cdf8d8669c903673109e3b2d94cee5</sig>
 			<permissions>CAMERA,NFC</permissions>
 		</package>

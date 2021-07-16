@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1625693779000,
+    "timestamp": 1626439826000,
     "version": 20000,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -31,10 +31,10 @@
       "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
       "translation": "https://poeditor.com/join/project/54swaCpFXJ",
       "webSite": "http://auroraoss.com",
-      "added": 1625693717000,
+      "added": 1626439768000,
       "icon": "com.aurora.store.38.png",
       "packageName": "com.aurora.store",
-      "lastUpdated": 1625693717000,
+      "lastUpdated": 1626439768000,
       "localized": {
         "de": {
           "summary": "Ein Google Playstore-Client"
@@ -43,6 +43,7 @@
           "summary": "\u0388\u03bd\u03b1 \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1-\u03c0\u03b5\u03bb\u03ac\u03c4\u03b7\u03c2 \u03c4\u03bf\u03c5 Google Playstore"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "Aurora Store",
           "summary": "A Google Playstore Client"
         },
@@ -124,15 +125,16 @@
       "sourceCode": "https://code.briarproject.org/briar/briar",
       "translation": "https://www.transifex.com/otf/briar/",
       "webSite": "https://briarproject.org/",
-      "added": 1625693720000,
+      "added": 1626439771000,
       "icon": "org.briarproject.briar.android.10305.png",
       "packageName": "org.briarproject.briar.android",
-      "lastUpdated": 1625693720000,
+      "lastUpdated": 1626439771000,
       "localized": {
         "de": {
           "summary": "Soziales Netzwerk im Darknet"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "Briar",
           "summary": "Secure Messaging, Anywhere"
         },
@@ -205,15 +207,16 @@
       "sourceCode": "https://gitlab.com/calyxos/bitmask_android",
       "translation": "https://www.transifex.com/otf/bitmask-android/",
       "webSite": "https://calyx.net",
-      "added": 1625693722000,
+      "added": 1626439773000,
       "icon": "org.calyxinstitute.vpn.149.png",
       "packageName": "org.calyxinstitute.vpn",
-      "lastUpdated": 1625693722000,
+      "lastUpdated": 1626439773000,
       "localized": {
         "de": {
           "summary": "Kostenloser VPN-Dienst von The Calyx Institute"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "Calyx VPN",
           "summary": "Free VPN Service offered by The Calyx Institute"
         },
@@ -265,147 +268,6 @@
       }
     },
     {
-      "authorName": "Daniel Gultsch",
-      "bitcoin": "3KAD8vew6tPZDjiUJNnZ3YUoUxrCEVNwFL",
-      "categories": [
-        "Internet",
-        "Default"
-      ],
-      "changelog": "https://github.com/iNPUTmice/Conversations/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "42015",
-      "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CW3SYT3KG5PDL",
-      "issueTracker": "https://github.com/iNPUTmice/Conversations/issues",
-      "liberapayID": "34225",
-      "license": "GPL-3.0-only",
-      "sourceCode": "https://github.com/iNPUTmice/Conversations",
-      "translation": "https://www.transifex.com/siacs/conversations/",
-      "webSite": "https://conversations.im/",
-      "added": 1625693726000,
-      "icon": "eu.siacs.conversations.42015.png",
-      "packageName": "eu.siacs.conversations",
-      "lastUpdated": 1625693726000,
-      "localized": {
-        "af": {
-          "summary": "'N ge\u00efnkripteer, use XMPP kitsboodskap kli\u00ebnt geskik vir mobiele"
-        },
-        "am": {
-          "summary": "\u1208\u1270\u1295\u1240\u1233\u1243\u123d \u1235\u120d\u12ad \u12e8\u1270\u1218\u127b\u1278 \u12a2\u1295\u12ad\u122a\u1355\u1275, \u1270\u1320\u1243\u121a \u1270\u1235\u121b\u121a \u12e8 XMPP \u12e8\u1348\u1323\u1295 \u1218\u120d\u12a5\u12ad\u1275 \u12f0\u1295\u1260\u129b"
-        },
-        "ar": {
-          "summary": "\u0645\u0634\u0641\u0631\u060c \u0648\u0633\u0647\u0644 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 XMPP \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0627\u0644\u0641\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0623\u0645\u062b\u0644 \u0644\u0644\u062c\u0648\u0627\u0644"
-        },
-        "bg": {
-          "summary": "\u0428\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0430, \u0443\u0434\u043e\u0431\u0435\u043d \u0437\u0430 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044f XMPP \u043a\u043b\u0438\u0435\u043d\u0442 \u0437\u0430 \u043d\u0435\u0437\u0430\u0431\u0430\u0432\u043d\u0438 \u0441\u044a\u043e\u0431\u0449\u0435\u043d\u0438\u044f, \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0438\u0440\u0430\u043d"
-        },
-        "ca": {
-          "summary": "Client de missatgeria XMPP f\u00e0cil d'usar i amb encriptaci\u00f3, per a m\u00f2bils"
-        },
-        "cs": {
-          "summary": "Za\u0161ifrovan\u00e9, u\u017eivatelsky p\u0159\u00edv\u011btiv\u00fd XMPP instant messaging klient optimalizovan\u00fd "
-        },
-        "da": {
-          "summary": "En krypteret, brugervenlig XMPP instant messaging-klient optimeret til mobil"
-        },
-        "de": {
-          "summary": "Verschl\u00fcsselter, benutzerfreundlicher XMPP-Messaging-Client f\u00fcr Mobilger\u00e4te"
-        },
-        "el": {
-          "summary": "\u039c\u03af\u03b1 \u03ba\u03c1\u03c5\u03c0\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03b7\u03bc\u03ad\u03bd\u03b7, \u03c6\u03b9\u03bb\u03b9\u03ba\u03cc \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7 XMPP \u03ac\u03bc\u03b5\u03c3\u03c9\u03bd \u03bc\u03b7\u03bd\u03c5\u03bc\u03ac\u03c4\u03c9\u03bd \u03c0\u03b5\u03bb\u03ac\u03c4\u03b7 \u03b2\u03b5\u03bb\u03c4\u03b9\u03c3\u03c4\u03bf"
-        },
-        "en-US": {
-          "name": "Conversations",
-          "summary": "An encrypted, user friendly XMPP instant messaging client optimized for mobile"
-        },
-        "es": {
-          "summary": "Un cifrado, f\u00e1cil de usar XMPP cliente de mensajer\u00eda instant\u00e1nea optimizada para"
-        },
-        "et": {
-          "summary": "Kr\u00fcpteeritud, kasutajas\u00f5bralik XMPP kiirsuhtluskliendile optimeeritud mobiil"
-        },
-        "eu": {
-          "summary": "Mugikorrerako XMPP bat bateko mezularitza bezero erabilerraza eta zifratua"
-        },
-        "fi": {
-          "summary": "Salattu, k\u00e4ytt\u00e4j\u00e4yst\u00e4v\u00e4llinen XMPP pikaviestiohjelma optimoitu mobiililaitteille"
-        },
-        "fr": {
-          "summary": "Un client de messagerie instantan\u00e9e XMPP crypt\u00e9, convivial pour mobile"
-        },
-        "hi": {
-          "summary": "\u092e\u094b\u092c\u093e\u0907\u0932 \u0915\u0947 \u0932\u093f\u090f \u0905\u0928\u0941\u0915\u0942\u0932\u093f\u0924 \u090f\u0915 \u090f\u0928\u094d\u0915\u094d\u0930\u093f\u092a\u094d\u091f\u0947\u0921, \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e \u0915\u0947 \u0905\u0928\u0941\u0915\u0942\u0932 XMPP \u0907\u0902\u0938\u094d\u091f\u0948\u0902\u091f \u092e\u0948\u0938\u0947\u091c"
-        },
-        "hr": {
-          "summary": "Kodiran, korisnik prijateljski XMPP instant messaging klijent optimizirana za mo"
-        },
-        "hu": {
-          "summary": "Egy titkos\u00edtott, felhaszn\u00e1l\u00f3bar\u00e1t XMPP azonnali \u00fczenetk\u00fcld\u0151 kliens mobilra"
-        },
-        "it": {
-          "summary": "Un client di messaggistica XMPP cifrata, facile da usare, ottimizzato per mobile"
-        },
-        "ja": {
-          "summary": "\u30e2\u30d0\u30a4\u30eb\u7528\u306b\u6700\u9069\u5316\u3055\u308c\u305f\u6697\u53f7\u5316\u3055\u308c\u305f\u3001\u30e6\u30fc\u30b6\u30fc\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306aXMPP\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30e1\u30c3\u30bb\u30fc\u30b8\u30f3\u30b0\u30af\u30e9\u30a4\u30a2\u30f3\u30c8"
-        },
-        "ko": {
-          "summary": "\ubaa8\ubc14\uc77c\uc5d0 \ub300\ud55c \ucd5c\uc801\ud654 \ub41c \uc554\ud638\ud654, \uc0ac\uc6a9\uc790 \uce5c\ud654\uc801 XMPP \uc778\uc2a4\ud134\ud2b8 \uba54\uc2dc\uc9d5 \ud074\ub77c\uc774\uc5b8\ud2b8"
-        },
-        "lt": {
-          "summary": "U\u017e\u0161ifruotas, patogi XMPP tiesiogini\u0173 prane\u0161im\u0173 kliento optimizuota mobiliesiems"
-        },
-        "lv": {
-          "summary": "\u0160ifr\u0113ta, lietot\u0101jam draudz\u012bga XMPP t\u016bl\u012bt\u0113j\u0101s zi\u0146apmai\u0146as klientam optimiz\u0113ta mob"
-        },
-        "nb": {
-          "summary": "Kryptert, brukervennlig XMPP-lynmeldingsklient optimisert for mobilbruk"
-        },
-        "nl": {
-          "summary": "Een gecodeerde, gebruiksvriendelijke XMPP instant messaging client geoptimalisee"
-        },
-        "no": {
-          "summary": "En kryptert, brukervennlig XMPP klient for direktemeldinger optimalisert for mob"
-        },
-        "pl": {
-          "summary": "Zaszyfrowany, przyjazny dla u\u017cytkownika klient XMPP zoptymalizowany dla urz\u0105dze\u0144"
-        },
-        "pt": {
-          "summary": "Um cliente criptografado, amig\u00e1vel de mensagens instant\u00e2neas XMPP para celular"
-        },
-        "pt-BR": {
-          "summary": "Um cliente de mensagens instant\u00e2neas XMPP criptografado, otimizada para celular"
-        },
-        "pt-PT": {
-          "summary": "Um cliente criptografado, amig\u00e1vel de mensagens instant\u00e2neas XMPP  para celular"
-        },
-        "ro": {
-          "summary": "Un client de mesagerie instant XMPP u\u0219or de utilizat \u0219i criptat"
-        },
-        "ru": {
-          "summary": "\u0423\u0434\u043e\u0431\u043d\u044b\u0439 \u043a\u043b\u0438\u0435\u043d\u0442 XMPP \u0441 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u043e\u0439 \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0434\u043b\u044f \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432"
-        },
-        "sk": {
-          "summary": "Za\u0161ifrovan\u00e9, u\u017e\u00edvate\u013esky pr\u00edvetiv\u00fd XMPP instant messaging klient optimalizovan\u00fd "
-        },
-        "sv": {
-          "summary": "En krypterad, anv\u00e4ndarv\u00e4nligt XMPP instant messaging-klient optimerad f\u00f6r mobil"
-        },
-        "th": {
-          "summary": "\u0e40\u0e02\u0e49\u0e32\u0e23\u0e2b\u0e31\u0e2a\u0e21\u0e34\u0e15\u0e23\u0e01\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e2a\u0e48\u0e07\u0e02\u0e49\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e42\u0e15\u0e49\u0e15\u0e2d\u0e1a\u0e41\u0e1a\u0e1a\u0e17\u0e31\u0e19\u0e17\u0e35 XMPP \u0e40\u0e2b\u0e21\u0e32\u0e30\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e42\u0e17\u0e23\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e21\u0e37\u0e2d"
-        },
-        "tr": {
-          "summary": "Mobil cihazlar i\u00e7in optimize edilmi\u015f bir \u015fifreli kullan\u0131c\u0131 dostu XMPP anl\u0131k mesa"
-        },
-        "uk": {
-          "summary": "\u0417\u0440\u0443\u0447\u043d\u0438\u0439 XMPP \u043a\u043b\u0456\u0454\u043d\u0442 \u043e\u0431\u043c\u0456\u043d\u0443 \u0437\u0430\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0438\u043c\u0438 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f\u043c\u0438 \u0434\u043b\u044f \u043c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0445 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0457\u0432"
-        },
-        "vi": {
-          "summary": "M\u1ed9t m\u00e3 h\u00f3a, ng\u01b0\u1eddi d\u00f9ng th\u00e2n thi\u1ec7n XMPP kh\u00e1ch h\u00e0ng nh\u1eafn tin t\u1ee9c th\u1eddi t\u1ed1i \u01b0u h\u00f3a c"
-        },
-        "zh-CN": {
-          "summary": "\u9488\u5bf9\u79fb\u52a8\u8bbe\u5907\u4f18\u5316\u7684\u52a0\u5bc6\u3001\u7528\u6237\u53cb\u597d\u7684 XMPP \u5373\u65f6\u6d88\u606f\u5ba2\u6237\u7aef"
-        }
-      }
-    },
-    {
       "authorName": "bitfire web engineering",
       "bitcoin": "bc1q0hvy0mknt9vce2f9hh829h72n3sht9llaltumk",
       "categories": [
@@ -421,9 +283,9 @@
       "sourceCode": "https://www.davx5.com/source",
       "translation": "https://www.transifex.com/bitfireAT/davx5/",
       "webSite": "https://www.davx5.com/",
-      "added": 1625693728000,
+      "added": 1626439775000,
       "packageName": "at.bitfire.davdroid",
-      "lastUpdated": 1625693728000,
+      "lastUpdated": 1626439775000,
       "localized": {
         "ar": {
           "description": "DAVx\u2075 \u0647\u0648 \u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0632\u0627\u0645\u0646\u0629 \u0644\u0622\u0646\u062f\u0631\u0648\u064a\u062f \u064a\u062a\u0643\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0646\u0638\u0627\u0645 \u0622\u0646\u062f\u0631\u0648\u064a\u062f.\n\n\u0627\u0633\u062a\u062e\u062f\u0645\u0647 \u0645\u0639 \u062e\u0627\u062f\u0645\u0643 \u0627\u0644\u062e\u0627\u0635 \u0623\u0648 \u0645\u0639 \u062c\u0647\u0629 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u062a\u062b\u0642 \u0628\u0647\u0627 \u0644\u0625\u0628\u0642\u0627\u0621 \u062c\u0647\u0627\u062a \u0627\u062a\u0635\u0627\u0644\u0643 \u0648 \u0623\u062d\u062f\u0627\u062b\u0643 \u0648 \u0645\u0647\u0627\u0645\u0643 \u062a\u062d\u062a \u0633\u064a\u0637\u0631\u062a\u0643.\n\n\u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u062e\u0627\u062f\u0645\u0627\u062a/\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a \u062a\u062c\u0631\u0628\u062a\u0647\u0627 \u060c \u0648\u0644\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u060c \u0623\u0644\u0642 \u0646\u0638\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u064a\u0628.",
@@ -443,6 +305,7 @@
         },
         "en-US": {
           "description": "DAVx\u2075 is a CalDAV/CardDAV management and synchronization app for Android which natively integrates with Android calendar/contact apps.\n\nUse it with your own server or with a trusted hoster to keep your contacts, events and tasks under your control.\n\nFor more information and a list of tested servers/services, have a look at the Web site.\n",
+          "icon": "icon.png",
           "name": "DAVx\u2075",
           "summary": "CalDAV/CardDAV Synchronization and Client"
         },
@@ -508,17 +371,17 @@
         "Default"
       ],
       "changelog": "https://github.com/duckduckgo/Android/releases",
-      "suggestedVersionCode": "58800",
+      "suggestedVersionCode": "58901",
       "description": "At DuckDuckGo, we believe the Internet shouldn\u2019t feel so creepy, and getting the\nprivacy you deserve online should be as simple as closing the blinds.\n\nOur app provides the privacy essentials you need to seamlessly take control of\nyour personal information as you search and browse the web, no matter where the\nInternet takes you:\n\n* Escape Advertising Tracker Networks \u2014 Our Privacy Protection will block all the hidden third-party trackers we can find, exposing the major advertising networks tracking you over time, so that you can track who\u2019s trying to track you.\n* Increase Encryption Protection \u2014 We force sites to use an encrypted connection where available, protecting your data from prying eyes, like ISPs.\n* Search Privately \u2014 You share your most personal information with your search engine, like your financial, medical, and political questions. What you search for is your own business, which is why DuckDuckGo search doesn\u2019t track you. Ever.\n* Decode Privacy Policies \u2014 We\u2019ve partnered with Terms of Service Didn\u2019t Read to include their scores and labels of website terms of service and privacy policies, where available.\n\nAs you search and browse, the DuckDuckGo Privacy Browser shows you a Privacy\nGrade rating when you visit a website (A-F). This rating lets you see how\nprotected you are at a glance, dig into the details to see who we caught trying\nto track you, and learn how we enhanced the underlying site\u2019s privacy measures.\nThe Privacy Grade is scored automatically based on the prevalence of hidden\ntracker networks, encryption availability, and website privacy practices.\n\nOur app provides standard browsing functionality including tabs, bookmarks, and\nautocomplete. In addition to strong Privacy Protection as described above, we\nalso packed in some extra privacy features into the browser itself:\n\n* Fire Button \u2014 Clear all your tabs and data with one tap.\n* Application Lock \u2014 Secure the app with Touch ID or Face ID.\n\nToo many people believe you simply can\u2019t expect privacy on the Internet. We\u2019re\nfighting to change that, and have made it our mission to set a new standard of\ntrust online. Install DuckDuckGo and take back your privacy!\n\nAntifeatures:\n* NonFreeNet - Uses DuckDuckGo as the exclusive search engine, for which the\nsource code is not available.",
       "issueTracker": "https://github.com/duckduckgo/Android/issues",
       "license": "Apache-2.0",
       "name": "DuckDuckGo Privacy Browser",
       "sourceCode": "https://github.com/duckduckgo/Android",
       "webSite": "https://duckduckgo.com/app",
-      "added": 1625693730000,
-      "icon": "com.duckduckgo.mobile.android.58800.png",
+      "added": 1626439777000,
+      "icon": "com.duckduckgo.mobile.android.58901.png",
       "packageName": "com.duckduckgo.mobile.android",
-      "lastUpdated": 1625693730000,
+      "lastUpdated": 1626439777000,
       "localized": {
         "bn": {
           "summary": "\u0997\u09cb\u09aa\u09a8\u09c0\u09df\u09a4\u09be, \u09b8\u09b9\u099c\u0995\u09c3\u09a4"
@@ -527,6 +390,7 @@
           "summary": "Privatsph\u00e4re vereinfacht"
         },
         "en-US": {
+          "icon": "icon.png",
           "summary": "Privacy, simplified"
         },
         "eo": {
@@ -597,7 +461,7 @@
         "Default"
       ],
       "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
-      "suggestedVersionCode": "27037",
+      "suggestedVersionCode": "27039",
       "description": "E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do\nOpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings\nand account configurations can be exported so that they can be imported easily\nif you are switching packages/signatures: a file manager will need to be already\ninstalled to achieve this.",
       "issueTracker": "https://github.com/k9mail/k-9/issues",
       "liberapayID": "34990",
@@ -605,14 +469,16 @@
       "sourceCode": "https://github.com/k9mail/k-9",
       "translation": "https://www.transifex.com/projects/p/k9mail/",
       "webSite": "https://k9mail.app/",
-      "added": 1625693733000,
+      "added": 1626439780000,
+      "icon": "com.fsck.k9.27039.xml",
       "packageName": "com.fsck.k9",
-      "lastUpdated": 1625693733000,
+      "lastUpdated": 1626439780000,
       "localized": {
         "de": {
           "summary": "Voll ausgestatteter E-Mail-Client"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "K-9 Mail",
           "summary": "Full-featured email client"
         },
@@ -684,10 +550,10 @@
       "sourceCode": "https://github.com/guardianproject/LocationPrivacy",
       "translation": "https://hosted.weblate.org/projects/guardianproject/locationprivacy/",
       "webSite": "https://guardianproject.info/2015/01/23/sharing-your-location-privately",
-      "added": 1625693734000,
+      "added": 1626439780000,
       "icon": "info.guardianproject.locationprivacy.31.png",
       "packageName": "info.guardianproject.locationprivacy",
-      "lastUpdated": 1625693734000,
+      "lastUpdated": 1626439780000,
       "localized": {
         "af": {
           "summary": "privaatheid filters vir gedeelde ligging skakels"
@@ -714,6 +580,7 @@
           "summary": "\u03c6\u03af\u03bb\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b6\u03c9\u03ae\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03ba\u03bf\u03b9\u03bd\u03ad\u03c2 \u03c3\u03c5\u03bd\u03b4\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1\u03c2"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "LocationPrivacy",
           "summary": "privacy filters for shared location links"
         },
@@ -818,15 +685,16 @@
       "license": "AGPL-3.0-or-later",
       "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
       "webSite": "https://mupdf.com",
-      "added": 1625693735000,
+      "added": 1626439781000,
       "icon": "com.artifex.mupdf.viewer.app.90.png",
       "packageName": "com.artifex.mupdf.viewer.app",
-      "lastUpdated": 1625693735000,
+      "lastUpdated": 1626439781000,
       "localized": {
         "de": {
           "summary": "Leichtgewichtiger Dokumentenbetrachter"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "MuPDF viewer",
           "summary": "Lightweight document viewer"
         },
@@ -885,7 +753,7 @@
         "Internet"
       ],
       "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "30160190",
+      "suggestedVersionCode": "30170051",
       "description": "A safe home for all your data. Access & share your files, calendars, contacts,\nmail & more from any device, on your terms. This is the official Android app.\n\n'''Features:'''\n\n* Easy, modern interface\n* Upload your files to your Nextcloud server\n* Share your files with others\n* Keep your favorite files and folders synced\n* Instant Upload for photos and videos taken by your device\n* Multi-account support",
       "donate": "https://nextcloud.com/include/",
       "issueTracker": "https://github.com/nextcloud/android/issues",
@@ -893,10 +761,9 @@
       "sourceCode": "https://github.com/nextcloud/android",
       "translation": "https://www.transifex.com/nextcloud/nextcloud/",
       "webSite": "https://nextcloud.com",
-      "added": 1625693738000,
-      "icon": "com.nextcloud.client.30160190.png",
+      "added": 1626439785000,
       "packageName": "com.nextcloud.client",
-      "lastUpdated": 1625693738000,
+      "lastUpdated": 1626439785000,
       "localized": {
         "cs": {
           "summary": "Synchroniza\u010dn\u00ed klient"
@@ -905,6 +772,7 @@
           "summary": "Synchronisationsclient"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "Nextcloud",
           "summary": "Synchronization client"
         },
@@ -990,14 +858,15 @@
       "sourceCode": "https://github.com/ooni/probe-android",
       "translation": "https://www.transifex.com/otf/ooniprobe/",
       "webSite": "https://ooni.torproject.org/",
-      "added": 1625693743000,
+      "added": 1626439790000,
       "packageName": "org.openobservatory.ooniprobe",
-      "lastUpdated": 1625693743000,
+      "lastUpdated": 1626439790000,
       "localized": {
         "de": {
           "summary": "Offenes Observatorium von Netzerk-Interferenzen (OONI)"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "OONI Probe",
           "summary": "Open Observatory of Network Interference (OONI)"
         },
@@ -1063,10 +932,10 @@
       "license": "GPL-3.0-or-later",
       "sourceCode": "https://github.com/open-keychain/open-keychain",
       "webSite": "https://www.openkeychain.org/",
-      "added": 1625693746000,
+      "added": 1626439793000,
       "icon": "org.sufficientlysecure.keychain.57500.png",
       "packageName": "org.sufficientlysecure.keychain",
-      "lastUpdated": 1625693746000,
+      "lastUpdated": 1626439793000,
       "localized": {
         "af": {
           "summary": "Enkripteer jou l\u00eaers en Kommunikasie. Versoenbaar is met die OpenPGP Standard."
@@ -1096,6 +965,7 @@
           "summary": "\u039a\u03c1\u03c5\u03c0\u03c4\u03bf\u03b3\u03c1\u03ac\u03c6\u03b7\u03c3\u03b7 \u03b1\u03c1\u03c7\u03b5\u03af\u03c9\u03bd \u03ba\u03b1\u03b9 \u0395\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd \u03c3\u03b1\u03c2. \u03a3\u03c5\u03bc\u03b2\u03b1\u03c4\u03cc \u03bc\u03b5 \u03c4\u03bf \u03c0\u03c1\u03cc\u03c4\u03c5\u03c0\u03bf OpenPGP."
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "OpenKeychain",
           "summary": "Encrypt your Files and Communications. Compatible with the OpenPGP Standard."
         },
@@ -1212,15 +1082,16 @@
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/dmfs/opentasks",
       "webSite": "https://opentasks.app/",
-      "added": 1625693769000,
+      "added": 1626439815000,
       "icon": "org.dmfs.tasks.82200.png",
       "packageName": "org.dmfs.tasks",
-      "lastUpdated": 1625693769000,
+      "lastUpdated": 1626439815000,
       "localized": {
         "de": {
           "summary": "Eigene Zielsetzungen im Auge behalten"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "OpenTasks",
           "summary": "Keep track of your list of goals"
         },
@@ -1279,9 +1150,9 @@
       "sourceCode": "https://gitweb.torproject.org/orbot.git",
       "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
       "webSite": "https://www.torproject.org/docs/android.html",
-      "added": 1625693749000,
+      "added": 1626439796000,
       "packageName": "org.torproject.android",
-      "lastUpdated": 1625693749000,
+      "lastUpdated": 1626439796000,
       "localized": {
         "af": {
           "summary": "Verbeter jou privaatheid, breek deur middel van firewalls en meer veilig te komm"
@@ -1308,6 +1179,7 @@
           "summary": "\u0392\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b6\u03c9\u03ae\u03c2 \u03c3\u03b1\u03c2, \u03bd\u03b1 \u03c3\u03c0\u03ac\u03c3\u03b5\u03b9 \u03bc\u03ad\u03c3\u03c9 firewalls \u03ba\u03b1\u03b9 \u03bd\u03b1 "
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "Orbot",
           "summary": "Enhance your privacy, break through firewalls and communicate more safely."
         },
@@ -1399,18 +1271,19 @@
         "Navigation",
         "Default"
       ],
-      "suggestedVersionCode": "21062309",
+      "suggestedVersionCode": "21070806",
       "description": "Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.\n\n* Detailed offline maps with places that don't exist on other maps\n* Cycling routes, hiking trails and walking paths\n* Contour lines, elevation profiles, peaks and slopes\n* Turn-by-turn walking, cycling and car navigation with voice guidance\n* Fast offline search on the map and bookmarks\n* Dark mode to protect your eyes\n* No ads, no trackers, no data collection, no crapware, no pesticides",
       "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
       "webSite": "https://organicmaps.app/",
-      "added": 1625693755000,
-      "icon": "app.organicmaps.21062309.png",
+      "added": 1626439801000,
+      "icon": "app.organicmaps.21070806.png",
       "packageName": "app.organicmaps",
-      "lastUpdated": 1625693755000,
+      "lastUpdated": 1626439801000,
       "localized": {
         "en-US": {
+          "icon": "icon.png",
           "name": "Organic Maps",
           "summary": "Offline maps with turn-by-turn navigation"
         }
@@ -1434,15 +1307,16 @@
       "sourceCode": "https://0xacab.org/leap/bitmask_android",
       "translation": "https://www.transifex.com/projects/p/bitmask-android",
       "webSite": "https://riseup.net/",
-      "added": 1625693757000,
+      "added": 1626439804000,
       "icon": "se.leap.riseupvpn.155.png",
       "packageName": "se.leap.riseupvpn",
-      "lastUpdated": 1625693757000,
+      "lastUpdated": 1626439804000,
       "localized": {
         "de": {
           "summary": "Sicheres VPN mit Bitmask"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "Riseup VPN",
           "summary": "Secure VPN powered by Bitmask"
         },
@@ -1510,10 +1384,10 @@
       "license": "GPL-3.0-only",
       "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
       "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
-      "added": 1625693760000,
+      "added": 1626439806000,
       "icon": "com.jarsilio.android.scrambledeggsif.67.png",
       "packageName": "com.jarsilio.android.scrambledeggsif",
-      "lastUpdated": 1625693760000,
+      "lastUpdated": 1626439806000,
       "localized": {
         "cs-CZ": {
           "description": "Scrambled Exit (vyslovov\u00e1no <i>egg</i>sif) v\u00e1m pom\u00e1h\u00e1 odstranit metadata z obr\u00e1zk\u016f ne\u017e je sd\u00edl\u00edte.\n\nPokud se na to c\u00edt\u00edte.\n\nPokud nechcete velk\u00e9 internetov\u00e9 spole\u010dnosti (nebo kohokoliv) aby v\u011bd\u011bl kde jste va\u0161e obr\u00e1zky vyfotili tak nezapome\u0148te z nich odstranit metadata ne\u017e je sd\u00edl\u00edte.\n\nPro odstran\u011bn\u00ed metadat z obr\u00e1zku jej jednodu\u0161e sd\u00edlejte jako obvykle a vyberte <i>Scambled Exif</i>. O moment pozd\u011bji se objev\u00ed dialog pro sd\u00edlen\u00ed. Nyn\u00ed u\u017e jen sd\u00edlejte s jakoukoliv aplikac\u00ed jste cht\u011bli.\n\nA voil\u00e0!\n\n<b>Po\u017eadovan\u00e1 Android Opr\u00e1vn\u011bn\u00ed:</b>\n\n\u2605 READ_EXTERNAL_STORAGE pro \u010dten\u00ed obr\u00e1zk\u016f kter\u00e9 chcete sd\u00edlet.\n\n<b>Zdrojov\u00fd k\u00f3d</b>\n\n\u2605 Tato aplikace je open source. M\u016f\u017eete se pod\u00edvat na zdrojov\u00fd k\u00f3d (a m\u016f\u017eete i p\u0159isp\u011bt jestli chcete) zde:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>P\u0159eklad</b>\n\nPokud tuto aplikaci chete p\u0159elo\u017eit do sv\u00e9ho jazyka, m\u016f\u017eete to ud\u011blat pou\u017eit\u00edm transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Ostatn\u00ed v\u011bci a Fakty</b>\n\n\u2605 Exif je pou\u017e\u00edv\u00e1n form\u00e1tem JPEG, co\u017e je form\u00e1t ve kter\u00e9m Android kamera ukl\u00e1d\u00e1 vyfocen\u00e9 obr\u00e1zky. Pokud se o Exif chcete dozv\u011bd\u011bt v\u00edc, koukn\u011bte se na Wikipedii.\n\n\u2605 Scrambled Exif tak\u00e9 p\u0159ejmenov\u00e1v\u00e1 sd\u00edlen\u00e9 soubory.\n\n\u2605 Pros\u00edm nebu\u010fte a\u017e moc p\u0159esv\u011bd\u010den\u00ed o tom, \u017ee se data vyma\u017eou. Scrambled Exif d\u011bl\u00e1 svou pr\u00e1ci skv\u011ble, ale m\u016f\u017ee se st\u00e1t n\u011bkdy chyba. V\u017edycky to zkontrolujte ne\u017e budete obr\u00e1zek sd\u00edlet.\n\n\u2605 Vlastn\u011b to Exif data <i>nezam\u00edch\u00e1</i>, ale sma\u017ee. Tak\u017ee to jm\u00e9no je docela hloup\u00e9. Ale m\u011b se l\u00edb\u00ed. Ikona tak\u00e9 nezobrazuje m\u00edchan\u00e1 vejce tak\u017ee je asi taky hloup\u00e1. Ale m\u011b se l\u00edb\u00ed. A tak\u00e9 jsem velk\u00fd fanou\u0161ek vajec. Tak\u017ee tahle aplikace m\u00e1 nejen hloup\u00e9 jm\u00e9no a stejn\u011b hloupou ikonu, ale i mou (ne-hloupou) \u00factu k vejc\u00edm. Hlavn\u011b <i>huevos fritos</i>. Proto\u017ee to miluju.\n\n\u2605 U\u017eijte si sd\u00edlen\u00ed fotek!",
@@ -1529,6 +1403,7 @@
         },
         "en-US": {
           "description": "Scrambled Exif (pronounced <i>egg</i>sif) helps you remove the metadata in your pictures before you share them.\n\nIf you feel like it.\n\nIf you don't want the big Internet companies (or whomever) to know where your pictures were taken don't forget to remove the metadata from them before you share them.\n\nTo remove the metadata from a picture, simply share it like you'd normally do and choose <i>Scrambled Exif</i>. A moment later, the share 'dialog' will reappear. Now just share with the app you intended to share with in the first place.\n\nEt voil\u00e0!\n\n<b>Required Android Permissions:</b>\n\n\u2605 READ_EXTERNAL_STORAGE to read the images other apps share with it.\n\n<b>Source Code</b>\n\n\u2605 This app is open source. You can take a look at the code (and contribute if you feel like it) here:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>Translations</b>\n\nIf you wish to help to translate this app to your own language, you can do so using transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Misc Stuff and Facts</b>\n\n\u2605 Basically, Exif is used by jpeg, which is the format in which your Android camera saves pictures. If you want to know more about Exif, check the Wikipedia.\n\n\u2605 Scrambled Exif also renames the files (this can be disabled).\n\n\u2605 Please don't heavily rely on the data being deleted. Scrambled Exif does its job pretty well, but it could fail. Always double-check before you share.\n\n\u2605 It doesn't really <i>scramble</i> the Exif data, it deletes it. So the name is probably stupid. But I like it. The icon doesn't depict scrambled eggs either. So the icon is probably stupid. But I like it. And I also happen to be a huge fan of eggs. So this app doesn't only have a stupid name and an equally stupid icon, it is also my (non-stupid) tribute to eggs. Especially <i>huevos fritos</i>. Because I love them.\n\n\u2605 Have fun sharing your pics!",
+          "icon": "icon.png",
           "name": "Scrambled Exif",
           "summary": "Remove the metadata from your pictures before sharing them"
         },
@@ -1579,19 +1454,20 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "87300",
+      "suggestedVersionCode": "87700",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1625693768000,
-      "icon": "org.thoughtcrime.securesms.87300.png",
+      "added": 1626439814000,
+      "icon": "org.thoughtcrime.securesms.87700.png",
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1625693768000,
+      "lastUpdated": 1626439814000,
       "localized": {
         "en-US": {
+          "icon": "icon.png",
           "name": "Signal"
         }
       }
@@ -1612,12 +1488,13 @@
       "license": "MPL",
       "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
       "webSite": "https://www.torproject.org/",
-      "added": 1625693776000,
+      "added": 1626439821000,
       "icon": "org.torproject.torbrowser.2015808091.png",
       "packageName": "org.torproject.torbrowser",
-      "lastUpdated": 1625693776000,
+      "lastUpdated": 1626439821000,
       "localized": {
         "en-US": {
+          "icon": "icon.png",
           "name": "Tor Browser"
         }
       }
@@ -1641,15 +1518,16 @@
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/SecUSo/privacy-friendly-weather",
       "webSite": "https://secuso.org/pfa",
-      "added": 1625693778000,
+      "added": 1626439823000,
       "icon": "org.secuso.privacyfriendlyweather.14.png",
       "packageName": "org.secuso.privacyfriendlyweather",
-      "lastUpdated": 1625693778000,
+      "lastUpdated": 1626439823000,
       "localized": {
         "de": {
           "summary": "Wetterinformationen und -vorhersagen erhalten"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "Weather",
           "summary": "Get weather information and forecast"
         },
@@ -1719,15 +1597,16 @@
       "issueTracker": "https://github.com/Yubico/yubioath-android/issues",
       "license": "BSD-2-Clause",
       "sourceCode": "https://github.com/Yubico/yubioath-android",
-      "added": 1625693779000,
+      "added": 1626439824000,
       "icon": "com.yubico.yubioath.20199.png",
       "packageName": "com.yubico.yubioath",
-      "lastUpdated": 1625693779000,
+      "lastUpdated": 1626439824000,
       "localized": {
         "de": {
           "summary": "OATH-Codes mit YubiKey NEO \u00fcber NFC generieren"
         },
         "en-US": {
+          "icon": "icon.png",
           "name": "Yubico Authenticator",
           "summary": "Generate OATH codes with YubiKey NEO over NFC"
         },
@@ -1773,12 +1652,12 @@
   "packages": {
     "app.organicmaps": [
       {
-        "added": 1625693755000,
+        "added": 1626439801000,
         "apkName": "OrganicMaps.apk",
         "features": [
           "android.hardware.touchscreen"
         ],
-        "hash": "c3091353bcc7e61d250abeb5808d9a2ccfaf25c5abff40ead0120e688f862953",
+        "hash": "f19c0cd52f894707ec8012ed42da0fe63d5663167a9b77d625c56795874e14a0",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1788,7 +1667,7 @@
         "packageName": "app.organicmaps",
         "sig": "472167dd9f46ae80fec5f3a3e8f47a81",
         "signer": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9",
-        "size": 70112894,
+        "size": 69629566,
         "targetSdkVersion": 30,
         "uses-permission": [
           [
@@ -1801,10 +1680,6 @@
           ],
           [
             "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
             null
           ],
           [
@@ -1828,13 +1703,13 @@
             null
           ]
         ],
-        "versionCode": 21062309,
-        "versionName": "2021.06.23-9-gc3f05a1646-FDroid"
+        "versionCode": 21070806,
+        "versionName": "2021.07.08-6-g73931f7918-FDroid"
       }
     ],
     "at.bitfire.davdroid": [
       {
-        "added": 1625693728000,
+        "added": 1626439775000,
         "apkName": "DAVx5.apk",
         "hash": "10d2e2abb9ee5b0f10c3467f05d961092d4c622775c3268ca6e21338e2fd28f8",
         "hashType": "sha256",
@@ -1952,7 +1827,7 @@
     ],
     "com.artifex.mupdf.viewer.app": [
       {
-        "added": 1625693735000,
+        "added": 1626439781000,
         "apkName": "MuPDFviewer.apk",
         "hash": "8064de09e4294d13f496c11282247132db52c6b00fc2b7cd8ab932e827f58177",
         "hashType": "sha256",
@@ -1979,7 +1854,7 @@
     ],
     "com.aurora.store": [
       {
-        "added": 1625693717000,
+        "added": 1626439768000,
         "apkName": "AuroraStore.apk",
         "hash": "79e02a31a610d4f8c5179517f8649523dbc8d0ceb1817d24481cc8c4c0218dc5",
         "hashType": "sha256",
@@ -2049,9 +1924,9 @@
     ],
     "com.duckduckgo.mobile.android": [
       {
-        "added": 1625693730000,
+        "added": 1626439777000,
         "apkName": "DuckDuckGoPrivacyBrowser.apk",
-        "hash": "8f3d82e864c166c7545a8bb573c044c933861123c1d3ccaf9895b2fbf998a545",
+        "hash": "d85f58a427b7ae2fe32d738d6f7f9f5dd32a3bda49d5559f6da73461a1d573ba",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2063,7 +1938,7 @@
         "packageName": "com.duckduckgo.mobile.android",
         "sig": "e564ffbbc910f359b0eca66be3cc4d52",
         "signer": "f0707d021c0bf3e6f8dcc11ba3f5700425d597dca301a31e210556934ebb1b0a",
-        "size": 12716949,
+        "size": 12790701,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -2115,21 +1990,21 @@
             null
           ]
         ],
-        "versionCode": 58800,
-        "versionName": "5.88.0"
+        "versionCode": 58901,
+        "versionName": "5.89.1"
       }
     ],
     "com.fsck.k9": [
       {
-        "added": 1625693733000,
+        "added": 1626439780000,
         "apkName": "K-9Mail.apk",
-        "hash": "6625980d39113bd81a26dd9238c0c695cfdc49b6301f0208e83ec7bbc8b1b295",
+        "hash": "1a90fb76fc48bdbd936d39f0203e76c31e13e2a3bbc917a3b1b6035ddc069656",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "packageName": "com.fsck.k9",
         "sig": "4cc8dc4af011320a78e2cae3b5a1fc31",
         "signer": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576",
-        "size": 7391164,
+        "size": 7411728,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -2173,13 +2048,13 @@
             null
           ]
         ],
-        "versionCode": 27037,
-        "versionName": "5.737"
+        "versionCode": 27039,
+        "versionName": "5.739"
       }
     ],
     "com.jarsilio.android.scrambledeggsif": [
       {
-        "added": 1625693760000,
+        "added": 1626439806000,
         "apkName": "ScrambledExif.apk",
         "hash": "fa402edf83b0d9ac891e9853ad37fe692608b7451f633932b4f48158776ba5cb",
         "hashType": "sha256",
@@ -2201,11 +2076,11 @@
     ],
     "com.nextcloud.client": [
       {
-        "added": 1625693738000,
+        "added": 1626439785000,
         "apkName": "Nextcloud.apk",
-        "hash": "cab8dcdfb06a985e61fcf5311ffbeef6d64da6f73be2a720b6e75c592fc99d4a",
+        "hash": "ab5f5b2b5401e6a65af5ec8e79193d5bf9018480295c30d52fd6f6793347e5c0",
         "hashType": "sha256",
-        "minSdkVersion": 21,
+        "minSdkVersion": 22,
         "nativecode": [
           "arm64-v8a",
           "armeabi-v7a",
@@ -2215,7 +2090,7 @@
         "packageName": "com.nextcloud.client",
         "sig": "0f8ca80a9abcc3452f65222ed09819a9",
         "signer": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83",
-        "size": 19961481,
+        "size": 22067941,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -2307,13 +2182,13 @@
             null
           ]
         ],
-        "versionCode": 30160190,
-        "versionName": "3.16.1"
+        "versionCode": 30170051,
+        "versionName": "3.17.0 RC1"
       }
     ],
     "com.yubico.yubioath": [
       {
-        "added": 1625693779000,
+        "added": 1626439824000,
         "apkName": "YubicoAuthenticator.apk",
         "hash": "56db44ddd5628395a0d1c0fe36ce61494503ca43ac331e6412c697ed92597476",
         "hashType": "sha256",
@@ -2337,185 +2212,9 @@
         "versionName": "2.2.0"
       }
     ],
-    "eu.siacs.conversations": [
-      {
-        "added": 1625693726000,
-        "apkName": "Conversations.apk",
-        "hash": "3e10334bdb81cb62dd97ae060343c2ce657ca036c8cd3be23eba266ec191ba37",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "eu.siacs.conversations",
-        "sig": "befc8ef80c66cb2d7d23dc99959287b5",
-        "signer": "c75abe78593643ae7cac527327cd2193482db067404a88b8c13f7a0701946187",
-        "size": 33494711,
-        "targetSdkVersion": 29,
-        "uses-permission": [
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.READ_PROFILE",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_STATE",
-            22
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-            null
-          ],
-          [
-            "android.permission.ACCESS_COARSE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_FINE_LOCATION",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.REQUEST_INSTALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.MODIFY_AUDIO_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SYSTEM_ALERT_WINDOW",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ]
-        ],
-        "versionCode": 42015,
-        "versionName": "2.9.13+fcr"
-      }
-    ],
     "info.guardianproject.locationprivacy": [
       {
-        "added": 1625693734000,
+        "added": 1626439780000,
         "apkName": "LocationPrivacy.apk",
         "hash": "1dbfb07b0868bfb527729c40120e625e1cfd5dbfbdd84c05dcbf435008e0ebfb",
         "hashType": "sha256",
@@ -2537,7 +2236,7 @@
     ],
     "org.briarproject.briar.android": [
       {
-        "added": 1625693720000,
+        "added": 1626439771000,
         "apkName": "Briar.apk",
         "hash": "03642d64013467a915e4fd95e1fdafb4bf9a58856210dca64aa66fc07cd8e7d7",
         "hashType": "sha256",
@@ -2627,7 +2326,7 @@
     ],
     "org.calyxinstitute.vpn": [
       {
-        "added": 1625693722000,
+        "added": 1626439773000,
         "apkName": "CalyxVPN.apk",
         "hash": "ae0e93bbfb7c917bfd5ecad01caac884c0ac548d3df7747c2fe87d38fd38788f",
         "hashType": "sha256",
@@ -2687,7 +2386,7 @@
     ],
     "org.dmfs.tasks": [
       {
-        "added": 1625693769000,
+        "added": 1626439815000,
         "apkName": "Tasks.apk",
         "hash": "7f3a1528142c8a8a0ab1ecf6b83f0620eb31cd8daa94b299149c21982e3c2f14",
         "hashType": "sha256",
@@ -2741,7 +2440,7 @@
     ],
     "org.openobservatory.ooniprobe": [
       {
-        "added": 1625693743000,
+        "added": 1626439790000,
         "apkName": "OONIProbe.apk",
         "hash": "62ec40117d4d5fc24a40c012c275f46d99c2fa94a22d9ae5985ab3199ae8c8e7",
         "hashType": "sha256",
@@ -2793,7 +2492,7 @@
     ],
     "org.secuso.privacyfriendlyweather": [
       {
-        "added": 1625693778000,
+        "added": 1626439823000,
         "apkName": "Weather.apk",
         "hash": "74608cfd334ff12c206ea2b1e063cb80b3e6a33918cdd5f029c7da2146149392",
         "hashType": "sha256",
@@ -2831,7 +2530,7 @@
     ],
     "org.sufficientlysecure.keychain": [
       {
-        "added": 1625693746000,
+        "added": 1626439793000,
         "apkName": "OpenKeychain.apk",
         "hash": "2f99465f9634b65e356eba5a2c29cd213c8851bddd073635459edc1e7446ed4c",
         "hashType": "sha256",
@@ -2897,9 +2596,9 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1625693768000,
+        "added": 1626439814000,
         "apkName": "Signal.apk",
-        "hash": "539856e204c50de23e10fb9ec5d272644736b0efde53c8411e074e9cb3df6340",
+        "hash": "2329689104ae8b1db527a993225f388ba746a11b8fe65d91b77f04565eaefbc1",
         "hashType": "sha256",
         "minSdkVersion": 19,
         "nativecode": [
@@ -2911,7 +2610,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 66380291,
+        "size": 66216316,
         "targetSdkVersion": 30,
         "uses-permission": [
           [
@@ -3191,13 +2890,13 @@
             null
           ]
         ],
-        "versionCode": 87300,
-        "versionName": "5.15.6"
+        "versionCode": 87700,
+        "versionName": "5.16.3"
       }
     ],
     "org.torproject.android": [
       {
-        "added": 1625693749000,
+        "added": 1626439796000,
         "apkName": "Orbot.apk",
         "hash": "786ccde7a2d936a242123e22b7b15e417de2316fe86b02ac007a62f169a0e8ef",
         "hashType": "sha256",
@@ -3250,7 +2949,7 @@
     ],
     "org.torproject.torbrowser": [
       {
-        "added": 1625693776000,
+        "added": 1626439821000,
         "apkName": "TorBrowser.apk",
         "hash": "3f399a013ab1830d6125a247e419cb06bf493a60b85158e92b389e2f5a871d43",
         "hashType": "sha256",
@@ -3349,7 +3048,7 @@
     ],
     "se.leap.riseupvpn": [
       {
-        "added": 1625693757000,
+        "added": 1626439804000,
         "apkName": "RiseupVPN.apk",
         "hash": "05d0b42fe32f0bbcbe979b68a3ceeeb5d4eca0906f784849ab519a2d4ee7e182",
         "hashType": "sha256",
