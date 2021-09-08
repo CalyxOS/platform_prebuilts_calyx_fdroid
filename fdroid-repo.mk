@@ -16,7 +16,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-120/com.artifex.mupdf.viewer.app.90.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.artifex.mupdf.viewer.app.90.png \
     prebuilts/calyx/fdroid/repo/icons-120/com.aurora.store.38.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.aurora.store.38.png \
     prebuilts/calyx/fdroid/repo/icons-120/com.duckduckgo.mobile.android.59403.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.duckduckgo.mobile.android.59403.png \
-    prebuilts/calyx/fdroid/repo/icons-120/com.jarsilio.android.scrambledeggsif.68.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.jarsilio.android.scrambledeggsif.68.png \
     prebuilts/calyx/fdroid/repo/icons-120/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-120/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-120/org.briarproject.briar.android.10306.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/org.briarproject.briar.android.10306.png \
@@ -30,7 +29,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-160/com.artifex.mupdf.viewer.app.90.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.artifex.mupdf.viewer.app.90.png \
     prebuilts/calyx/fdroid/repo/icons-160/com.aurora.store.38.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.aurora.store.38.png \
     prebuilts/calyx/fdroid/repo/icons-160/com.duckduckgo.mobile.android.59403.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.duckduckgo.mobile.android.59403.png \
-    prebuilts/calyx/fdroid/repo/icons-160/com.jarsilio.android.scrambledeggsif.68.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.jarsilio.android.scrambledeggsif.68.png \
     prebuilts/calyx/fdroid/repo/icons-160/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-160/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-160/org.briarproject.briar.android.10306.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/org.briarproject.briar.android.10306.png \
@@ -44,7 +42,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-240/com.artifex.mupdf.viewer.app.90.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.artifex.mupdf.viewer.app.90.png \
     prebuilts/calyx/fdroid/repo/icons-240/com.aurora.store.38.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.aurora.store.38.png \
     prebuilts/calyx/fdroid/repo/icons-240/com.duckduckgo.mobile.android.59403.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.duckduckgo.mobile.android.59403.png \
-    prebuilts/calyx/fdroid/repo/icons-240/com.jarsilio.android.scrambledeggsif.68.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.jarsilio.android.scrambledeggsif.68.png \
     prebuilts/calyx/fdroid/repo/icons-240/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-240/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-240/org.briarproject.briar.android.10306.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/org.briarproject.briar.android.10306.png \
@@ -58,7 +55,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-320/com.artifex.mupdf.viewer.app.90.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.artifex.mupdf.viewer.app.90.png \
     prebuilts/calyx/fdroid/repo/icons-320/com.aurora.store.38.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.aurora.store.38.png \
     prebuilts/calyx/fdroid/repo/icons-320/com.duckduckgo.mobile.android.59403.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.duckduckgo.mobile.android.59403.png \
-    prebuilts/calyx/fdroid/repo/icons-320/com.jarsilio.android.scrambledeggsif.68.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.jarsilio.android.scrambledeggsif.68.png \
     prebuilts/calyx/fdroid/repo/icons-320/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-320/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-320/org.briarproject.briar.android.10306.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/org.briarproject.briar.android.10306.png \
@@ -72,7 +68,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-480/com.artifex.mupdf.viewer.app.90.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.artifex.mupdf.viewer.app.90.png \
     prebuilts/calyx/fdroid/repo/icons-480/com.aurora.store.38.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.aurora.store.38.png \
     prebuilts/calyx/fdroid/repo/icons-480/com.duckduckgo.mobile.android.59403.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.duckduckgo.mobile.android.59403.png \
-    prebuilts/calyx/fdroid/repo/icons-480/com.jarsilio.android.scrambledeggsif.68.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.jarsilio.android.scrambledeggsif.68.png \
     prebuilts/calyx/fdroid/repo/icons-480/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-480/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-480/org.briarproject.briar.android.10306.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/org.briarproject.briar.android.10306.png \
@@ -86,7 +81,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-640/com.artifex.mupdf.viewer.app.90.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.artifex.mupdf.viewer.app.90.png \
     prebuilts/calyx/fdroid/repo/icons-640/com.aurora.store.38.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.aurora.store.38.png \
     prebuilts/calyx/fdroid/repo/icons-640/com.duckduckgo.mobile.android.59403.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.duckduckgo.mobile.android.59403.png \
-    prebuilts/calyx/fdroid/repo/icons-640/com.jarsilio.android.scrambledeggsif.68.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.jarsilio.android.scrambledeggsif.68.png \
     prebuilts/calyx/fdroid/repo/icons-640/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-640/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-640/org.briarproject.briar.android.10306.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/org.briarproject.briar.android.10306.png \
@@ -100,7 +94,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons/com.artifex.mupdf.viewer.app.90.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.artifex.mupdf.viewer.app.90.png \
     prebuilts/calyx/fdroid/repo/icons/com.aurora.store.38.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.aurora.store.38.png \
     prebuilts/calyx/fdroid/repo/icons/com.duckduckgo.mobile.android.59403.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.duckduckgo.mobile.android.59403.png \
-    prebuilts/calyx/fdroid/repo/icons/com.jarsilio.android.scrambledeggsif.68.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.jarsilio.android.scrambledeggsif.68.png \
     prebuilts/calyx/fdroid/repo/icons/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \
     prebuilts/calyx/fdroid/repo/icons/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/info.guardianproject.locationprivacy.31.png \
