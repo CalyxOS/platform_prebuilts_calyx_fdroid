@@ -5,7 +5,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE := F-Droid
 LOCAL_SRC_FILES := F-Droid.apk
-LOCAL_CERTIFICATE := PRESIGNED
+LOCAL_CERTIFICATE := $(LOCAL_PATH)/certs/org.calyxos.fdroid
 LOCAL_MODULE_CLASS := APPS
 LOCAL_PRODUCT_MODULE := true
 include $(BUILD_PREBUILT)
