@@ -124,6 +124,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fdroid-repo \
+    client_whitelist.xml \
     AuroraStore \
     Briar \
     CalyxVPN \

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map>
+     <set name="whitelist">
+          <string>org.fdroid.fdroid/9eadc480b84d3983d1a606498ce00d95fb6e51b6c7fc48be322bd6010cbb6d5e</string>
+     </set>
+</map>
