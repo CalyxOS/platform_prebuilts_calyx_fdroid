@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8208fa0e_8e8111cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-11-30T23:22:27Z",
+      "side": 1,
+      "message": "This won\u0027t build.\n\nFor on device test, we\u0027ll need the signed index.\n\nTo be verified\n* Make sure all icons show up in SetupWizard\n* Apps install fine.\n* Apps updating fine after OTA update on older build.\n\nAlso, just noticed, Organic Maps is now 32MB larger 😭",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "94bcb0c1_f7963232",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-11-30T23:22:27Z",
+      "side": 1,
+      "message": "This broke the build last time.",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d8fd20ec_c1466b7f",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-11-30T23:22:27Z",
+      "side": 1,
+      "message": "I wonder if all these multi-lingual screenshots for all these apps will start adding up space wise.\n\nWe don\u0027t want to increase the footprint of this on device by too much.\n\nI did just notice that they aren\u0027t actually added in this repo though, the files are missing, so the build would fail.",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "97c42adc_e1b42c41",
+        "filename": "repo/index-v1.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-11-30T23:22:27Z",
+      "side": 1,
+      "message": "Intentional? Need to make sure this doesn\u0027t break anything.",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "813353c5_8ffd0c87",
+        "filename": "repo/index.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-11-30T23:22:27Z",
+      "side": 1,
+      "message": "This part doesn\u0027t look right. Intentional?",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
