@@ -1,5 +1,6 @@
 Connectivity
 Default
+Guardian Project
 Internet
 Multimedia
 Navigation

@@ -1,4 +1,5 @@
 # Auto generated, do not edit.
+# see /home/fdroid/fdroid-repo-setupwizard/fdroid/generate-platform_prebuilts_calyx_fdroid-makefiles.py
 
 LOCAL_PATH := $(call my-dir)
 
@@ -239,4 +240,3 @@ LOCAL_DEX_PREOPT := false
 LOCAL_NO_STANDARD_LIBRARIES := true
 LOCAL_REPLACE_PREBUILT_APK_INSTALLED := $(LOCAL_PATH)/repo/$(LOCAL_MODULE).apk
 include $(BUILD_PREBUILT)
-
