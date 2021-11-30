@@ -1,0 +1,13 @@
+/archive/
+/repo/*/*/featureGraphic*.jpg
+/repo/*/*/featureGraphic*.png
+/repo/*/*/icon_*.png
+/repo/*/*/phoneScreenshots/
+/repo/*/*/sevenInchScreenshots/
+/repo/*/*/tenInchScreenshots/
+/repo/*/*/tvScreenshots/
+/repo/index.css
+/repo/index.html
+/repo/index.png
+/repo/index_unsigned.jar
+/repo/status/
