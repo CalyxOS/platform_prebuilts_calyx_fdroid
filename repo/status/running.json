@@ -1,16 +1,32 @@
 {
+  "/etc/issue.net": "Debian GNU/Linux 11",
   "commandLine": [
-    "../fdroidserver/fdroid update",
-    "--pretty"
+    "/home/fdroid/fdroidserver/fdroid deploy",
+    "-v"
   ],
-  "fdroidserver": {
-    "commitId": "fa186c40c4c2cb146cabf0abe763eb6583859d4c",
+  "fdroiddata": {
+    "commitId": "ddb257660cdbd5b4544f47a31554a2cd47423a84",
     "isDirty": true,
     "modifiedFiles": [
-      "fdroidserver/update.py"
+      "config.yml",
+      "generate-platform_prebuilts_calyx_fdroid-makefiles.py",
+      "plugins/fdroid_ersatz-update.py",
+      "update"
+    ],
+    "untrackedFiles": [
+      "Android.mk",
+      "fdroid-repo.mk",
+      "generate-fdroid-repo-makefiles.py"
+    ]
+  },
+  "fdroidserver": {
+    "commitId": "cd696924244c84a9b285067e06cca78fde94d016",
+    "isDirty": true,
+    "modifiedFiles": [
+      "fdroidserver/mirror.py"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1636221134000,
-  "subcommand": "update"
+  "startTimestamp": 1638365755000,
+  "subcommand": "deploy"
 }
