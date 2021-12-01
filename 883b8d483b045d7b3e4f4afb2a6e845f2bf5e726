@@ -16,6 +16,23 @@
       "message": "Error output isn\u0027t exactly clear, but this is the only change I did.\n\n```\nFAILED\nIn file included from build/make/core/main.mk:1443:\nbuild/make/core/Makefile:61: error: commands commence before first target.\n```",
       "revId": "883b8d483b045d7b3e4f4afb2a6e845f2bf5e726",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c05c742e_9953a52e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-01T14:27:43Z",
+      "side": 1,
+      "message": "To get this patchset to build.\n\n```\nsed -i \u0027/EQUALS_SIGN/d\u0027 fdroid-repo.mk\nsed -i \u0027/unsigned_index/d\u0027 fdroid-repo.mk\nsed -i \u0027/phoneScreenshots/d\u0027 fdroid-repo.mk\n```\n\nAny files that are not in this repo should not be in the makefile. That would be easier without the gitignore approach I\u0027d say.\n",
+      "revId": "883b8d483b045d7b3e4f4afb2a6e845f2bf5e726",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
