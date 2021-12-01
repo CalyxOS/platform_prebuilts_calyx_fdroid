@@ -127,6 +127,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "c5dab767_3b8dbacb",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-01T14:26:51Z",
+      "side": 1,
+      "message": "Which version did you try?  This comment is pointing to the unescaped version.  Did you try the version with $(EQUALS_SIGN) ?",
+      "parentUuid": "08487b6e_9b90b9cd",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d8fd20ec_c1466b7f",
         "filename": "fdroid-repo.mk",
         "patchSetId": 1
