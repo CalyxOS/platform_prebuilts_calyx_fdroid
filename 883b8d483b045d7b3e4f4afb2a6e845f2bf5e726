@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7af6df05_5a33839d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-01T14:19:39Z",
+      "side": 1,
+      "message": "Error output isn\u0027t exactly clear, but this is the only change I did.\n\n```\nFAILED\nIn file included from build/make/core/main.mk:1443:\nbuild/make/core/Makefile:61: error: commands commence before first target.\n```",
+      "revId": "883b8d483b045d7b3e4f4afb2a6e845f2bf5e726",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
