@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dafaa1c6_26149dbf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-01T10:49:40Z",
+      "side": 1,
+      "message": "These are also in `fdroid-repo.mk` right now so this commit can\u0027t be merged standalone / will have to be merged with those changes otherwise build will break",
+      "revId": "6026be95983a18d5c6df3a948cb19689fa91802b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
