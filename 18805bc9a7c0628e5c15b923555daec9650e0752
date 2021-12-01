@@ -37,6 +37,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "ff4af3da_ee19fb0a",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-01T08:41:30Z",
+      "side": 1,
+      "message": "Yes, this commit is raw output.  We need to decide which path forward to make a working setup. One short term solution is just to manually make the commit, and not include changes that are not wanted.\n\nIn a meeting a while back, you mentioned you were going to try something with Android.bp I think.  Or I could easily generate quoting here.  Properly quoting the file names the real solution IMHO, whether that means adding quotes to Makefiles or using Android.bp.\n\nWhat would be really helpful is a bare minimum setup that would let me call the Android build system to run this one.  Then I could add that to CI even.",
+      "parentUuid": "94bcb0c1_f7963232",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d8fd20ec_c1466b7f",
         "filename": "fdroid-repo.mk",
         "patchSetId": 1
@@ -48,6 +66,24 @@
       "writtenOn": "2021-11-30T23:22:27Z",
       "side": 1,
       "message": "I wonder if all these multi-lingual screenshots for all these apps will start adding up space wise.\n\nWe don\u0027t want to increase the footprint of this on device by too much.\n\nI did just notice that they aren\u0027t actually added in this repo though, the files are missing, so the build would fail.",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0d2b41c6_922c98af",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-01T08:41:30Z",
+      "side": 1,
+      "message": "It makes sense to me to only include the icon and skip the screenshots.  I think I can just make an --only-include-icon option to the fdroid_ersatz-update.py so that the plugin can be used for other repos where everything should be included.",
+      "parentUuid": "d8fd20ec_c1466b7f",
       "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
