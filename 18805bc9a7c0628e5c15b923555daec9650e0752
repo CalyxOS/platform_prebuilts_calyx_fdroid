@@ -109,6 +109,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "08487b6e_9b90b9cd",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-01T14:20:26Z",
+      "side": 1,
+      "message": "I\u0027d rather not spend more time on this and just get rid of the output.\n\nIf it means having to use a fork of fdroidserver, fine. We need that for the microG signature spoofing patch either way - that\u0027s not used in this repo, but it will be needed for other repos.",
+      "parentUuid": "ea6e16ed_9151f729",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d8fd20ec_c1466b7f",
         "filename": "fdroid-repo.mk",
         "patchSetId": 1
