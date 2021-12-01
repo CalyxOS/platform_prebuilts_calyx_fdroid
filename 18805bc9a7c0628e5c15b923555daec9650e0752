@@ -55,6 +55,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "cf5ffe65_5dd59f56",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-01T10:48:42Z",
+      "side": 1,
+      "message": "Android.bp was not for this bit, that\u0027d replace the Android.mk, but it didn\u0027t work.\n\nI haven\u0027t had a chance to try quoting, I don\u0027t know if it\u0027ll work.\n\nThere\u0027s no easy way to have a bare minimum Android build system setup, and it\u0027s not worth the effort setting this up - this was known working, so as long as things stay the same it will keep working.",
+      "parentUuid": "ff4af3da_ee19fb0a",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d8fd20ec_c1466b7f",
         "filename": "fdroid-repo.mk",
         "patchSetId": 1
@@ -84,6 +102,24 @@
       "side": 1,
       "message": "It makes sense to me to only include the icon and skip the screenshots.  I think I can just make an --only-include-icon option to the fdroid_ersatz-update.py so that the plugin can be used for other repos where everything should be included.",
       "parentUuid": "d8fd20ec_c1466b7f",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a8afd53d_c8c21b31",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-01T10:48:42Z",
+      "side": 1,
+      "message": "The other quick hack is basically handle the \u0027.gitignore\u0027 in the python script to avoid mentioning any files not present.\n\nSo copy then \u0027git clean -fdx\u0027 or something, and then run the python script - that way it\u0027ll only have what\u0027s in the repo actually, and not these screenshots which are git ignored.",
+      "parentUuid": "0d2b41c6_922c98af",
       "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
