@@ -71,6 +71,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "416a49fe_2a224d77",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-01T14:10:05Z",
+      "side": 1,
+      "message": "In my quick test, using a variable works for \u003d, based on this:\nhttps://www.cmcrossroads.com/article/gnu-make-escaping-walk-wild-side\nhttps://stackoverflow.com/questions/2052406/escaping-colons-in-filenames-in-a-makefile/61016478#61016478\n\nYou can see this in action in the most recent update here.",
+      "parentUuid": "cf5ffe65_5dd59f56",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d8fd20ec_c1466b7f",
@@ -120,6 +138,24 @@
       "side": 1,
       "message": "The other quick hack is basically handle the \u0027.gitignore\u0027 in the python script to avoid mentioning any files not present.\n\nSo copy then \u0027git clean -fdx\u0027 or something, and then run the python script - that way it\u0027ll only have what\u0027s in the repo actually, and not these screenshots which are git ignored.",
       "parentUuid": "0d2b41c6_922c98af",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "77e8aec2_60cb8d74",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-01T14:10:05Z",
+      "side": 1,
+      "message": "I added a config option to fdroid_ersatz-update.py to ignore screenshots and featureGraphics.  Works well, as you can see in this update.",
+      "parentUuid": "a8afd53d_c8c21b31",
       "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
