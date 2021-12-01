@@ -177,6 +177,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a1238feb_156b0d8b",
+        "filename": "repo/index-v1.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-01T14:15:51Z",
+      "side": 1,
+      "message": "Yes, that\u0027s the format that fdroidclient prefers.  I think it strips trailing slashes anyway.  You can see that f-droid.org and guardianproject both do not use trailing slashes:\nhttps://f-droid.org/repo/index.xml\nhttps://guardianproject.info/fdroid/repo/index.xml",
+      "parentUuid": "97c42adc_e1b42c41",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "813353c5_8ffd0c87",
@@ -190,6 +208,24 @@
       "writtenOn": "2021-11-30T23:22:27Z",
       "side": 1,
       "message": "This part doesn\u0027t look right. Intentional?",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a5aebac_667065b4",
+        "filename": "repo/index.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-01T14:15:51Z",
+      "side": 1,
+      "message": "This will work fine, it is the date scraped out of the APK, which is set to that value to be reproducible.  Otherwise, there needs to be some source to save the \"added\" dates.  Are they used at all by Setup Wizard?  My guess is no.  The standard way to do that in a repo is to enable update_stats and commit stats/ to git.",
+      "parentUuid": "813353c5_8ffd0c87",
       "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
