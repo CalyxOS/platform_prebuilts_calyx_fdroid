@@ -163,6 +163,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "0ffde7ac_415941da",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-01T15:27:27Z",
+      "side": 1,
+      "message": "\u003e To get this patchset to build.\n\u003e \n\u003e ```\n\u003e sed -i \u0027/EQUALS_SIGN/d\u0027 fdroid-repo.mk\n\u003e sed -i \u0027/unsigned_index/d\u0027 fdroid-repo.mk\n\u003e sed -i \u0027/phoneScreenshots/d\u0027 fdroid-repo.mk\n\u003e ```\n\u003e \n\u003e Any files that are not in this repo should not be in the makefile. That would be easier without the gitignore approach I\u0027d say.\n\nI fixed those last two phoneScreenshots that were sneaking in and removed the EQUALS_SIGN hack.  The changes related to index.jar, index-v1.jar, and index_unsigned.jar are because the index signing is not happening before the files are being committed to prebuilds/calyx/fdroid.  How do you want to handle signing?",
+      "parentUuid": "4dd31401_d66cfee4",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d8fd20ec_c1466b7f",
         "filename": "fdroid-repo.mk",
         "patchSetId": 1
