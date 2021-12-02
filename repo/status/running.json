@@ -1,16 +1,24 @@
 {
+  "/etc/issue.net": "Debian GNU/Linux 11",
   "commandLine": [
-    "../fdroidserver/fdroid update",
-    "--pretty"
+    "/home/fdroid/fdroidserver/fdroid deploy",
+    "-v"
   ],
+  "fdroiddata": {
+    "commitId": "a6f1b015b28987505c462bc7d02257df166f2368",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": []
+  },
   "fdroidserver": {
-    "commitId": "fa186c40c4c2cb146cabf0abe763eb6583859d4c",
+    "commitId": "cd696924244c84a9b285067e06cca78fde94d016",
     "isDirty": true,
     "modifiedFiles": [
-      "fdroidserver/update.py"
+      "fdroidserver/index.py",
+      "fdroidserver/mirror.py"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1636221134000,
-  "subcommand": "update"
+  "startTimestamp": 1638456231000,
+  "subcommand": "deploy"
 }
