@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d2d9dc0b_b80c877b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-02T17:57:03Z",
+      "side": 1,
+      "message": "Actually I think we shouldn\u0027t do this.\n\nThe list is auto generated, so this repo should never have any files that don\u0027t belong.\n\nOtherwise they\u0027ll be in gitignore and thus not in the commit, but still be present in the list, breaking build. e.g. index_unsigned.jar",
+      "revId": "d7a07c3dd78eb5541092b818c2529c8612efc465",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
