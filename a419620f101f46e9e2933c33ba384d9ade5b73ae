@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3e1284d1_4dcf77b3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-02T17:56:22Z",
+      "side": 1,
+      "message": "Builds once I remove index_unsigned.jar from fdroid-repo.mk",
+      "revId": "a419620f101f46e9e2933c33ba384d9ade5b73ae",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
