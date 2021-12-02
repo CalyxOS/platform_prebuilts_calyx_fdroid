@@ -197,6 +197,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6bc8fe8c_dd0c5303",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-02T13:55:43Z",
+      "side": 1,
+      "message": "I think this is looking worth another test run, could you try it?\n\nNew keys are not an easy option since all existing installs will expect the existing key.  Since this is currently only used offline and built into a system partition that is protected by verified boot, the signing key is not so important here.  So I think it makes sense to just use the existing key.  If someone has the signing keys, it would be possible to add a user-added rogue mirror, but if an attacker can do that, they could add a new repo.  I suppose the rogue mirror would not show up on the Manage Repositories screen, so it would have that small vuln.\n\n\nFYI, ndk/sources/cxx-stl/llvm-libc++/ includes directories with `\u003d` in the names, but ndk/sources/cxx-stl/llvm-libc++/Android.mk does not refer to them.  They seem to only be testfiles.",
+      "parentUuid": "58f23d63_f7bb521f",
+      "revId": "18805bc9a7c0628e5c15b923555daec9650e0752",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d8fd20ec_c1466b7f",
