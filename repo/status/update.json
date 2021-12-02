@@ -1,33 +1,82 @@
 {
+  "/etc/issue.net": "Debian GNU/Linux 11",
   "antiFeatures": {
+    "NonFreeAdd": {
+      "apps": [
+        "org.thoughtcrime.securesms"
+      ]
+    },
     "NonFreeNet": {
       "apps": [
         "com.aurora.store",
         "com.duckduckgo.mobile.android",
-        "org.secuso.privacyfriendlyweather"
+        "org.secuso.privacyfriendlyweather",
+        "org.thoughtcrime.securesms"
       ]
     },
-    "Tracking": {
+    "UpstreamNonFree": {
       "apps": [
-        "org.openobservatory.ooniprobe"
+        "org.thoughtcrime.securesms"
       ]
     }
   },
+  "apksigner": "/usr/bin/apksigner",
+  "archivePolicy0": [],
   "commandLine": [
-    "../fdroidserver/fdroid update",
+    "/home/fdroid/fdroidserver/fdroid update",
+    "--verbose",
+    "--nosign",
+    "--delete-unknown",
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1636221197413,
+  "endTimestamp": 1638452015102,
   "failedBuilds": {},
-  "fdroidserver": {
-    "commitId": "fa186c40c4c2cb146cabf0abe763eb6583859d4c",
+  "fdroiddata": {
+    "commitId": "ddb257660cdbd5b4544f47a31554a2cd47423a84",
     "isDirty": true,
     "modifiedFiles": [
-      "fdroidserver/update.py"
+      "config.yml",
+      "plugins/fdroid_ersatz-update.py",
+      "update"
+    ],
+    "untrackedFiles": [
+      "generate-fdroid-repo-makefiles.py"
+    ]
+  },
+  "fdroidserver": {
+    "commitId": "cd696924244c84a9b285067e06cca78fde94d016",
+    "isDirty": true,
+    "modifiedFiles": [
+      "fdroidserver/index.py",
+      "fdroidserver/mirror.py"
     ],
     "untrackedFiles": []
   },
+  "jarsigner": "/usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/java-11-openjdk-amd64/bin/keytool",
+  "needsUpdate": [
+    "app.organicmaps",
+    "at.bitfire.davdroid",
+    "com.artifex.mupdf.viewer.app",
+    "com.aurora.store",
+    "com.duckduckgo.mobile.android",
+    "com.fsck.k9",
+    "com.jarsilio.android.scrambledeggsif",
+    "com.nextcloud.client",
+    "com.yubico.yubioath",
+    "info.guardianproject.locationprivacy",
+    "org.briarproject.briar.android",
+    "org.calyxinstitute.vpn",
+    "org.dmfs.tasks",
+    "org.openobservatory.ooniprobe",
+    "org.secuso.privacyfriendlyweather",
+    "org.sufficientlysecure.keychain",
+    "org.thoughtcrime.securesms",
+    "org.torproject.android",
+    "org.torproject.torbrowser",
+    "se.leap.riseupvpn"
+  ],
   "noPackages": [
     "app.organicmaps",
     "at.bitfire.davdroid",
@@ -50,6 +99,28 @@
     "org.torproject.torbrowser",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1636221134000,
+  "noUpdateCheck": [
+    "app.organicmaps",
+    "at.bitfire.davdroid",
+    "com.artifex.mupdf.viewer.app",
+    "com.aurora.store",
+    "com.duckduckgo.mobile.android",
+    "com.fsck.k9",
+    "com.jarsilio.android.scrambledeggsif",
+    "com.nextcloud.client",
+    "com.yubico.yubioath",
+    "info.guardianproject.locationprivacy",
+    "org.briarproject.briar.android",
+    "org.calyxinstitute.vpn",
+    "org.dmfs.tasks",
+    "org.openobservatory.ooniprobe",
+    "org.secuso.privacyfriendlyweather",
+    "org.sufficientlysecure.keychain",
+    "org.thoughtcrime.securesms",
+    "org.torproject.android",
+    "org.torproject.torbrowser",
+    "se.leap.riseupvpn"
+  ],
+  "startTimestamp": 1638451896000,
   "subcommand": "update"
 }
