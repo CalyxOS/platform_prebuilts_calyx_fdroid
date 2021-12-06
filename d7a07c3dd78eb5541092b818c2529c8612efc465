@@ -16,6 +16,24 @@
       "message": "Actually I think we shouldn\u0027t do this.\n\nThe list is auto generated, so this repo should never have any files that don\u0027t belong.\n\nOtherwise they\u0027ll be in gitignore and thus not in the commit, but still be present in the list, breaking build. e.g. index_unsigned.jar",
       "revId": "d7a07c3dd78eb5541092b818c2529c8612efc465",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bce9c299_fda8438f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000021
+      },
+      "writtenOn": "2021-12-06T13:52:45Z",
+      "side": 1,
+      "message": "Yeah, its not mandatory.  I was thinking it would be useful to a) mark which files should never be included, and b) make it easy to remove them with `git clean`.",
+      "parentUuid": "d2d9dc0b_b80c877b",
+      "revId": "d7a07c3dd78eb5541092b818c2529c8612efc465",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
