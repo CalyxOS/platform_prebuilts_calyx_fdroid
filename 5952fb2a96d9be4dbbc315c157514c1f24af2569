@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "47274b28_8d0019f9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-22T23:43:41Z",
+      "side": 1,
+      "message": "This apk has to be signed till https://review.calyxos.org/q/topic:own-key goes in.",
+      "revId": "5952fb2a96d9be4dbbc315c157514c1f24af2569",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
