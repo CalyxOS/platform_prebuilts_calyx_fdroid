@@ -13,7 +13,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/com.nextcloud.client/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.nextcloud.client/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.yubico.yubioath/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.yubico.yubioath/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/icons-120/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-120/com.duckduckgo.mobile.android.51131000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.duckduckgo.mobile.android.51131000.png \
+    prebuilts/calyx/fdroid/repo/icons-120/com.duckduckgo.mobile.android.51160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.duckduckgo.mobile.android.51160000.png \
     prebuilts/calyx/fdroid/repo/icons-120/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-120/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-120/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/org.calyxinstitute.vpn.160000.png \
@@ -22,7 +22,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-120/org.sufficientlysecure.keychain.57500.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/org.sufficientlysecure.keychain.57500.png \
     prebuilts/calyx/fdroid/repo/icons-120/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/se.leap.riseupvpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-160/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-160/com.duckduckgo.mobile.android.51131000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.duckduckgo.mobile.android.51131000.png \
+    prebuilts/calyx/fdroid/repo/icons-160/com.duckduckgo.mobile.android.51160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.duckduckgo.mobile.android.51160000.png \
     prebuilts/calyx/fdroid/repo/icons-160/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-160/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-160/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/org.calyxinstitute.vpn.160000.png \
@@ -31,7 +31,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-160/org.sufficientlysecure.keychain.57500.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/org.sufficientlysecure.keychain.57500.png \
     prebuilts/calyx/fdroid/repo/icons-160/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/se.leap.riseupvpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-240/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-240/com.duckduckgo.mobile.android.51131000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.duckduckgo.mobile.android.51131000.png \
+    prebuilts/calyx/fdroid/repo/icons-240/com.duckduckgo.mobile.android.51160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.duckduckgo.mobile.android.51160000.png \
     prebuilts/calyx/fdroid/repo/icons-240/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-240/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-240/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/org.calyxinstitute.vpn.160000.png \
@@ -40,7 +40,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-240/org.sufficientlysecure.keychain.57500.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/org.sufficientlysecure.keychain.57500.png \
     prebuilts/calyx/fdroid/repo/icons-240/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/se.leap.riseupvpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-320/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-320/com.duckduckgo.mobile.android.51131000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.duckduckgo.mobile.android.51131000.png \
+    prebuilts/calyx/fdroid/repo/icons-320/com.duckduckgo.mobile.android.51160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.duckduckgo.mobile.android.51160000.png \
     prebuilts/calyx/fdroid/repo/icons-320/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-320/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-320/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/org.calyxinstitute.vpn.160000.png \
@@ -49,7 +49,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-320/org.sufficientlysecure.keychain.57500.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/org.sufficientlysecure.keychain.57500.png \
     prebuilts/calyx/fdroid/repo/icons-320/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/se.leap.riseupvpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-480/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-480/com.duckduckgo.mobile.android.51131000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.duckduckgo.mobile.android.51131000.png \
+    prebuilts/calyx/fdroid/repo/icons-480/com.duckduckgo.mobile.android.51160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.duckduckgo.mobile.android.51160000.png \
     prebuilts/calyx/fdroid/repo/icons-480/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-480/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-480/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/org.calyxinstitute.vpn.160000.png \
@@ -58,7 +58,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-480/org.sufficientlysecure.keychain.57500.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/org.sufficientlysecure.keychain.57500.png \
     prebuilts/calyx/fdroid/repo/icons-480/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/se.leap.riseupvpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-640/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-640/com.duckduckgo.mobile.android.51131000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.duckduckgo.mobile.android.51131000.png \
+    prebuilts/calyx/fdroid/repo/icons-640/com.duckduckgo.mobile.android.51160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.duckduckgo.mobile.android.51160000.png \
     prebuilts/calyx/fdroid/repo/icons-640/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons-640/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/info.guardianproject.locationprivacy.31.png \
     prebuilts/calyx/fdroid/repo/icons-640/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/org.calyxinstitute.vpn.160000.png \
@@ -67,7 +67,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/icons-640/org.sufficientlysecure.keychain.57500.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/org.sufficientlysecure.keychain.57500.png \
     prebuilts/calyx/fdroid/repo/icons-640/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/se.leap.riseupvpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons/com.duckduckgo.mobile.android.51131000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.duckduckgo.mobile.android.51131000.png \
+    prebuilts/calyx/fdroid/repo/icons/com.duckduckgo.mobile.android.51160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.duckduckgo.mobile.android.51160000.png \
     prebuilts/calyx/fdroid/repo/icons/com.yubico.yubioath.20199.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.yubico.yubioath.20199.png \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \
     prebuilts/calyx/fdroid/repo/icons/info.guardianproject.locationprivacy.31.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/info.guardianproject.locationprivacy.31.png \
