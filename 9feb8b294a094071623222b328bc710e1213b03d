@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4214f0e3_ee448112",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-04-11T21:10:40Z",
+      "side": 1,
+      "message": "TODO: Host APK in a better place and have the common fdroid repo serve it (but not as suggested version)",
+      "revId": "9feb8b294a094071623222b328bc710e1213b03d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
