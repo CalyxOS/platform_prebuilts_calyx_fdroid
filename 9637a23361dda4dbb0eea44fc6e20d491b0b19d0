@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e3c38ac_bd5e8a6f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-04-29T18:53:27Z",
+      "side": 1,
+      "message": "W PackageManager: System package org.fdroid.fdroid signature changed; retaining data.",
+      "revId": "9637a23361dda4dbb0eea44fc6e20d491b0b19d0",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
