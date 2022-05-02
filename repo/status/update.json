@@ -18,7 +18,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1647057781415,
+  "endTimestamp": 1651517860808,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "fa186c40c4c2cb146cabf0abe763eb6583859d4c",
@@ -37,19 +37,16 @@
     "com.fsck.k9",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
-    "com.yubico.yubioath",
-    "info.guardianproject.locationprivacy",
     "org.briarproject.briar.android",
     "org.calyxinstitute.vpn",
     "org.dmfs.tasks",
     "org.openobservatory.ooniprobe",
     "org.secuso.privacyfriendlyweather",
-    "org.sufficientlysecure.keychain",
     "org.thoughtcrime.securesms",
     "org.torproject.android",
     "org.torproject.torbrowser",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1647057705000,
+  "startTimestamp": 1651517794000,
   "subcommand": "update"
 }
