@@ -16,6 +16,23 @@
       "message": "W PackageManager: System package org.fdroid.fdroid signature changed; retaining data.",
       "revId": "9637a23361dda4dbb0eea44fc6e20d491b0b19d0",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b950384_f88d3f91",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-03T13:43:36Z",
+      "side": 1,
+      "message": "1.15 just got tagged, going to wait for it to get built.\n\nhttps://gitlab.com/fdroid/fdroidclient/-/tags/1.15\n\nThat means this won\u0027t make this build, but that\u0027s ok, next build it is.",
+      "revId": "9637a23361dda4dbb0eea44fc6e20d491b0b19d0",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
