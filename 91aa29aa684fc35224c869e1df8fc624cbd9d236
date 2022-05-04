@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "330619a9_6d14df1d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-04T13:10:37Z",
+      "side": 1,
+      "message": "Install: /mnt/molu2/android-out/calyx/android12L/target/product/sunfish/product/tbd/F-Droid.apk",
+      "revId": "91aa29aa684fc35224c869e1df8fc624cbd9d236",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
