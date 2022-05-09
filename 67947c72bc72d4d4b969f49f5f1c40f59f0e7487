@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9dc71d68_59818860",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-09T19:01:52Z",
+      "side": 1,
+      "message": "Please don\u0027t move around / change makefiles too much, keep it like I had it for now / testing.\n\nThe actual addition to the f-droid repository here needs to happen from another place, this is all auto generated, I\u0027ll just make the changes later when this is final and tested.",
+      "revId": "67947c72bc72d4d4b969f49f5f1c40f59f0e7487",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
