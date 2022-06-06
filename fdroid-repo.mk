@@ -7,53 +7,45 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/categories.txt:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/categories.txt \
     prebuilts/calyx/fdroid/repo/com.artifex.mupdf.viewer.app/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.artifex.mupdf.viewer.app/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.aurora.store/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.aurora.store/en-US/icon.png \
-    prebuilts/calyx/fdroid/repo/com.duckduckgo.mobile.android/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.duckduckgo.mobile.android/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.fsck.k9/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.fsck.k9/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.nextcloud.client/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.nextcloud.client/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/icons-120/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-120/com.duckduckgo.mobile.android.51210000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/com.duckduckgo.mobile.android.51210000.png \
     prebuilts/calyx/fdroid/repo/icons-120/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/org.calyxinstitute.vpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-120/org.dmfs.tasks.82200.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/org.dmfs.tasks.82200.png \
     prebuilts/calyx/fdroid/repo/icons-120/org.secuso.privacyfriendlyweather.15.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/org.secuso.privacyfriendlyweather.15.png \
-    prebuilts/calyx/fdroid/repo/icons-120/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/se.leap.riseupvpn.160000.png \
+    prebuilts/calyx/fdroid/repo/icons-120/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/icons-160/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-160/com.duckduckgo.mobile.android.51210000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/com.duckduckgo.mobile.android.51210000.png \
     prebuilts/calyx/fdroid/repo/icons-160/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/org.calyxinstitute.vpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-160/org.dmfs.tasks.82200.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/org.dmfs.tasks.82200.png \
     prebuilts/calyx/fdroid/repo/icons-160/org.secuso.privacyfriendlyweather.15.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/org.secuso.privacyfriendlyweather.15.png \
-    prebuilts/calyx/fdroid/repo/icons-160/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/se.leap.riseupvpn.160000.png \
+    prebuilts/calyx/fdroid/repo/icons-160/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/icons-240/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-240/com.duckduckgo.mobile.android.51210000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/com.duckduckgo.mobile.android.51210000.png \
     prebuilts/calyx/fdroid/repo/icons-240/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/org.calyxinstitute.vpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-240/org.dmfs.tasks.82200.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/org.dmfs.tasks.82200.png \
     prebuilts/calyx/fdroid/repo/icons-240/org.secuso.privacyfriendlyweather.15.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/org.secuso.privacyfriendlyweather.15.png \
-    prebuilts/calyx/fdroid/repo/icons-240/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/se.leap.riseupvpn.160000.png \
+    prebuilts/calyx/fdroid/repo/icons-240/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/icons-320/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-320/com.duckduckgo.mobile.android.51210000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/com.duckduckgo.mobile.android.51210000.png \
     prebuilts/calyx/fdroid/repo/icons-320/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/org.calyxinstitute.vpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-320/org.dmfs.tasks.82200.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/org.dmfs.tasks.82200.png \
     prebuilts/calyx/fdroid/repo/icons-320/org.secuso.privacyfriendlyweather.15.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/org.secuso.privacyfriendlyweather.15.png \
-    prebuilts/calyx/fdroid/repo/icons-320/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/se.leap.riseupvpn.160000.png \
+    prebuilts/calyx/fdroid/repo/icons-320/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/icons-480/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-480/com.duckduckgo.mobile.android.51210000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/com.duckduckgo.mobile.android.51210000.png \
     prebuilts/calyx/fdroid/repo/icons-480/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/org.calyxinstitute.vpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-480/org.dmfs.tasks.82200.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/org.dmfs.tasks.82200.png \
     prebuilts/calyx/fdroid/repo/icons-480/org.secuso.privacyfriendlyweather.15.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/org.secuso.privacyfriendlyweather.15.png \
-    prebuilts/calyx/fdroid/repo/icons-480/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/se.leap.riseupvpn.160000.png \
+    prebuilts/calyx/fdroid/repo/icons-480/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/icons-640/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons-640/com.duckduckgo.mobile.android.51210000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/com.duckduckgo.mobile.android.51210000.png \
     prebuilts/calyx/fdroid/repo/icons-640/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/org.calyxinstitute.vpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons-640/org.dmfs.tasks.82200.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/org.dmfs.tasks.82200.png \
     prebuilts/calyx/fdroid/repo/icons-640/org.secuso.privacyfriendlyweather.15.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/org.secuso.privacyfriendlyweather.15.png \
-    prebuilts/calyx/fdroid/repo/icons-640/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/se.leap.riseupvpn.160000.png \
+    prebuilts/calyx/fdroid/repo/icons-640/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/icons/com.artifex.mupdf.viewer.app.100.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.artifex.mupdf.viewer.app.100.png \
-    prebuilts/calyx/fdroid/repo/icons/com.duckduckgo.mobile.android.51210000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/com.duckduckgo.mobile.android.51210000.png \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \
     prebuilts/calyx/fdroid/repo/icons/org.calyxinstitute.vpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/org.calyxinstitute.vpn.160000.png \
     prebuilts/calyx/fdroid/repo/icons/org.dmfs.tasks.82200.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/org.dmfs.tasks.82200.png \
     prebuilts/calyx/fdroid/repo/icons/org.secuso.privacyfriendlyweather.15.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/org.secuso.privacyfriendlyweather.15.png \
-    prebuilts/calyx/fdroid/repo/icons/se.leap.riseupvpn.160000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/se.leap.riseupvpn.160000.png \
+    prebuilts/calyx/fdroid/repo/icons/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/index.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.jar \
     prebuilts/calyx/fdroid/repo/index-v1.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index-v1.jar \
     prebuilts/calyx/fdroid/repo/index-v1.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index-v1.json \
@@ -76,7 +68,6 @@ PRODUCT_PACKAGES += \
     Briar \
     CalyxVPN \
     DAVx5 \
-    DuckDuckGoPrivacyBrowser \
     K-9Mail \
     MuPDFviewer \
     Nextcloud \
