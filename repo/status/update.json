@@ -3,7 +3,6 @@
     "NonFreeNet": {
       "apps": [
         "com.aurora.store",
-        "com.duckduckgo.mobile.android",
         "org.secuso.privacyfriendlyweather"
       ]
     },
@@ -18,7 +17,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1651517860808,
+  "endTimestamp": 1654634374055,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "fa186c40c4c2cb146cabf0abe763eb6583859d4c",
@@ -33,7 +32,6 @@
     "at.bitfire.davdroid",
     "com.artifex.mupdf.viewer.app",
     "com.aurora.store",
-    "com.duckduckgo.mobile.android",
     "com.fsck.k9",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
@@ -47,6 +45,6 @@
     "org.torproject.torbrowser",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1651517794000,
+  "startTimestamp": 1654634309000,
   "subcommand": "update"
 }
