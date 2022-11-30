@@ -1,9 +1,7 @@
 Connectivity
 Default
 Internet
-Multimedia
 Navigation
 Reading
 Security
 System
-Writing
