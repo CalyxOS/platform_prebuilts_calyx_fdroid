@@ -1,16 +1,88 @@
 {
+  "/etc/issue.net": "Debian GNU/Linux 11",
+  "antiFeatures": {
+    "NonFreeNet": {
+      "apps": [
+        "com.aurora.store",
+        "wangdaye.com.geometricweather"
+      ]
+    },
+    "Tracking": {
+      "apps": [
+        "org.openobservatory.ooniprobe"
+      ]
+    }
+  },
+  "apksigner": "/usr/local/bin/apksigner",
+  "archivePolicy0": [],
   "commandLine": [
     "../fdroidserver/fdroid update",
     "--pretty"
   ],
+  "disabled": [],
+  "endTimestamp": 1669843684234,
+  "failedBuilds": {},
   "fdroidserver": {
-    "commitId": "fa186c40c4c2cb146cabf0abe763eb6583859d4c",
+    "commitId": "b54eb946f19ca0c4bf2c681715716b3355ea5b17",
     "isDirty": true,
     "modifiedFiles": [
       "fdroidserver/update.py"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1661918555000,
+  "jarsigner": "/usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/java-11-openjdk-amd64/bin/keytool",
+  "needsUpdate": [
+    "app.organicmaps",
+    "at.bitfire.davdroid",
+    "com.artifex.mupdf.viewer.app",
+    "com.aurora.store",
+    "com.fsck.k9",
+    "com.jarsilio.android.scrambledeggsif",
+    "com.nextcloud.client",
+    "org.briarproject.briar.android",
+    "org.calyxinstitute.vpn",
+    "org.openobservatory.ooniprobe",
+    "org.thoughtcrime.securesms",
+    "org.torproject.android",
+    "org.torproject.torbrowser",
+    "se.leap.riseupvpn",
+    "wangdaye.com.geometricweather"
+  ],
+  "noPackages": [
+    "app.organicmaps",
+    "at.bitfire.davdroid",
+    "com.artifex.mupdf.viewer.app",
+    "com.aurora.store",
+    "com.fsck.k9",
+    "com.jarsilio.android.scrambledeggsif",
+    "com.nextcloud.client",
+    "org.briarproject.briar.android",
+    "org.calyxinstitute.vpn",
+    "org.openobservatory.ooniprobe",
+    "org.thoughtcrime.securesms",
+    "org.torproject.android",
+    "org.torproject.torbrowser",
+    "se.leap.riseupvpn",
+    "wangdaye.com.geometricweather"
+  ],
+  "noUpdateCheck": [
+    "app.organicmaps",
+    "at.bitfire.davdroid",
+    "com.artifex.mupdf.viewer.app",
+    "com.aurora.store",
+    "com.fsck.k9",
+    "com.jarsilio.android.scrambledeggsif",
+    "com.nextcloud.client",
+    "org.briarproject.briar.android",
+    "org.calyxinstitute.vpn",
+    "org.openobservatory.ooniprobe",
+    "org.thoughtcrime.securesms",
+    "org.torproject.android",
+    "org.torproject.torbrowser",
+    "se.leap.riseupvpn",
+    "wangdaye.com.geometricweather"
+  ],
+  "startTimestamp": 1669843618000,
   "subcommand": "update"
 }

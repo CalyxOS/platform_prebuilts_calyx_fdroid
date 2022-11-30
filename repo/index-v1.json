@@ -1,11 +1,11 @@
 {
   "repo": {
-    "timestamp": 1661918619000,
-    "version": 20000,
+    "timestamp": 1669843679000,
+    "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
-    "address": "file:///product/fdroid/repo/",
-    "description": "\nThis is a repository of apps to be used with CalyxOS. It is installed\nto the system partition, and meant to be used to initially install\napps when offline. It contains a limited number of applications deemed\nsuitable for inclusion with CalyxOS.\n"
+    "address": "file:///product/fdroid/repo",
+    "description": "This is a repository of apps to be used with CalyxOS. It is installed\nto the system partition, and meant to be used to initially install\napps when offline. It contains a limited number of applications deemed\nsuitable for inclusion with CalyxOS.\n"
   },
   "requests": {
     "install": [],
@@ -13,6 +13,9 @@
   },
   "apps": [
     {
+      "allowedAPKSigningKeys": [
+        "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532"
+      ],
       "antiFeatures": [
         "NonFreeNet"
       ],
@@ -31,9 +34,9 @@
       "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
       "translation": "https://poeditor.com/join/project/54swaCpFXJ",
       "webSite": "http://auroraoss.com",
-      "added": 1661918557000,
+      "added": 1669843620000,
       "packageName": "com.aurora.store",
-      "lastUpdated": 1661918557000,
+      "lastUpdated": 1669843620000,
       "localized": {
         "de": {
           "summary": "Ein Google Playstore-Client"
@@ -106,6 +109,9 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "501ddf14a6ecf904fb20285c56a565cb987a867f91572ee33c2d43771cca4e37"
+      ],
       "binaries": "https://briarproject.org/apk/briar-%v.apk",
       "bitcoin": "1NZCKkUCtJV2U2Y9hDb9uq8S7ksFCFGR6K",
       "categories": [
@@ -115,7 +121,7 @@
         "Default"
       ],
       "changelog": "https://code.briarproject.org/briar/briar/wikis/changelog",
-      "suggestedVersionCode": "10410",
+      "suggestedVersionCode": "10415",
       "description": "Briar is a messaging app designed for activists, journalists, and anyone else\nwho needs a safe, easy and robust way to communicate. Unlike traditional\nmessaging tools such as email, Twitter or Telegram, Briar doesn't rely on a\ncentral server - messages are synchronized directly between the users' devices.\nIf the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the\ninformation flowing in a crisis. If the Internet's up, Briar can sync via the\nTor network, protecting users and their relationships from surveillance.",
       "flattrID": "592836",
       "issueTracker": "https://code.briarproject.org/briar/briar/issues",
@@ -124,9 +130,9 @@
       "sourceCode": "https://code.briarproject.org/briar/briar",
       "translation": "https://www.transifex.com/otf/briar/",
       "webSite": "https://briarproject.org/",
-      "added": 1661918560000,
+      "added": 1669843623000,
       "packageName": "org.briarproject.briar.android",
-      "lastUpdated": 1661918560000,
+      "lastUpdated": 1669843623000,
       "localized": {
         "de": {
           "summary": "Soziales Netzwerk im Darknet"
@@ -190,6 +196,9 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "236f6827a5bee2b1b7e5215b1c7722e67280ffa2a88722b0ee64614d38737276"
+      ],
       "bitcoin": "14wntQ8cBdnhUVfYmDjXz6PbpSSX8nCtkr",
       "categories": [
         "Internet",
@@ -205,10 +214,10 @@
       "sourceCode": "https://gitlab.com/calyxos/bitmask_android",
       "translation": "https://www.transifex.com/otf/bitmask-android/",
       "webSite": "https://calyx.net",
-      "added": 1661918565000,
+      "added": 1669843628000,
       "icon": "org.calyxinstitute.vpn.160000.png",
       "packageName": "org.calyxinstitute.vpn",
-      "lastUpdated": 1661918565000,
+      "lastUpdated": 1669843628000,
       "localized": {
         "de": {
           "summary": "Kostenloser VPN-Dienst von The Calyx Institute"
@@ -266,6 +275,9 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707"
+      ],
       "authorName": "bitfire web engineering",
       "bitcoin": "bc1q0hvy0mknt9vce2f9hh829h72n3sht9llaltumk",
       "categories": [
@@ -273,7 +285,7 @@
         "Default"
       ],
       "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
-      "suggestedVersionCode": "402030101",
+      "suggestedVersionCode": "402040002",
       "donate": "https://www.davx5.com/donate",
       "issueTracker": "https://www.davx5.com/forums",
       "liberapayID": "14101",
@@ -281,9 +293,9 @@
       "sourceCode": "https://www.davx5.com/source",
       "translation": "https://www.transifex.com/bitfireAT/davx5/",
       "webSite": "https://www.davx5.com/",
-      "added": 1661918568000,
+      "added": 1669843631000,
       "packageName": "at.bitfire.davdroid",
-      "lastUpdated": 1661918568000,
+      "lastUpdated": 1669843631000,
       "localized": {
         "ar": {
           "description": "DAVx\u2075 \u0647\u0648 \u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0632\u0627\u0645\u0646\u0629 \u0644\u0622\u0646\u062f\u0631\u0648\u064a\u062f \u064a\u062a\u0643\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0646\u0638\u0627\u0645 \u0622\u0646\u062f\u0631\u0648\u064a\u062f.\n\n\u0627\u0633\u062a\u062e\u062f\u0645\u0647 \u0645\u0639 \u062e\u0627\u062f\u0645\u0643 \u0627\u0644\u062e\u0627\u0635 \u0623\u0648 \u0645\u0639 \u062c\u0647\u0629 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u062a\u062b\u0642 \u0628\u0647\u0627 \u0644\u0625\u0628\u0642\u0627\u0621 \u062c\u0647\u0627\u062a \u0627\u062a\u0635\u0627\u0644\u0643 \u0648 \u0623\u062d\u062f\u0627\u062b\u0643 \u0648 \u0645\u0647\u0627\u0645\u0643 \u062a\u062d\u062a \u0633\u064a\u0637\u0631\u062a\u0643.\n\n\u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u062e\u0627\u062f\u0645\u0627\u062a/\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a \u062a\u062c\u0631\u0628\u062a\u0647\u0627 \u060c \u0648\u0644\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u060c \u0623\u0644\u0642 \u0646\u0638\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u064a\u0628.",
@@ -358,12 +370,47 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "8afcc002005c6634417f24ef4759e8d0e367c814fb7d7d7ad7f7f619f428ccea"
+      ],
+      "antiFeatures": [
+        "NonFreeNet"
+      ],
+      "authorName": "wangdaye",
+      "categories": [
+        "Internet"
+      ],
+      "changelog": "https://github.com/WangDaYeeeeee/GeometricWeather/releases",
+      "suggestedVersionCode": "30102",
+      "issueTracker": "https://github.com/WangDaYeeeeee/GeometricWeather/issues",
+      "license": "LGPL-3.0-only",
+      "sourceCode": "https://github.com/WangDaYeeeeee/GeometricWeather",
+      "added": 1669843633000,
+      "packageName": "wangdaye.com.geometricweather",
+      "lastUpdated": 1669843633000,
+      "localized": {
+        "en-US": {
+          "description": "Geometric Weather is a free and open-source Android weather app.\nThis build flavor has all proprietary dependencies and related code stripped out to make it eligible for inclusion on F-Droid.\n\nIn the app, you'll find:<ul>\n<li>Real-time temperature</li>\n<li>Daily forecasts up to 15 days, and hourly forecasts for the next 24 hours</li>\n<li>Air quality and allergen information</li>\n<li>Severe weather and precipitation alerts</li></ul>\n\nThe app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability:<ul>\n<li>Automatic dark theme</li>\n<li>Custom icon themes</li>\n<li>Large selection of home screen widgets for at-a-glance information</li>\n<li>Live wallpaper</li></ul>\n\nCurrent supported weather providers in F-Droid flavor:<ul>\n<li>AccuWeather</li>\n<li>OpenWeatherMap</li>\n<li>M\u00e9t\u00e9o France</li></ul>\n\nThis app requests a number of permissions; some required, some optional.\n\nRequired permissions:<ul>\n<li>Network (ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, INTERNET): Allows the app to fetch weather data from providers over the Internet</li>\n<li>Background updates (RECEIVE_BOOT_COMPLETED, WAKE_LOCK, FOREGROUND_SERVICE, SET_ALARM): Allows the app to refresh weather data in the background</li>\n<li>Tile (EXPAND_STATUS_BAR): Allows the app to launch itself from Quick Settings</li>\n</ul>\n\nOptional permissions: <ul>\n<li>Location (ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION): Allows the app to show weather in your current location</li>\n<li>Storage (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE): Allows the app to set the live weather wallpaper and/or widgets on some devices</li>\n<li>Ignore battery optimizations (REQUEST_IGNORE_BATTERY_OPTIMIZATIONS): Prevents the app from being killed in the background. Potentially more reliable method for fetching background weather data on some devices</li>\n<li>Read phone state (READ_PHONE_STATE): Required by an app dependency: not actually used, but can't be removed. It's okay to never enable this.</li>\n</ul>",
+          "icon": "icon.png",
+          "name": "Geometric Weather",
+          "summary": "A lightweight, powerful, open-source Material Design weather app."
+        },
+        "fr": {
+          "description": "Geometric Weather est une application m\u00e9t\u00e9o Android libre et gratuite.\nCette version ne comporte aucune d\u00e9pendance propri\u00e9taire, en respectant les crit\u00e8res d\u2019inclusion de F-Droid.\n\nVous trouverez dans cette application, de fa\u00e7on non exhaustive\u00a0:<ul>\n<li>Les temp\u00e9ratures en temps r\u00e9el</li>\n<li>Les pr\u00e9visions quotidiennes jusqu\u2019\u00e0 15 jours, et des pr\u00e9visions horaires pour les 24 prochaines heures</li>\n<li>Des informations sur la qualit\u00e9 de l\u2019air et les allerg\u00e8nes</li>\n<li>Vigilances m\u00e9t\u00e9o et alertes de pr\u00e9cipitations</li></ul>\n\nL\u2019application met l\u2019accent sur l\u2019esth\u00e9tique, avec une exp\u00e9rience utilisateur simple et \u00e9pur\u00e9e, des animations fluides, en Material Design, ainsi que plusieurs personnalisations:<ul>\n<li>Th\u00e8me sombre automatique</li>\n<li>Th\u00e8mes d\u2019ic\u00f4nes personnalis\u00e9es</li>\n<li>Une large s\u00e9lection de widgets pour l\u2019\u00e9cran d\u2019accueil pour disposer de l\u2019information en un coup d\u2019\u0153il</li>\n<li>Fond d\u2019\u00e9crans anim\u00e9s</li></ul>\n\nLes fournisseurs de donn\u00e9es m\u00e9t\u00e9o disponibles dans la version F-Droid sont les suivants\u00a0:<ul>\n<li>AccuWeather</li>\n<li>OpenWeatherMap</li>\n<li>M\u00e9t\u00e9o France</li></ul>\n\nL\u2019application n\u00e9cessite un certain nombre de permissions\u00a0; certaines obligatoires, d\u2019autres facultatives.\n\nPermissions obligatoires\u00a0:<ul>\n<li>R\u00e9seau (ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, INTERNET)\u00a0: permet \u00e0 l\u2019application de r\u00e9cup\u00e9rer des donn\u00e9es m\u00e9t\u00e9o depuis des fournisseurs sur Internet</li>\n<li>Mises \u00e0 jour en arri\u00e8re-plan (RECEIVE_BOOT_COMPLETED, WAKE_LOCK, FOREGROUND_SERVICE, SET_ALARM)\u00a0: permet \u00e0 l\u2019application de rafra\u00eechir les donn\u00e9es m\u00e9t\u00e9o en arri\u00e8re-plan</li>\n<li>Ic\u00f4ne syst\u00e8me (EXPAND_STATUS_BAR)\u00a0: permet \u00e0 l\u2019application de se lancer depuis les param\u00e8tres rapides</li>\n</ul>\n\nPermissions facultatives\u00a0:<ul>\n<li>Localisation (ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION)\u00a0: permet \u00e0 l\u2019application d\u2019afficher la m\u00e9t\u00e9o pour votre position actuelle</li>\n<li>Stockage (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE)\u00a0: permet \u00e0 l\u2019application de d\u00e9finir le fond d\u2019\u00e9cran anim\u00e9 et/ou les widgets sur certains appareils</li>\n<li>Ignorer l\u2019optimisation de la batterie (REQUEST_IGNORE_BATTERY_OPTIMIZATIONS)\u00a0: emp\u00eache l\u2019application d\u2019\u00eatre tu\u00e9e en arri\u00e8re-plan. M\u00e9thode potentiellement plus fiable pour r\u00e9cup\u00e9rer les mises \u00e0 jour de donn\u00e9es m\u00e9t\u00e9o sur certains appareils</li>\n<li>T\u00e9l\u00e9phone (READ_PHONE_STATE)\u00a0: requis par une d\u00e9pendance de l\u2019application, n\u2019est pas r\u00e9ellement utilis\u00e9e mais ne peut \u00eatre enlev\u00e9e. Elle peut rester d\u00e9sactiv\u00e9e sans probl\u00e8mes.</li>\n</ul>",
+          "summary": "Une application m\u00e9t\u00e9o en Material Design l\u00e9g\u00e8re, puissante et libre."
+        }
+      }
+    },
+    {
+      "allowedAPKSigningKeys": [
+        "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576"
+      ],
       "categories": [
         "Internet",
         "Default"
       ],
       "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
-      "suggestedVersionCode": "33001",
+      "suggestedVersionCode": "34000",
       "description": "E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do\nOpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings\nand account configurations can be exported so that they can be imported easily\nif you are switching packages/signatures: a file manager will need to be already\ninstalled to achieve this.",
       "issueTracker": "https://github.com/k9mail/k-9/issues",
       "liberapayID": "34990",
@@ -371,9 +418,9 @@
       "sourceCode": "https://github.com/k9mail/k-9",
       "translation": "https://www.transifex.com/projects/p/k9mail/",
       "webSite": "https://k9mail.app/",
-      "added": 1661918570000,
+      "added": 1669843635000,
       "packageName": "com.fsck.k9",
-      "lastUpdated": 1661918570000,
+      "lastUpdated": 1669843635000,
       "localized": {
         "de": {
           "summary": "Voll ausgestatteter E-Mail-Client"
@@ -434,6 +481,9 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce"
+      ],
       "categories": [
         "Reading",
         "Default"
@@ -445,9 +495,9 @@
       "license": "AGPL-3.0-or-later",
       "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
       "webSite": "https://mupdf.com",
-      "added": 1661918571000,
+      "added": 1669843636000,
       "packageName": "com.artifex.mupdf.viewer.app",
-      "lastUpdated": 1661918571000,
+      "lastUpdated": 1669843636000,
       "localized": {
         "de": {
           "summary": "Leichtgewichtiger Dokumentenbetrachter"
@@ -508,11 +558,14 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83"
+      ],
       "categories": [
         "Internet"
       ],
       "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "30210190",
+      "suggestedVersionCode": "30230052",
       "description": "A safe home for all your data. Access & share your files, calendars, contacts,\nmail & more from any device, on your terms. This is the official Android app.\n\n'''Features:'''\n\n* Easy, modern interface\n* Upload your files to your Nextcloud server\n* Share your files with others\n* Keep your favorite files and folders synced\n* Instant Upload for photos and videos taken by your device\n* Multi-account support",
       "donate": "https://nextcloud.com/include/",
       "issueTracker": "https://github.com/nextcloud/android/issues",
@@ -520,9 +573,9 @@
       "sourceCode": "https://github.com/nextcloud/android",
       "translation": "https://www.transifex.com/nextcloud/nextcloud/",
       "webSite": "https://nextcloud.com",
-      "added": 1661918575000,
+      "added": 1669843640000,
       "packageName": "com.nextcloud.client",
-      "lastUpdated": 1661918575000,
+      "lastUpdated": 1669843640000,
       "localized": {
         "cs": {
           "summary": "Synchroniza\u010dn\u00ed klient"
@@ -598,6 +651,9 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6"
+      ],
       "antiFeatures": [
         "Tracking"
       ],
@@ -610,16 +666,16 @@
         "Default"
       ],
       "changelog": "https://github.com/ooni/probe-android/releases",
-      "suggestedVersionCode": "91",
+      "suggestedVersionCode": "94",
       "description": "Are websites and social media apps blocked? Is your network unusually slow?\nRun OONI Probe to find out!\n\nWith this app, you will examine the blocking of websites and instant\nmessaging apps, measure your network\u2019s speed and performance, and check\nwhether systems that could be responsible for censorship and surveillance\nare in your network.\n\nOONI Probe is developed by the Open Observatory of Network Interference\n(OONI), a free software project (under The Tor Project) that aims to uncover\ninternet censorship around the world.\n\nSince 2012, OONI\u2019s global community has collected millions of network\nmeasurements from more than 200 countries, shedding light on multiple cases\nof network interference.\n\n'''Collect evidence of internet censorship'''\nYou can check whether and how websites and instant messaging apps are\nblocked. The network measurement data you will collect may serve as evidence\nof internet censorship.\n\n'''Detect systems responsible for censorship and surveillance'''\nOONI Probe tests are also designed to uncover the presence of systems\n(middleboxes) that could be responsible for censorship and surveillance.\n\n'''Measure the speed and performance of your network'''\nYou can measure the speed and performance of your network by running OONI\u2019s\nimplementation of the Network Diagnostic Test (NDT). You can also measure\nvideo streaming performance with the Dynamic Adaptive Streaming over HTTP\n(DASH) test.\n\n'''Open data'''\nOONI publishes network measurement data because open data allows third\nparties to verify OONI findings, conduct independent studies, and answer\nother research questions. Openly publishing OONI data also helps increase\ntransparency of internet censorship around the world. You can explore and\ndownload OONI data here: https://ooni.io/data/\n\n'''Free software'''\nAll OONI Probe tests (including our NDT and DASH implementations), are based\non free and open source software. You can find OONI software projects\n<a href=\"https://github.com/ooni\">on Github</a>. Curious to learn how OONI Probe tests\nwork? Learn more <a href=\"https://ooni.io/nettest\">here</a>.\n\nTo receive updates from the OONI-verse,\n<a href=\"https://twitter.com/OpenObservatory\">follow us on Twitter</a>\n\nDisclaimer: Running OONI Probe might be against the terms of service of your ISP\nor legally questionable in your country. By running OONI Probe, you will connect\nto web services which might be banned. The OONI project will publish data\nsubmitted by probes, possibly including your IP address or other identifying\ninformation. In addition, your use of OONI Probe will be clear to anyone who has\naccess to your computer, and to anyone who can monitor your Internet connection\n(such as your employer, ISP or government). Learn more about potential risks\n<a href=\"https://ooni.torproject.org/about/risks\">here</a>",
       "issueTracker": "https://github.com/ooni/probe-android/issues",
       "license": "BSD-2-Clause",
       "sourceCode": "https://github.com/ooni/probe-android",
       "translation": "https://www.transifex.com/otf/ooniprobe/",
       "webSite": "https://ooni.torproject.org/",
-      "added": 1661918581000,
+      "added": 1669843646000,
       "packageName": "org.openobservatory.ooniprobe",
-      "lastUpdated": 1661918581000,
+      "lastUpdated": 1669843646000,
       "localized": {
         "de": {
           "summary": "Offenes Observatorium von Netzerk-Interferenzen (OONI)"
@@ -677,79 +733,16 @@
       }
     },
     {
-      "authorEmail": "marten@dmfs.org",
-      "authorName": "Marten Gajda",
-      "authorWebSite": "https://dmfs.org/",
-      "categories": [
-        "Writing",
-        "Default"
+      "allowedAPKSigningKeys": [
+        "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b"
       ],
-      "changelog": "https://github.com/dmfs/opentasks/releases",
-      "suggestedVersionCode": "82200",
-      "description": "A task manager app, allowing you to categorise your todo list by urgency, state,\ntimeframe etc.\n\nTasks can be synchronised with a CalDAV server using, e.g.,\nhttps://f-droid.org/packages/at.bitfire.davdroid and https://f-droid.org/packages/com.etesync.syncadapter",
-      "issueTracker": "https://github.com/dmfs/opentasks/issues",
-      "license": "Apache-2.0",
-      "sourceCode": "https://github.com/dmfs/opentasks",
-      "webSite": "https://opentasks.app/",
-      "added": 1661918608000,
-      "icon": "org.dmfs.tasks.82200.png",
-      "packageName": "org.dmfs.tasks",
-      "lastUpdated": 1661918608000,
-      "localized": {
-        "de": {
-          "summary": "Eigene Zielsetzungen im Auge behalten"
-        },
-        "en-US": {
-          "icon": "icon.png",
-          "name": "OpenTasks",
-          "summary": "Keep track of your list of goals"
-        },
-        "fr": {
-          "summary": "Gardez une trace de votre liste d'objectifs"
-        },
-        "he": {
-          "summary": "\u05de\u05e2\u05e7\u05d1 \u05d0\u05d7\u05e8 \u05e8\u05e9\u05d9\u05de\u05ea \u05d4\u05d9\u05e2\u05d3\u05d9\u05dd \u05e9\u05dc\u05da"
-        },
-        "it": {
-          "summary": "Tieni traccia della tua lista di obiettivi"
-        },
-        "pl": {
-          "summary": "Zarz\u0105dzanie list\u0105 zada\u0144 do wykonania"
-        },
-        "pt": {
-          "summary": "Mantenha-se a par da sua lista de metas"
-        },
-        "pt-BR": {
-          "summary": "Acompanhe a sua lista de metas"
-        },
-        "pt-PT": {
-          "summary": "Mantenha-se a par da sua lista de metas"
-        },
-        "ro": {
-          "summary": "\u021aine\u021bi eviden\u021ba listei dumneavoastr\u0103 de obiective"
-        },
-        "sq": {
-          "summary": "Ndiqni list\u00ebn tuaj t\u00eb synimeve"
-        },
-        "tr": {
-          "summary": "Hedefler listenizi akl\u0131n\u0131zda tutun"
-        },
-        "uk": {
-          "summary": "\u0412\u0456\u0434\u0441\u0442\u0435\u0436\u0435\u043d\u043d\u044f \u0441\u043f\u0438\u0441\u043a\u0443 \u0446\u0456\u043b\u0435\u0439"
-        },
-        "zh-CN": {
-          "summary": "\u8ffd\u8e2a\u76ee\u6807\u6e05\u5355"
-        }
-      }
-    },
-    {
       "bitcoin": "1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk",
       "categories": [
         "Security",
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "1661300300",
+      "suggestedVersionCode": "1663200100",
       "description": "Tor is both software and an open network that helps you defend against network\nsurveillance that threatens personal freedom and privacy, confidential business\nactivities and relationships.\n\nOrbot allows access to Tor by accessing a local SOCKS or HTTP proxy.\nOn a rooted device, the proxying can be completely transparent\ni.e. the app that accesses the network need not be aware of the\nproxy's existence; you can choose which apps go via the proxy in the\nsettings.\n\nIf you don't have root access, there are some apps that are designed to work\nclosely with tor or allow proxied connections:\nhttps://f-droid.org/packages/info.guardianproject.otr.app.im, https://f-droid.org/packages/acr.browser.lightning and\nhttps://f-droid.org/packages/org.mariotaku.twidere. There is also a proxy configurator addon for Firefox\ncalled <a href=\"https://github.com/guardianproject/ProxyMob/downloads\">ProxyMob</a> (not yet\navailable from the Mozilla addon site).\n",
       "donate": "https://www.torproject.org/donate/donate.html.en",
       "flattrID": "5649",
@@ -759,9 +752,9 @@
       "sourceCode": "https://gitweb.torproject.org/orbot.git",
       "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
       "webSite": "https://www.torproject.org/docs/android.html",
-      "added": 1661918584000,
+      "added": 1669843649000,
       "packageName": "org.torproject.android",
-      "lastUpdated": 1661918584000,
+      "lastUpdated": 1669843649000,
       "localized": {
         "af": {
           "summary": "Verbeter jou privaatheid, breek deur middel van firewalls en meer veilig te komm"
@@ -876,19 +869,22 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
+      ],
       "categories": [
         "Navigation",
         "Default"
       ],
-      "suggestedVersionCode": "22082305",
+      "suggestedVersionCode": "22112403",
       "description": "Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.\n\n* Detailed offline maps with places that don't exist on other maps\n* Cycling routes, hiking trails and walking paths\n* Contour lines, elevation profiles, peaks and slopes\n* Turn-by-turn walking, cycling and car navigation with voice guidance\n* Fast offline search on the map and bookmarks\n* Dark mode to protect your eyes\n* No ads, no trackers, no data collection, no crapware, no pesticides",
       "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
       "webSite": "https://organicmaps.app/",
-      "added": 1661918589000,
+      "added": 1669843654000,
       "packageName": "app.organicmaps",
-      "lastUpdated": 1661918589000,
+      "lastUpdated": 1669843654000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -898,6 +894,9 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "cd592617b27a65cd44e24fb7b8bc5d13d140fc790c37339eef4abb4518dd3ac2"
+      ],
       "authorName": "LEAP",
       "authorWebSite": "https://leap.se/",
       "bitcoin": "1F3KowUJBfvocr1H6DRvwFxfETJ18e8Dp6",
@@ -915,10 +914,10 @@
       "sourceCode": "https://0xacab.org/leap/bitmask_android",
       "translation": "https://www.transifex.com/projects/p/bitmask-android",
       "webSite": "https://riseup.net/",
-      "added": 1661918593000,
+      "added": 1669843658000,
       "icon": "se.leap.riseupvpn.162000.png",
       "packageName": "se.leap.riseupvpn",
-      "lastUpdated": 1661918593000,
+      "lastUpdated": 1669843658000,
       "localized": {
         "de": {
           "summary": "Sicheres VPN mit Bitmask"
@@ -979,6 +978,9 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "3cdf1622c37d212be586b22928f28ccadbd7cb954f1005fce13e81850beb1d73"
+      ],
       "authorEmail": "juam+scrambled@posteo.net",
       "bitcoin": "bc1qagv574q7k66nwmtef8gxmjge4ekvnjxfytxp5e",
       "categories": [
@@ -986,15 +988,15 @@
         "Default"
       ],
       "changelog": "https://gitlab.com/juanitobananas/scrambled-exif/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "73",
+      "suggestedVersionCode": "74",
       "issueTracker": "https://gitlab.com/juanitobananas/scrambled-exif/issues",
       "liberapay": "juanitobananas",
       "license": "GPL-3.0-only",
       "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
       "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
-      "added": 1661918595000,
+      "added": 1669843660000,
       "packageName": "com.jarsilio.android.scrambledeggsif",
-      "lastUpdated": 1661918595000,
+      "lastUpdated": 1669843660000,
       "localized": {
         "cs-CZ": {
           "description": "Scrambled Exit (vyslovov\u00e1no <i>egg</i>sif) v\u00e1m pom\u00e1h\u00e1 odstranit metadata z obr\u00e1zk\u016f ne\u017e je sd\u00edl\u00edte.\n\nPokud se na to c\u00edt\u00edte.\n\nPokud nechcete velk\u00e9 internetov\u00e9 spole\u010dnosti (nebo kohokoliv) aby v\u011bd\u011bl kde jste va\u0161e obr\u00e1zky vyfotili tak nezapome\u0148te z nich odstranit metadata ne\u017e je sd\u00edl\u00edte.\n\nPro odstran\u011bn\u00ed metadat z obr\u00e1zku jej jednodu\u0161e sd\u00edlejte jako obvykle a vyberte <i>Scambled Exif</i>. O moment pozd\u011bji se objev\u00ed dialog pro sd\u00edlen\u00ed. Nyn\u00ed u\u017e jen sd\u00edlejte s jakoukoliv aplikac\u00ed jste cht\u011bli.\n\nA voil\u00e0!\n\n<b>Po\u017eadovan\u00e1 Android Opr\u00e1vn\u011bn\u00ed:</b>\n\n\u2605 READ_EXTERNAL_STORAGE pro \u010dten\u00ed obr\u00e1zk\u016f kter\u00e9 chcete sd\u00edlet.\n\n<b>Zdrojov\u00fd k\u00f3d</b>\n\n\u2605 Tato aplikace je open source. M\u016f\u017eete se pod\u00edvat na zdrojov\u00fd k\u00f3d (a m\u016f\u017eete i p\u0159isp\u011bt jestli chcete) zde:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>P\u0159eklad</b>\n\nPokud tuto aplikaci chete p\u0159elo\u017eit do sv\u00e9ho jazyka, m\u016f\u017eete to ud\u011blat pou\u017eit\u00edm transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Ostatn\u00ed v\u011bci a Fakty</b>\n\n\u2605 Exif je pou\u017e\u00edv\u00e1n form\u00e1tem JPEG, co\u017e je form\u00e1t ve kter\u00e9m Android kamera ukl\u00e1d\u00e1 vyfocen\u00e9 obr\u00e1zky. Pokud se o Exif chcete dozv\u011bd\u011bt v\u00edc, koukn\u011bte se na Wikipedii.\n\n\u2605 Scrambled Exif tak\u00e9 p\u0159ejmenov\u00e1v\u00e1 sd\u00edlen\u00e9 soubory.\n\n\u2605 Pros\u00edm nebu\u010fte a\u017e moc p\u0159esv\u011bd\u010den\u00ed o tom, \u017ee se data vyma\u017eou. Scrambled Exif d\u011bl\u00e1 svou pr\u00e1ci skv\u011ble, ale m\u016f\u017ee se st\u00e1t n\u011bkdy chyba. V\u017edycky to zkontrolujte ne\u017e budete obr\u00e1zek sd\u00edlet.\n\n\u2605 Vlastn\u011b to Exif data <i>nezam\u00edch\u00e1</i>, ale sma\u017ee. Tak\u017ee to jm\u00e9no je docela hloup\u00e9. Ale m\u011b se l\u00edb\u00ed. Ikona tak\u00e9 nezobrazuje m\u00edchan\u00e1 vejce tak\u017ee je asi taky hloup\u00e1. Ale m\u011b se l\u00edb\u00ed. A tak\u00e9 jsem velk\u00fd fanou\u0161ek vajec. Tak\u017ee tahle aplikace m\u00e1 nejen hloup\u00e9 jm\u00e9no a stejn\u011b hloupou ikonu, ale i mou (ne-hloupou) \u00factu k vejc\u00edm. Hlavn\u011b <i>huevos fritos</i>. Proto\u017ee to miluju.\n\n\u2605 U\u017eijte si sd\u00edlen\u00ed fotek!",
@@ -1057,20 +1059,23 @@
       }
     },
     {
+      "allowedAPKSigningKeys": [
+        "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
+      ],
       "categories": [
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "111500",
+      "suggestedVersionCode": "116405",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1661918607000,
+      "added": 1669843672000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1661918607000,
+      "lastUpdated": 1669843672000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1079,115 +1084,33 @@
       }
     },
     {
-      "bitcoin": "1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk",
+      "allowedAPKSigningKeys": [
+        "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
+      ],
+      "authorEmail": "playstore@torproject.org",
+      "authorName": "The Tor Project",
+      "authorWebSite": "https://www.torproject.org/",
+      "bitcoin": "1JADsmDFX9d2TXis63S9F9L8eDAXwJmnWE",
       "categories": [
         "Security",
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "2015884955",
-      "description": "Tor Browser for Android is the only official mobile browser supported by\nthe Tor Project, developers of the world\u2019s strongest tool for privacy and freedom online.\n\nBLOCK TRACKERS\nTor Browser isolates each website you visit so third-party trackers and ads can\u2019t follow you.\nAny cookies automatically clear when you\u2019re done browsing.",
-      "donate": "https://www.torproject.org/donate/donate.html.en",
-      "flattrID": "5649",
-      "issueTracker": "https://trac.torproject.org/projects/tor/query?status=!closed&keywords=~tbb-mobile",
-      "liberapayID": "33617",
-      "license": "MPL",
+      "suggestedVersionCode": "2015885019",
+      "description": "Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world\u2019s strongest tool for privacy and freedom online.\n\nBLOCK TRACKERS\nTor Browser isolates each website you visit so third-party trackers and ads can\u2019t follow you. Any cookies automatically clear when you\u2019re done browsing.\n\nDEFEND AGAINST SURVEILLANCE\nTor Browser prevents someone watching your connection from knowing what websites you visit. All anyone monitoring your browsing habits can see is that you\u2019re using Tor.\n\nRESIST FINGERPRINTING\nTor aims to make all users look the same, making it difficult for you to be fingerprinted based on your browser and device information.\n\nMULTI-LAYERED ENCRYPTION\nWhen you use Tor Browser for Android, your traffic is relayed and encrypted three times as it passes over the Tor network. The network is comprised of thousands of volunteer-run servers known as Tor relays. Watch this animation to learn more about how it works:\n\nBROWSE FREELY\nWith Tor Browser for Android, you are free to access sites your local internet service provider may have blocked.\n\nTHIS APP IS MADE POSSIBLE BY DONORS LIKE YOU\nTor Browser is free and open source software developed the Tor Project, a nonprofit organization. You can help keep Tor strong, secure, and independent by making a donation. Give before the end of 2019, and Mozilla will match your gift: https://donate.torproject.org/donate/donate-tbi-gp\n\nLearn more about Tor Browser for Android:\n- Need help? Visit https://support.torproject.org. The manual is coming soon.\n- Learn more about what\u2019s happening at Tor: https://blog.torproject.org\n- Follow the Tor Project on Twitter: https://twitter.com/torproject\n\nABOUT THE TOR PROJECT\nThe Tor Project, Inc., is a 501(c)(3) organization developing free and open source software for privacy and freedom online, protecting people from tracking, surveillance, and censorship. The Tor Project\u2019s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, support their unrestricted availability and use, and further their scientific and popular understanding.\n",
+      "donate": "https://donate.torproject.org/",
+      "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
+      "license": "MPL-2.0",
+      "litecoin": "LNAifc8nfjtDJ8azRPiancbZSBftPzhfzb",
+      "name": "Tor Browser for Android",
+      "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
       "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
-      "webSite": "https://www.torproject.org/",
-      "added": 1661918615000,
+      "added": 1669843678000,
       "packageName": "org.torproject.torbrowser",
-      "lastUpdated": 1661918615000,
+      "lastUpdated": 1669843678000,
       "localized": {
         "en-US": {
-          "icon": "icon.png",
-          "name": "Tor Browser"
-        }
-      }
-    },
-    {
-      "antiFeatures": [
-        "NonFreeNet"
-      ],
-      "authorEmail": "contact@secuso.org",
-      "authorName": "SECUSO - Security Usability Society",
-      "authorWebSite": "https://secuso.aifb.kit.edu/english/",
-      "categories": [
-        "Multimedia",
-        "Internet",
-        "Default"
-      ],
-      "changelog": "https://github.com/SecUSo/privacy-friendly-weather/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "17",
-      "description": "Lets you watch the weather for cities and locations. This includes the current\nweather as well as a 5 day / 3 hour forecast. Furthermore, Privacy Friendly\nWeather provides a radius search. This makes it possible to find the locations\naround a given location which have the best weather conditions at the moment.\n\nWeather data is provided by <a href=\"http://openweathermap.org/\">Open Weather Map</a>.\n\nThe app belongs to the group of Privacy Friendly Apps developed at the\n<a href=\"https://secuso.org/\">SECUSO research group</a> of Technische Universitaet\nDarmstadt. It does not require any permission and relinquishes advertisement and\ntracking mechanisms.\n\n''NonFreeNet:'' OpenWeatherMap service itself is not open source.",
-      "issueTracker": "https://github.com/SecUSo/privacy-friendly-weather/issues",
-      "license": "GPL-3.0-only",
-      "sourceCode": "https://github.com/SecUSo/privacy-friendly-weather",
-      "webSite": "https://secuso.org/pfa",
-      "added": 1661918617000,
-      "packageName": "org.secuso.privacyfriendlyweather",
-      "lastUpdated": 1661918617000,
-      "localized": {
-        "de": {
-          "summary": "Wetterinformationen und -vorhersagen erhalten"
-        },
-        "en-US": {
-          "icon": "icon.png",
-          "name": "Weather",
-          "summary": "Get weather information and forecast"
-        },
-        "eo": {
-          "summary": "Informoj pri vetero kaj veterprognozo"
-        },
-        "es": {
-          "summary": "Obter informaci\u00f3n y previsi\u00f3n meteorol\u00f3gica"
-        },
-        "fr": {
-          "summary": "Obtenez des informations sur les pr\u00e9visions m\u00e9t\u00e9orologiques"
-        },
-        "he": {
-          "summary": "\u05e7\u05d1\u05dc\u05ea \u05e4\u05e8\u05d8\u05d9 \u05de\u05d6\u05d2 \u05d0\u05d5\u05d5\u05d9\u05e8 \u05d5\u05ea\u05d7\u05d6\u05d9\u05ea"
-        },
-        "is": {
-          "summary": "F\u00e1\u00f0u ve\u00f0url\u00fdsingar og ve\u00f0ursp\u00e1r"
-        },
-        "it": {
-          "summary": "Ottieni informazioni e previsioni meteo"
-        },
-        "nb": {
-          "summary": "Hent v\u00e6rdata og langtidsvarsel"
-        },
-        "nn": {
-          "summary": "Hent v\u00eardata og langtidsvarsel"
-        },
-        "pl": {
-          "summary": "Uzyskaj informacje o prognozie pogody"
-        },
-        "pt": {
-          "summary": "Obter informa\u00e7\u00f5es e previs\u00f5es meteorol\u00f3gicas"
-        },
-        "pt-BR": {
-          "summary": "Obtenha informa\u00e7\u00f5es e previs\u00f5es meteorol\u00f3gicas"
-        },
-        "pt-PT": {
-          "summary": "Obter informa\u00e7\u00f5es e previs\u00f5es meteorol\u00f3gicas"
-        },
-        "ro": {
-          "summary": "Ob\u021bine\u021bi informa\u021bii \u0219i prognoze meteo"
-        },
-        "ru": {
-          "summary": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u043f\u043e\u0433\u043e\u0434\u0435 \u0438 \u043f\u0440\u043e\u0433\u043d\u043e\u0437"
-        },
-        "tr": {
-          "summary": "Hava durumu bilgilerini ve hava tahminini al\u0131n"
-        },
-        "uk": {
-          "summary": "\u041e\u0442\u0440\u0438\u043c\u0443\u0439 \u043f\u043e\u0434\u0440\u043e\u0431\u0438\u0446\u0456 \u043f\u0440\u043e \u043f\u043e\u0433\u043e\u0434\u0443 \u0442\u0430 \u043f\u0440\u043e\u0433\u043d\u043e\u0437 \u043f\u043e\u0433\u043e\u0434\u0438"
-        },
-        "vi": {
-          "summary": "L\u1ea5y th\u00f4ng tin v\u00e0 d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft"
-        },
-        "zh-CN": {
-          "summary": "\u83b7\u53d6\u5929\u6c14\u4fe1\u606f\u548c\u9884\u62a5"
+          "icon": "icon.png"
         }
       }
     }
@@ -1195,12 +1118,12 @@
   "packages": {
     "app.organicmaps": [
       {
-        "added": 1661918589000,
+        "added": 1669843654000,
         "apkName": "OrganicMaps.apk",
         "features": [
           "android.hardware.touchscreen"
         ],
-        "hash": "be5683185fee43feab227300f9afd7a2162a959a716c63eec608a5f8b10673de",
+        "hash": "ca35465584c2a0cac3430016848444ba735606ad8629b869bc69cd9c6ba4ca4c",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1211,8 +1134,8 @@
         "packageName": "app.organicmaps",
         "sig": "472167dd9f46ae80fec5f3a3e8f47a81",
         "signer": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9",
-        "size": 58902852,
-        "targetSdkVersion": 31,
+        "size": 59802949,
+        "targetSdkVersion": 33,
         "uses-permission": [
           [
             "android.permission.ACCESS_COARSE_LOCATION",
@@ -1239,27 +1162,27 @@
             null
           ],
           [
-            "android.permission.BATTERY_STATS",
-            null
-          ],
-          [
             "android.permission.FOREGROUND_SERVICE",
             null
           ],
           [
             "android.permission.RECEIVE_BOOT_COMPLETED",
             null
+          ],
+          [
+            "app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
           ]
         ],
-        "versionCode": 22082305,
-        "versionName": "2022.08.23-5-FDroid"
+        "versionCode": 22112403,
+        "versionName": "2022.11.24-3-FDroid"
       }
     ],
     "at.bitfire.davdroid": [
       {
-        "added": 1661918568000,
+        "added": 1669843631000,
         "apkName": "DAVx5.apk",
-        "hash": "be382f34e09bb5bd859cd265cbb9dee1faed3132f69704e87114aeaa0a4966c4",
+        "hash": "1ea12d64c1607c268c238c81b83be6f81ec3b815af58bd7404e225918e2dd101",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1271,7 +1194,7 @@
         "packageName": "at.bitfire.davdroid",
         "sig": "03542175324d067b4c36582242f8aecc",
         "signer": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707",
-        "size": 11825402,
+        "size": 11844721,
         "targetSdkVersion": 32,
         "uses-permission": [
           [
@@ -1288,6 +1211,10 @@
           ],
           [
             "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
             null
           ],
           [
@@ -1361,6 +1288,10 @@
           [
             "at.techbee.jtx.permission.WRITE",
             null
+          ],
+          [
+            "at.bitfire.davdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
           ]
         ],
         "uses-permission-sdk-23": [
@@ -1377,13 +1308,13 @@
             null
           ]
         ],
-        "versionCode": 402030101,
-        "versionName": "4.2.3.1-ose"
+        "versionCode": 402040002,
+        "versionName": "4.2.4-ose"
       }
     ],
     "com.artifex.mupdf.viewer.app": [
       {
-        "added": 1661918571000,
+        "added": 1669843636000,
         "apkName": "MuPDFviewer.apk",
         "hash": "31c8cd319394b0738d3f3b43e3619135e91bbe0dcf1c4f8747ac9ff88408b84e",
         "hashType": "sha256",
@@ -1410,7 +1341,7 @@
     ],
     "com.aurora.store": [
       {
-        "added": 1661918557000,
+        "added": 1669843620000,
         "apkName": "AuroraStore.apk",
         "hash": "f9469044d639e4246a8636bce15f8141d9c441b4d24109e83a46a9bc62f7784f",
         "hashType": "sha256",
@@ -1484,15 +1415,15 @@
     ],
     "com.fsck.k9": [
       {
-        "added": 1661918570000,
+        "added": 1669843635000,
         "apkName": "K-9Mail.apk",
-        "hash": "b1774704bf0e8854096cb825208ef0f3d644fbf8fc490eb1e601d4edcceed625",
+        "hash": "8f874c827a08094d520413e326eda396000508c1246807e6531c817e58363fec",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "packageName": "com.fsck.k9",
         "sig": "4cc8dc4af011320a78e2cae3b5a1fc31",
         "signer": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576",
-        "size": 8180387,
+        "size": 7972052,
         "targetSdkVersion": 31,
         "uses-permission": [
           [
@@ -1538,39 +1469,55 @@
           [
             "android.permission.USE_FINGERPRINT",
             null
+          ],
+          [
+            "com.fsck.k9.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
           ]
         ],
-        "versionCode": 33001,
-        "versionName": "6.301"
+        "versionCode": 34000,
+        "versionName": "6.400"
       }
     ],
     "com.jarsilio.android.scrambledeggsif": [
       {
-        "added": 1661918595000,
+        "added": 1669843660000,
         "apkName": "ScrambledExif.apk",
-        "hash": "ded876d33e1901ae1d11c3b289d45a27f90d08055b4704ddf5793dd7035947e8",
+        "hash": "4b5e8f2c5d415a09427fa236ea8907bf16e660b2ba628f7cd9f8a1737c4c1009",
         "hashType": "sha256",
         "minSdkVersion": 15,
         "packageName": "com.jarsilio.android.scrambledeggsif",
         "sig": "e6590e61cbe069a1d900172fa99a1707",
         "signer": "3cdf1622c37d212be586b22928f28ccadbd7cb954f1005fce13e81850beb1d73",
-        "size": 5080113,
+        "size": 5290442,
         "targetSdkVersion": 31,
         "uses-permission": [
           [
             "android.permission.READ_EXTERNAL_STORAGE",
             null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "com.jarsilio.android.scrambledeggsif.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
           ]
         ],
-        "versionCode": 73,
-        "versionName": "1.7.10"
+        "versionCode": 74,
+        "versionName": "1.7.11"
       }
     ],
     "com.nextcloud.client": [
       {
-        "added": 1661918575000,
+        "added": 1669843640000,
         "apkName": "Nextcloud.apk",
-        "hash": "55058dbee53e247a5acc1bbee8be2594ae15b8bff23c2471683218f198fde2ba",
+        "hash": "64db3f2c4cdfaea8be4cc96dcaa4427c7da36bfe0906218a56911afd330d0154",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "nativecode": [
@@ -1582,7 +1529,7 @@
         "packageName": "com.nextcloud.client",
         "sig": "0f8ca80a9abcc3452f65222ed09819a9",
         "signer": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83",
-        "size": 29306957,
+        "size": 34088524,
         "targetSdkVersion": 31,
         "uses-permission": [
           [
@@ -1662,6 +1609,10 @@
             null
           ],
           [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            25
+          ],
+          [
             "android.permission.FOREGROUND_SERVICE",
             null
           ],
@@ -1686,15 +1637,15 @@
             null
           ]
         ],
-        "versionCode": 30210190,
-        "versionName": "3.21.1"
+        "versionCode": 30230052,
+        "versionName": "3.23.0 RC2"
       }
     ],
     "org.briarproject.briar.android": [
       {
-        "added": 1661918560000,
+        "added": 1669843623000,
         "apkName": "Briar.apk",
-        "hash": "f0af924206f9301a6603c599e72f9b766ea833b34abe2ab62fefae333cb9095f",
+        "hash": "544ab8ce21e2b75af7223c5d38db2c100d5797f04e07e4ab21c9bcebf394c8b7",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "nativecode": [
@@ -1706,7 +1657,7 @@
         "packageName": "org.briarproject.briar.android",
         "sig": "c47c736234483df29c95f62bc7bf0333",
         "signer": "501ddf14a6ecf904fb20285c56a565cb987a867f91572ee33c2d43771cca4e37",
-        "size": 32498601,
+        "size": 50541164,
         "targetSdkVersion": 30,
         "uses-permission": [
           [
@@ -1780,13 +1731,13 @@
             null
           ]
         ],
-        "versionCode": 10410,
-        "versionName": "1.4.10"
+        "versionCode": 10415,
+        "versionName": "1.4.15"
       }
     ],
     "org.calyxinstitute.vpn": [
       {
-        "added": 1661918565000,
+        "added": 1669843628000,
         "apkName": "CalyxVPN.apk",
         "hash": "fae52b9f214f8dbe6d4858254b58a3b8d80a9ede0ee2b4d58422d4f976592230",
         "hashType": "sha256",
@@ -1848,65 +1799,11 @@
         "versionName": "1.1.2"
       }
     ],
-    "org.dmfs.tasks": [
-      {
-        "added": 1661918608000,
-        "apkName": "Tasks.apk",
-        "hash": "7f3a1528142c8a8a0ab1ecf6b83f0620eb31cd8daa94b299149c21982e3c2f14",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "packageName": "org.dmfs.tasks",
-        "sig": "fa93bb60dd4605fa49196de3c06ba7e7",
-        "signer": "056b298fcfe8c3804b448653e8558bb473af42ceea0d9c31e94ab203f0d725e2",
-        "size": 3685910,
-        "targetSdkVersion": 29,
-        "uses-permission": [
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "org.dmfs.permission.READ_TASKS",
-            null
-          ],
-          [
-            "org.dmfs.permission.WRITE_TASKS",
-            null
-          ],
-          [
-            "android.permission.GET_ACCOUNTS",
-            25
-          ],
-          [
-            "android.permission.READ_CONTACTS",
-            null
-          ],
-          [
-            "android.permission.READ_SYNC_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "com.android.alarm.permission.SET_ALARM",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ]
-        ],
-        "versionCode": 82200,
-        "versionName": "1.4.2"
-      }
-    ],
     "org.openobservatory.ooniprobe": [
       {
-        "added": 1661918581000,
+        "added": 1669843646000,
         "apkName": "OONIProbe.apk",
-        "hash": "4fabc4ca8c86abe64483b23bda129f446ad8bc620affdb464bac3ecad591410b",
+        "hash": "5d7d19920a359d6a0ccd07ed5d8cf8da5f17689aeea4568f94f6314f43fbc95c",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1918,8 +1815,8 @@
         "packageName": "org.openobservatory.ooniprobe",
         "sig": "a1d02df38f28bbe3af69161786e1d39b",
         "signer": "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6",
-        "size": 86993235,
-        "targetSdkVersion": 32,
+        "size": 86470917,
+        "targetSdkVersion": 33,
         "uses-permission": [
           [
             "android.permission.INTERNET",
@@ -1950,53 +1847,15 @@
             null
           ]
         ],
-        "versionCode": 91,
-        "versionName": "3.7.0"
-      }
-    ],
-    "org.secuso.privacyfriendlyweather": [
-      {
-        "added": 1661918617000,
-        "apkName": "Weather.apk",
-        "hash": "ddf2db904b40729eff146a8ef80ea11f5de1c0e3213b02472045556bd251039f",
-        "hashType": "sha256",
-        "minSdkVersion": 17,
-        "packageName": "org.secuso.privacyfriendlyweather",
-        "sig": "10b7b827ba94eb45da3218e3456cdd7a",
-        "signer": "9f518b7f34ad2a9345f9d16020eb0cfb9ca5f0e5167a1a33b7c51133fd2b2cbf",
-        "size": 14270858,
-        "targetSdkVersion": 32,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 17,
-        "versionName": "3.1.1"
+        "versionCode": 94,
+        "versionName": "3.7.2"
       }
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1661918607000,
+        "added": 1669843672000,
         "apkName": "Signal.apk",
-        "hash": "5983f7aecb9a26013eaa500a6599adb04e04dce770d6baf46ae5c1de3c52bd08",
+        "hash": "adff2bf842ab83d5b85db3a5ede658c517a546e4fa18d7001085aa050787b448",
         "hashType": "sha256",
         "minSdkVersion": 19,
         "nativecode": [
@@ -2008,8 +1867,8 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 80910084,
-        "targetSdkVersion": 30,
+        "size": 83337921,
+        "targetSdkVersion": 31,
         "uses-permission": [
           [
             "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
@@ -2029,10 +1888,6 @@
           ],
           [
             "android.permission.READ_PROFILE",
-            null
-          ],
-          [
-            "android.permission.WRITE_PROFILE",
             null
           ],
           [
@@ -2216,15 +2071,23 @@
             null
           ],
           [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
             "android.permission.USE_BIOMETRIC",
             null
           ],
           [
-            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.POST_NOTIFICATIONS",
             null
           ],
           [
             "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
             null
           ],
           [
@@ -2292,15 +2155,15 @@
             null
           ]
         ],
-        "versionCode": 111500,
-        "versionName": "5.47.3"
+        "versionCode": 116405,
+        "versionName": "6.2.4"
       }
     ],
     "org.torproject.android": [
       {
-        "added": 1661918584000,
+        "added": 1669843649000,
         "apkName": "Orbot.apk",
-        "hash": "5988d15946b41ac06a430e835358616ffbbb869bf519f002e1f80ffb060efa3a",
+        "hash": "61f8b7c8c9fbe8a81c284bfeeebfae40b8c59da95532bd71fc889bfd64168886",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "nativecode": [
@@ -2312,7 +2175,7 @@
         "packageName": "org.torproject.android",
         "sig": "8bd7e51b479aeba908ff46ada3305a29",
         "signer": "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b",
-        "size": 34738116,
+        "size": 38946447,
         "targetSdkVersion": 31,
         "uses-permission": [
           [
@@ -2348,15 +2211,15 @@
             18
           ]
         ],
-        "versionCode": 1661300300,
-        "versionName": "16.6.1-RC-3-tor.0.4.6.10"
+        "versionCode": 1663200100,
+        "versionName": "16.6.3-BETA-1-tor.0.4.7.10"
       }
     ],
     "org.torproject.torbrowser": [
       {
-        "added": 1661918615000,
+        "added": 1669843678000,
         "apkName": "TorBrowser.apk",
-        "hash": "dacdc5292f171b6171d27a3901ba855e3ed6039caa75587d684d71c925cdc7af",
+        "hash": "119be3c9acc99d4c21bc645995aa46aaf3e09052c0ed5897904575f5535d852c",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2365,8 +2228,8 @@
         "packageName": "org.torproject.torbrowser",
         "sig": "31e36334f34e126a0e0d1efd29b84fb2",
         "signer": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8",
-        "size": 92450797,
-        "targetSdkVersion": 30,
+        "size": 94904868,
+        "targetSdkVersion": 31,
         "uses-permission": [
           [
             "android.permission.INTERNET",
@@ -2447,13 +2310,13 @@
             null
           ]
         ],
-        "versionCode": 2015884955,
-        "versionName": "99.0.0b3-Release (11.5.2)"
+        "versionCode": 2015885019,
+        "versionName": "102.2.1-Release (11.5.10)"
       }
     ],
     "se.leap.riseupvpn": [
       {
-        "added": 1661918593000,
+        "added": 1669843658000,
         "apkName": "RiseupVPN.apk",
         "hash": "56378375929de5c18fd911d163ca8abc94b5f200a775ae1b86bfb1eaca01304b",
         "hashType": "sha256",
@@ -2513,6 +2376,81 @@
         ],
         "versionCode": 162000,
         "versionName": "1.1.4"
+      }
+    ],
+    "wangdaye.com.geometricweather": [
+      {
+        "added": 1669843633000,
+        "apkName": "GeometricWeather.apk",
+        "features": [
+          "android.software.live_wallpaper",
+          "android.hardware.location.gps",
+          "android.hardware.location.network"
+        ],
+        "hash": "7045d1274e57929c1c1c7eb2586a416eeb5985a643ec62898d3d2e1ba0142de3",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "wangdaye.com.geometricweather",
+        "sig": "21226b4666db7a46e7e2e8cd9c02913d",
+        "signer": "8afcc002005c6634417f24ef4759e8d0e367c814fb7d7d7ad7f7f619f428ccea",
+        "size": 9131440,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.alarm.permission.SET_ALARM",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 30102,
+        "versionName": "3.102_fdroid"
       }
     ]
   }
