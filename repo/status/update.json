@@ -20,7 +20,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1669844600968,
+  "endTimestamp": 1674100979543,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "b54eb946f19ca0c4bf2c681715716b3355ea5b17",
@@ -83,6 +83,6 @@
     "se.leap.riseupvpn",
     "wangdaye.com.geometricweather"
   ],
-  "startTimestamp": 1669844533000,
+  "startTimestamp": 1674100914000,
   "subcommand": "update"
 }
