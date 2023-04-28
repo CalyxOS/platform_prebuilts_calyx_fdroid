@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fdroid-repo \
+    aurora-store-blacklist \
     AuroraStore \
     Briar \
     CalyxVPN \
