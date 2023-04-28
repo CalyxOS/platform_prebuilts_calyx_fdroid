@@ -22,6 +22,16 @@ LOCAL_PRODUCT_MODULE := true
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := aurora-store
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_PATH := $(TARGET_OUT_PRODUCT_ETC)/com.aurora.store
+LOCAL_MODULE_STEM := blacklist.xml
+LOCAL_SRC_FILES := aurora-store-blacklist.xml
+LOCAL_PRODUCT_MODULE := true
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := AuroraStore
 LOCAL_SRC_FILES := repo/$(LOCAL_MODULE).apk
 LOCAL_MODULE_PATH := $(PRODUCT_OUT)/$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo
