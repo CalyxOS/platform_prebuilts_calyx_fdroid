@@ -16,6 +16,23 @@
       "message": "Works now, but shows as a dupe in the Manage Repos screen.",
       "revId": "c3aa03816e3a281824302619fd1e106db20f8c3f",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "58732b3a_ac92ac86",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-05-29T14:08:48Z",
+      "side": 1,
+      "message": "Wait for https://gitlab.com/fdroid/fdroidclient/-/issues/2611 (or linked issue)",
+      "revId": "c3aa03816e3a281824302619fd1e106db20f8c3f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
