@@ -51,6 +51,24 @@
       "message": "What if we just had GMS / microG here.",
       "revId": "9ff1329fe2083403e216baaed40716a668eb241e",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "46177709_573b8589",
+        "filename": "aurora-store-blacklist.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-06-20T08:01:09Z",
+      "side": 1,
+      "message": "Can do that in a followup if required.",
+      "parentUuid": "7349921f_6e903367",
+      "revId": "9ff1329fe2083403e216baaed40716a668eb241e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
