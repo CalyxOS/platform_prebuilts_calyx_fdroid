@@ -26,7 +26,7 @@ LOCAL_MODULE := aurora-store
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_PATH := $(TARGET_OUT_PRODUCT_ETC)/com.aurora.store
-LOCAL_MODULE_STEM := blacklist.xml
+LOCAL_MODULE_STEM := additional_repos.xml
 LOCAL_SRC_FILES := aurora-store-blacklist.xml
 LOCAL_PRODUCT_MODULE := true
 include $(BUILD_PREBUILT)
