@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dce764cc_df5c42b8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-19T22:17:13Z",
+      "side": 1,
+      "message": "07-20 03:46:51.891  1365  1450 I SystemConfig: Reading permissions from /product/etc/sysconfig/aurora-store-sysconfig.xml ",
+      "revId": "4d226c5dee7de7f2ae902cf741292bbaf0b2fc51",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
