@@ -14,18 +14,18 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1692763307000
+    "timestamp": 1692823601000
   },
   "packages": {
     "app.organicmaps": {
       "metadata": {
-        "added": 1692763292000,
+        "added": 1692823586000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
-        "lastUpdated": 1692763292000,
+        "lastUpdated": 1692823586000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
         "webSite": "https://organicmaps.app/",
@@ -49,7 +49,7 @@
       },
       "versions": {
         "0b62e8c711a625c8f9d469ba28ebd94b98d6b6dd7e96f477b4ed1c548eee3d0e": {
-          "added": 1692763292000,
+          "added": 1692823586000,
           "file": {
             "name": "/OrganicMaps.apk",
             "sha256": "0b62e8c711a625c8f9d469ba28ebd94b98d6b6dd7e96f477b4ed1c548eee3d0e",
@@ -115,14 +115,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1692763280000,
+        "added": 1692823572000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1692763280000,
+        "lastUpdated": 1692823572000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -184,7 +184,7 @@
       },
       "versions": {
         "a195cc64a5abfe76fc2b73d8057feb0427601158aef64ba0e5c892ce82630536": {
-          "added": 1692763280000,
+          "added": 1692823572000,
           "file": {
             "name": "/DAVx5.apk",
             "sha256": "a195cc64a5abfe76fc2b73d8057feb0427601158aef64ba0e5c892ce82630536",
@@ -305,14 +305,14 @@
     },
     "com.artifex.mupdf.viewer.app": {
       "metadata": {
-        "added": 1692763283000,
+        "added": 1692823576000,
         "categories": [
           "Reading",
           "Default"
         ],
         "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
         "issueTracker": "https://bugs.ghostscript.com",
-        "lastUpdated": 1692763283000,
+        "lastUpdated": 1692823576000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
         "webSite": "https://mupdf.com",
@@ -353,7 +353,7 @@
       },
       "versions": {
         "0c7a01ca619694619ff11d966a47a2c73e349d58431f16270d4801f84e1b9626": {
-          "added": 1692763283000,
+          "added": 1692823576000,
           "file": {
             "name": "/MuPDFviewer.apk",
             "sha256": "0c7a01ca619694619ff11d966a47a2c73e349d58431f16270d4801f84e1b9626",
@@ -387,14 +387,14 @@
     },
     "com.aurora.store": {
       "metadata": {
-        "added": 1692763275000,
+        "added": 1692823567000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
-        "lastUpdated": 1692763275000,
+        "lastUpdated": 1692823567000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
         "translation": "https://poeditor.com/join/project/54swaCpFXJ",
@@ -445,7 +445,7 @@
       },
       "versions": {
         "de8aa625fabfde1e5694dc8b6f8cc45605299172b2eb33355619e15248fd661a": {
-          "added": 1692763275000,
+          "added": 1692823567000,
           "file": {
             "name": "/AuroraStore.apk",
             "sha256": "de8aa625fabfde1e5694dc8b6f8cc45605299172b2eb33355619e15248fd661a",
@@ -531,14 +531,14 @@
     },
     "com.fsck.k9": {
       "metadata": {
-        "added": 1692763283000,
+        "added": 1692823576000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
         "issueTracker": "https://github.com/k9mail/k-9/issues",
-        "lastUpdated": 1692763283000,
+        "lastUpdated": 1692823576000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/k9mail/k-9",
         "translation": "https://www.transifex.com/projects/p/k9mail/",
@@ -580,7 +580,7 @@
       },
       "versions": {
         "89f3f03376afa74f4afb79f887a2caedcd04b027e904224c6db8d201a3d996fe": {
-          "added": 1692763283000,
+          "added": 1692823576000,
           "file": {
             "name": "/K-9Mail.apk",
             "sha256": "89f3f03376afa74f4afb79f887a2caedcd04b027e904224c6db8d201a3d996fe",
@@ -642,14 +642,14 @@
     },
     "com.jarsilio.android.scrambledeggsif": {
       "metadata": {
-        "added": 1692763296000,
+        "added": 1692823589000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/juanitobananas/scrambled-exif/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/juanitobananas/scrambled-exif/issues",
-        "lastUpdated": 1692763296000,
+        "lastUpdated": 1692823589000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
         "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
@@ -702,7 +702,7 @@
       },
       "versions": {
         "4b5e8f2c5d415a09427fa236ea8907bf16e660b2ba628f7cd9f8a1737c4c1009": {
-          "added": 1692763296000,
+          "added": 1692823589000,
           "file": {
             "name": "/ScrambledExif.apk",
             "sha256": "4b5e8f2c5d415a09427fa236ea8907bf16e660b2ba628f7cd9f8a1737c4c1009",
@@ -740,13 +740,13 @@
     },
     "com.nextcloud.client": {
       "metadata": {
-        "added": 1692763286000,
+        "added": 1692823579000,
         "categories": [
           "Internet"
         ],
         "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://github.com/nextcloud/android/issues",
-        "lastUpdated": 1692763286000,
+        "lastUpdated": 1692823579000,
         "license": "GPL-2.0-only",
         "sourceCode": "https://github.com/nextcloud/android",
         "translation": "https://www.transifex.com/nextcloud/nextcloud/",
@@ -796,7 +796,7 @@
       },
       "versions": {
         "dc6c8c58cf64ba63788ff3f5377f3e56be5816673e82e754a2090d08bd473f13": {
-          "added": 1692763286000,
+          "added": 1692823579000,
           "file": {
             "name": "/Nextcloud.apk",
             "sha256": "dc6c8c58cf64ba63788ff3f5377f3e56be5816673e82e754a2090d08bd473f13",
@@ -911,7 +911,7 @@
     },
     "org.briarproject.briar.android": {
       "metadata": {
-        "added": 1692763277000,
+        "added": 1692823568000,
         "categories": [
           "Connectivity",
           "Internet",
@@ -920,7 +920,7 @@
         ],
         "changelog": "https://code.briarproject.org/briar/briar/wikis/changelog",
         "issueTracker": "https://code.briarproject.org/briar/briar/issues",
-        "lastUpdated": 1692763277000,
+        "lastUpdated": 1692823568000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://code.briarproject.org/briar/briar",
         "translation": "https://www.transifex.com/otf/briar/",
@@ -965,7 +965,7 @@
       },
       "versions": {
         "739ade6addeedc8c7fc6c5bf307bfcbb03e8ae1ffb03e2c6d6d7658ab09ec8dd": {
-          "added": 1692763277000,
+          "added": 1692823568000,
           "file": {
             "name": "/Briar.apk",
             "sha256": "739ade6addeedc8c7fc6c5bf307bfcbb03e8ae1ffb03e2c6d6d7658ab09ec8dd",
@@ -1063,7 +1063,7 @@
     },
     "org.calyxinstitute.vpn": {
       "metadata": {
-        "added": 1692763278000,
+        "added": 1692823570000,
         "categories": [
           "Internet",
           "Security",
@@ -1071,7 +1071,7 @@
         ],
         "changelog": "https://gitlab.com/calyxos/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/calyxos/bitmask_android/issues",
-        "lastUpdated": 1692763278000,
+        "lastUpdated": 1692823570000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://gitlab.com/calyxos/bitmask_android",
         "translation": "https://www.transifex.com/otf/bitmask-android/",
@@ -1116,7 +1116,7 @@
       },
       "versions": {
         "990bf8c7e26a8a74bf0b9449812f3f08fe13c98e571bba9c10bde129c996c166": {
-          "added": 1692763278000,
+          "added": 1692823570000,
           "file": {
             "name": "/CalyxVPN.apk",
             "sha256": "990bf8c7e26a8a74bf0b9449812f3f08fe13c98e571bba9c10bde129c996c166",
@@ -1176,9 +1176,333 @@
         }
       }
     },
+    "org.fdroid.fdroid": {
+      "metadata": {
+        "added": 1692823573000,
+        "categories": [
+          "System",
+          "Default"
+        ],
+        "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md",
+        "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
+        "lastUpdated": 1692823573000,
+        "license": "GPL-3.0-or-later",
+        "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
+        "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
+        "webSite": "https://f-droid.org",
+        "liberapay": "F-Droid-Data",
+        "openCollective": "F-Droid-Euro",
+        "name": {
+          "af": "F-Droid",
+          "ar": "اف-درويد",
+          "az": "F-Droid",
+          "be": "F-Droid",
+          "bg": "F-Droid",
+          "bn": "এফ-ড্রয়েড",
+          "ca": "F-Droid",
+          "cs": "F-Droid",
+          "cy": "F-Droid",
+          "da": "F-Droid",
+          "de": "F-Droid",
+          "el": "F-Droid",
+          "en-US": "F-Droid",
+          "eo": "F-Droid",
+          "es": "F-Droid",
+          "es-AR": "F-Droid",
+          "es-MX": "F-Droid",
+          "es_AR": "F-Droid",
+          "es_MX": "F-Droid",
+          "et": "F-Droid",
+          "eu": "F-Droid",
+          "fa": "اف‌دروید",
+          "fi": "F-Droid",
+          "fil": "F-Droid",
+          "fr": "F-Droid",
+          "gd": "F-Droid",
+          "gl": "F-Droid",
+          "he": "F-Droid‎",
+          "hi": "एफड्रायड",
+          "hr": "F-Droid",
+          "hu": "F-Droid",
+          "id": "F-Droid",
+          "is": "F-Droid",
+          "it": "F-Droid",
+          "ja": "F-Droid",
+          "kab": "F-Droid",
+          "ko": "F-Droid",
+          "lt": "F-Droid",
+          "mr": "एफ-ड्रॉईड",
+          "my": "F-Droid",
+          "nb": "F-Droid",
+          "nl": "F-Droid",
+          "nn": "F-Droid",
+          "pa": "ਐਫਡਰਾਇਡ",
+          "pa-PK": "ایف‌ڈروئیڈ",
+          "pl": "F-Droid",
+          "pt": "F-Droid",
+          "pt-BR": "F-Droid",
+          "pt-PT": "F-Droid",
+          "ro": "F-Droid",
+          "ru": "F-Droid",
+          "sc": "F-Droid",
+          "si": "එෆ්-ඩ්‍රොයිඩ්",
+          "sk": "F-Droid",
+          "sl": "F-Droid",
+          "sq": "F-Droid",
+          "sr": "F-Droid",
+          "sv": "F-Droid",
+          "ta": "எஃப்-டிராய்டு",
+          "te": "F-Droid",
+          "tr": "F-Droid",
+          "tzm": "F-Droid",
+          "uk": "F-Droid",
+          "vi": "F-Droid",
+          "yue": "F-Droid",
+          "zh-CN": "F-Droid",
+          "zh-Hant-HK": "F-Droid",
+          "zh-TW": "F-Droid",
+          "zh_Hant_HK": "F-Droid"
+        },
+        "summary": {
+          "af": "Die app-winkel wat vryheid en privaatheid respekteer",
+          "ar": "متجر التطبيقات الذي يحترم الحرية والخصوصية",
+          "az": "Azadlığa və məxfiliyə hörmət edən proqram mağazası",
+          "be": "Крама праграм, якая паважае свабоду і прыватнасць",
+          "bg": "Магазинът за приложения, който уважава независимостта и поверителността",
+          "bn": "যে অ্যাপ স্টোর স্বাধীনতা ও গোপনীয়তা সম্মান করে",
+          "bo": "རང་དབང་དང་གསང་དོན་ལ་གུས་བརྩི་ཞུས་མཁན་གྱི་མཉེན་ཆས་ཉར་ཚགས་ཁང་།",
+          "ca": "La botiga d'aplicacions que respecta la llibertat i la privacitat",
+          "cs": "Zdroj aplikací který respektuje vaši svobodu a soukromí",
+          "cy": "Yr ystorfa apiau sy'n parchu rhyddid a phreifatrwydd",
+          "da": "App-butikken, der respekterer frihed og privatliv",
+          "de": "Der App-Store, der Freiheit und Privatsphäre respektiert",
+          "el": "Το κατάστημα εφαρμογών που σέβεται την ελευθερία και την ιδιωτικότητα",
+          "en-US": "The app store that respects freedom and privacy",
+          "eo": "Aplikaĵa vendejo respektanta liberecon kaj privatecon",
+          "es": "El repositorio de aplicaciones que respeta la libertad y la privacidad",
+          "es-AR": "La tienda de apps que respeta tu libertad y privacidad",
+          "es-MX": "La tienda de aplicaciones que respeta la libertad y la privacidad",
+          "es_AR": "La tienda de apps que respeta tu libertad y privacidad",
+          "es_MX": "La tienda de aplicaciones que respeta la libertad y la privacidad",
+          "et": "Rakenduste pood, mis austab vabadust ja privaatsust",
+          "eu": "Askatasuna eta pribatutasunari begirunea dion aplikazio biltegia",
+          "fa": "فروشگاه کاره‌ای که به آزادی و محرمانگی احترام می‌گذارد",
+          "fi": "Sovelluskauppa, joka kunnioittaa vapautta ja yksityisyyttä",
+          "fil": "Ang app store na rumerespeto sa kalayaan at pagkapribado",
+          "fr": "Le magasin d'applications qui respecte votre liberté et votre vie privée",
+          "gd": "Am bùth aplacaidean aig a bheil suim dhan t-saorsa is phrìobhaideachd agad",
+          "gl": "A tenda de aplicacións que respecta a liberdade e a privacidade",
+          "he": "חנות היישומונים שמכבדת חופש ופרטיות",
+          "hi": "ऐप स्टोर जो स्वतंत्रता और गोपनीयता का सम्मान करता है",
+          "hr": "Spremište za programe koje poštuje slobodu i privatnost",
+          "hu": "Az alkalmazásbolt, amely tiszteletben tartja a szabadságot és az adatvédelmet",
+          "id": "Toko aplikasi yang menghormati kebebasan dan privasi",
+          "is": "Forritasafnið sem virðir frelsi og gagnaleynd",
+          "it": "L'app store che rispetta la libertà e la privacy",
+          "ja": "自由とプライバシーを尊重するアプリストア",
+          "kab": "Taḥanut n yisnasen i yettqadaren tilelli d tbaḍnit",
+          "ko": "자유와 개인정보 보호를 존중하는 앱 스토어",
+          "lt": "Programėlių parduotuvė, kuri gerbia laisves ir privatumą",
+          "mr": "असा अनुप्रयोग संग्रह जो स्वातंत्र्य आणि गोपनीयतेचा आदर करतो",
+          "my": "လွတ်လပ်မှုနဲ့ကိုယ်ရေးကိုယ်တာကို အလေးထားတဲ့ အက်ပ်စတိုး",
+          "nb": "Programbutikken som respekterer frihet og personvern",
+          "nl": "De appwinkel die je vrijheid en privacy respecteert",
+          "nn": "Appbutikken som respekterer fridommen din og personvernet ditt",
+          "pa": "ਐਪ ਸਟੋਰ ਜੋ ਆਜ਼ਾਦੀ ਅਤੇ ਗੋਪਨੀਯਤਾ ਦਾ ਸਨਮਾਨ ਕਰਦਾ ਹੈ",
+          "pl": "Sklep z aplikacjami szanujący wolność i prywatność",
+          "pt": "A loja de aplicações que respeita a liberdade e a privacidade",
+          "pt-BR": "A loja de aplicativos que respeita a liberdade e a privacidade",
+          "pt-PT": "A loja de aplicações que respeita a liberdade e a privacidade",
+          "ro": "Magazinul de aplicații ce respectă libertatea și intimitatea",
+          "ru": "Магазин приложений, уважающий свободу и конфиденциальность",
+          "sc": "Sa butega de aplicatziones chi rispetat sa libertade e sa riservadesa",
+          "si": "නිදහසට සහ පෞද්ගලිකත්වයට ගරු කරන යෙදුම් ගබඩාව",
+          "sk": "Obchod s aplikáciami, ktorý rešpektuje slobodu a súkromie",
+          "sl": "Trgovina z aplikacijami, ki spoštuje svobodo in zasebnost",
+          "sq": "Depoja e aplikacioneve që respekton lirinë dhe privatësinë",
+          "sr": "Продавница апликација која поштује слободу и приватност",
+          "sv": "App-lagringen som respekterar frihet och integritet",
+          "ta": "சுதந்திரத்தையும் தனியுரிமையையும் மதிக்கும் பயன்பாட்டு அங்காடி",
+          "te": "స్వేచ్ఛ మరియు గోప్యతను గౌరవించే యాప్ స్టోర్",
+          "tr": "Özgürlük ve gizliliğe saygılı uygulama mağazası",
+          "ug": "بۇ ئۇيغۇلىما دۇكىنى ئەركىنلىك ۋە مەخپىيەتلىككە ھۆرمەت قىلىدۇ",
+          "uk": "Крамниця застосунків, яка поважає свободу та приватність",
+          "vi": "Cửa hàng ứng dụng tôn trọng sự tự do và riêng tư",
+          "yue": "尊重自由與私隱嘅 app store",
+          "zh-CN": "尊重自由与隐私的应用商店",
+          "zh-Hant-HK": "尊重自由與私隱的應用程式商店",
+          "zh-TW": "尊重自由和隱私的應用程式商店"
+        },
+        "description": {
+          "af": "F-Droid is 'n installeerbare katalogus van gratis sagteware\nprogramme vir Android. Die F-Droid-kliënt-app maak dit\nmaklik om te blaai, te installeer en op hoogte te bly van opdaterings op u toestel.\n\nDit kan gekoppel word aan enige F-Droid-versoenbare bewaarplekke. Die standaardrepos\nword gehuisves by f-droid.org, wat slegs bona fide libre sagteware bevat.\n\nAndroid self is oop in die sin dat u vry is om APK's te installeer\nwaar u ook al wil, maar daar is baie goeie redes om dit te gebruik\nF-Droid as u sagteware-programbestuurder:\n\n* Word in kennis gestel wanneer opdaterings beskikbaar is\n* Aflaai en installeer opdaterings outomaties\n* Hou ouer en beta-weergawes dop\n* Filtreer programme uit wat nie met die toestel versoenbaar is nie\n* Vind programme via kategorieë en soekbare beskrywings\n* Toegang tot geassosieerde URL's vir donasies, bronkode ens.\n* Bly veilig deur repo-indekshandtekeninge en APK-hakies na te gaan\n",
+          "ar": "F-Droid هو كتالوج قابل للتثبيت لتطبيقات البرامج الحرة لنظام Android. يسهل تطبيق عميل F-Droid تصفح التحديثات وتثبيتها وتتبعها على جهازك.\n\nيتصل بأي مستودعات متوافقة مع F-Droid . يتم استضافة المستودع الافتراضي في f-droid.org ، والذي يحتوي فقط على برنامج حر حسن النية.\n\nنظام اندرويد مفتوح بمعنى آخر أنت حر في تثبيت ملفات APK من أي مكان تريده ، ولكن هناك العديد من الأسباب الوجيهة لاستخدام F-Droid كمدير تطبيق برنامج حر:\n\n* الحصول على إخطار عند توفر التحديثات\n* اختياريا تحميل وتثبيت التحديثات تلقائيا\n* تتبع الإصدارات القديمة والتجريبية\n* تصفية التطبيقات غير المتوافقة مع الجهاز\n* البحث عن التطبيقات عبر الفئات والأوصاف القابلة للبحث\n* الوصول إلى عناوين URL المرتبطة للتبرعات وشفرة المصدر وما إلى ذلك.\n* ابق آمنا عن طريق التحقق من توقيعات فهرس المستودعات وتجزئات APK\n",
+          "az": "F-Droid Android platforması üçün pulsuz proqram kataloqudur.\nF-Droid proqramı baxmağı asanlaşdırır\nproqramları quraşdırın, onları quraşdırın və yeniləmələri izləyin.\n\nF-Droid ilə uyğun gələn istənilən repozitoriyaya qoşulmaq mümkündür. Defolt depo f-droid.org-dur,\nyalnız orijinal pulsuz proqram təminatı ehtiva edir.\n\nAndroid özü APK paketlərinin quraşdırılması mənasında açıqdır\nhər yerdən, lakin F-Droid-i sizin kimi istifadə etmək üçün çox yaxşı səbəblər var\npulsuz proqram meneceri:\n\n* Bildirişləri yeniləyin\n* Yeniləmələri avtomatik yükləmək və quraşdırmaq imkanı\n* Köhnəlmiş proqramları və onların beta versiyalarını izləmək\n* Cihazla uyğun gəlməyən proqramların yoxlanılması\n* Tətbiqləri kateqoriyalar və təsvirlər üzrə axtarın\n* İanə proqramları ilə əlaqəli bağlantılara daxil olun, mənbə koduna baxın və s\n* Repozitor imzalarını və APK hashlarını yoxlamaqla risk yoxdur\n",
+          "bo": "ཨེཕ་རོཌ་ནི་ཨེན་ཀྲོཌ་བབ་སྟེགས་ཀྱི་ཆེད་དུ་FOSS(རིན་མེད་དང་ཕྱི་གསལ་ནང་གསལ་གྱི་མཉེན་ཆས།)གྱི་སྒྲིག་བཅུག་བྱེད་པའི་རེའུ་མིག་ཞིག་རེད། མཉེས་ཆས་འདི་བལྟ་ཆས་དང་། སྒྲིག་བཅུག དེ་བཞིན་ཁྱེད་རང་གི་ཡོ་བྱད་རྗེས་དེད་གཏོང་རྒྱུ་ལས་སླ་པོ་བཟོས་ཡོད།\n\nའདི་ཨེཕ་རོཌ་ནང་གི་མཐུན་པའི་མཛོད་ཁང་གང་འདྲ་ཞིག་ལའང་མཐུད་ཐུབ་ཀྱི་ཡོད། རེ་པོ་སོར་བཞག་ནི་f-droid.org ནས་སྣེ་ལེན་ཞུས་ཡོད་ལ་དེ་ནི་རིན་མེད་དང་ཕྱི་གསལ་ནང་གསལ་གྱི་མཉེན་ཆས་ངོ་མ་ཆགས་ཀྱི་ཡོད།\n\nཨེན་ཀྲོཌ་ནི་གུ་ཡངས་ཅན་གྱི་མཉེན་ཆས་ཤིག་ཡིན་ལ་དེ་ཡང་ཁྱེད་རང་གིས་APKs དེ་བཞིན་རང་གི་འདོད་མོས་ལྟར་ཕྱོགས་གང་ནས་ཀྱང་སྒྲིག་བཅུག་བྱས་ན་འགྲིག་གི་ཡོད། འོན་ཀྱང་ཁྱེད་རང་གིས་ཨེཕ་རོཌ་རིན་མེད་མཉེན་ཆས་སྟངས་འཛིན་བེད་སྤྱོད་བྱས་ན་ཁེ་ཕན་ཆེན་པོ་ཡོད་པའི་རྒྱུ་མཚན་མང་དག་ཅིག་ཡོད།\n\n*གསར་བསྒྱུར་ཡོད་པའི་ཚེ་ལན་བརྡ་སྤྲད་རོགས། *རང་འགུལ་གྱིས་ཕབ་ལེན་དང་སྒྲིག་བཅུག་གསར་བསྒྱུར་གདམ་ཀ། *ཐོན་རྙིང་པ་དང་ཚོད་ལྟའི་ཐོན་རིམ་ལ་རྗེས་འདེད་བཏང་ཐུབ།*ཡོ་བྱད་དང་མི་མཐུན་པའི་མཉེན་ཆས་རྣམས་དབྱེ་ཕྱེས་གཏོང་།* སྡེ་ཚན་དང་འགྲེལ་བཤད་འཚོལ་ཞིབ་རྒྱུད་དེ་མཉེན་ཆས་འཚོལ་།* ཞལ་འདེབས་དང་འབྱུང་ཁུངས་ཨང་རྟགས་སོགས་ཀྱི་ཆེད་དུ་URLs མཉམ་འབྲེལ་སྒོ་ཕྱེས། *རེ་པོ་མིང་རྟགས་ཕྱོགས་སྟོན་བེད་སྤྱོད་བྱས་ཏེ་བེད་ཆགས་ཐོག་གནས་ཐུབ་པ་དང་།་\n",
+          "ca": "F-Droid és un catàleg instal·lable d'aplicacions de software lliure\nper a Android. La aplicació client de F-Droid facilita navegar, instal·lar\ni fer el seguiment de les actualitzacions en el vostre dispositiu.\n\nF-Droid connecta amb qualsevol repositori compatible. El repositori\nper defecte està allotjat a f-droid.org, que conté només sofware lliure\nde bona qualitat.\n\nAndroid en sí és obert en el sentit que sou lliures d'instal·lar APK's\ndes de qualsevol origen, però hi ha unes quantes bones raons per\nutilitzar F-Droid com a el gestor d'aplicacions de software lliure:\n\n* Obté notificacions quan hi hagin actualitzacions disponibles\n* Opcionalment es poden baixar i instal·lar actualitzacions automàticament\n* Fer un seguiment de les versions anteriors i betes\n* Filtrar les aplicacions que no siguin compatibles amb el vostre dispositiu\n* Trobar aplicacions a través de les categories o les descripcions\n* Accedir a les URL's associades per fer-hi donacions, accedir al codi font, etc.\n* Mantindre la seguretat comprovant les firmes del repositori i dels APK's\n",
+          "cs": "F-Droid je katalog svobodných aplikací pro Android. S klientem F-Droid je snadné listovat v katalogu aplikací, instalovat je a udržovat je aktuální.\n\nF-Droid dokáže použít jakýkoli kompatibilní repozitář. Výchozí repozitář (k dispozici na f-droid.org) obsahuje pouze důvěryhodný svobodný software.\n\nSám Android je otevřený v tom smyslu, že máte svobodu instalovat soubory APK odkudkoli, existují ale dobré důvody, proč používat F-Droid jako správce vašich svobodných aplikací:\n\n* Pošle vám oznámení o aktualizaci, jakmile je dostupná\n* Volitelné automatické aktualizace\n* Procházejte starší a beta verze\n* Dokáže vyřadit aplikace nekompatibilní se zařízením\n* Umí vyhledávat aplikace dle kategorií a popisků\n* Poskytne přístup k souvisejícím odkazům na zdrojový kód, stránku na příspěvky atd.\n* Zkontroluje podpis obsahu repozitáře a hash APK\n",
+          "cy": "Mae F-Droid yn gatalog y gellir ei osod o apiau meddalwedd rhydd ar gyfer Android. Mae'r ap cleient F-Droid yn ei wneud yn hawdd pori, gosod a chadw trefn ar ddiweddariadau ar dy ddyfais.\n\nMae'n cysylltu ag unrhyw ystorfeydd sy'n gydnaws ag F-Droid. Cynhelir yr ystorfa graidd yn f-droid.org, ble cynhelir dim ond meddalwedd rhydd bona fide.\n\nMae Android ei hun yn agored yn yr ystyr dy fod yn rhydd i osod APKiau o unrhyw le wyt yn dymuno, ond mae yna nifer o resymau da i ddefnyddio F-Droid fel dy reolwr apiau meddalwedd rhydd:\n\n* Cael dy hysbysu pan mae diweddariadau ar gael\n* Dewis i lawrlwytho a gosod diweddariadau yn awtomatig neu beidio\n* Cadw trefn ar fersiynau hyn a fersiynau beta\n* Diystyru apiau na sy'n gydnaws â dy ddyfais\n* Darganfod apiau fesul categori a thrwy chwilio eu disgrifiadau\n* Cael mynediad at URLau er mwyn cyfrannu, gweld cod gwreiddiol, ayyb\n* Aros yn ddiogel gan wirio llofnodion mynegai ystorfeydd a hashiau APK\n",
+          "da": "F-Droid er et installerbart katalog over frie softwareapps til Android. F-Droid-appen gør det nemt at gennemse, installere og holde styr på opdateringer på din enhed.\n\nAppen opretter forbindelse til alle F-Droid-kompatible depoter. Standard-depotet er hostet på f-droid.org, som kun indeholder ægte fri software.\n\nAndroid i sig selv er åben i den forstand, at du frit kan installere APK'er når du finder dem, men der er mange gode grunde til at bruge F-Droid som appmanager til fri software:\n\n* Få besked, når opdateringer er tilgængelige\n* Du kan vælge at downloade og installere opdateringer automatisk\n* Hold styr på ældre versioner og betaversioner\n* Frasorter apps, der er inkompatible med enheden\n* Find apps via kategorier og søgbare beskrivelser\n* Få adgang til links til donationer, kildekode osv.\n* Forbliv sikker ved at tjekke depot-indekssignaturer og APK-hash\n",
+          "de": "F-Droid ist ein installierbarer Katalog mit Libre Software Apps für Android. Die F-Droid-App vereinfacht die Suche nach Apps, deren Installation und sorgt dafür, dass sie auf dem neusten Stand bleiben.\n\nSie verbindet sich mit jeder mit F-Droid kompatiblen Paketquelle. Die Standardquelle wird auf f-droid.org gehostet, die ausschließlich echte freie und quelloffene Software enthält.\n\nAndroid selbst ist dahingehend offen, dass jeder die Wahl hat, woher er APKs installieren möchte. Es gibt aber viele gute Gründe, F-Droid als App-Manager für freie Software zu verwenden:\n\n* Benachrichtigungen zu verfügbaren Aktualisierungen erhalten \n* Aktualisierungen wahlweise automatisch herunterladen und installieren \n* Vorgänger- und Beta-Versionen überblicken \n* Mit dem Gerät inkompatible Apps aussortieren\n* Apps nach Kategorien und durchsuchbaren Beschreibungen finden \n* Auf URLs zugreifen, die mit Quelltext, Spendenmöglichkeiten usw. verknüpft sind \n* Durch Überprüfung von Quell-Signaturen und APK-Hashes geschützt bleiben\n",
+          "el": "Το F-Droid είναι ένας κατάλογος εφαρμογών ελεύθερου λογισμικού\nγια το Android. Η εφαρμογή πελάτη F-Droid διευκολύνει την περιήγηση,\nτην εγκατάσταση και την παρακολούθηση ενημερώσεων στη συσκευή σας.\n\nΣυνδέεται με οποιοδήποτε αποθετήριο συμβατό με το F-Droid. Το προεπιλεγμένο\nαποθετήριο φιλοξενείται στο f-droid.org, το οποίο περιέχει μόνο καλόπιστο ελεύθερο λογισμικό.\n\nΤο ίδιο το Android είναι ανοιχτό υπό την έννοια ότι είστε ελεύθεροι να\nεγκαταστήσετε APK από οπουδήποτε, αλλά υπάρχουν πολλοί καλοί λόγοι για τη χρήση\nτου F-Droid ως τον διαχειριστή σας εφαρμογών ελεύθερου λογισμικού:\n\n* Λάβετε ειδοποίηση όταν είναι διαθέσιμες ενημερώσεις\n* Προαιρετικά, κατεβάστε και εγκαταστήστε ενημερώσεις αυτόματα\n* Παρακολουθήστε παλαιότερες και δοκιμαστικές εκδόσεις\n* Φιλτράρετε εφαρμογές που δεν είναι συμβατές με τη συσκευή σας\n* Βρείτε εφαρμογές μέσω κατηγοριών και περιγραφών με δυνατότητα αναζήτησης\n* Πρόσβαση σε σχετικές διευθύνσεις URL για δωρεές, πηγαίο κώδικα κλπ.\n* Μείνετε ασφαλείς ελέγχοντας τις υπογραφές του ευρετηρίου και τους κατακερματισμούς των APK\n",
+          "en-US": "F-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes\n",
+          "eo": "F-Droid estas instalebla katalogo de liberaj aplikaĵoj por Android. La kliento plifaciligas foliumadon, instaladon kaj spuradon de ĝisdatigoj ĉe via aparato.\n\nĜi konektas al ĉiuj F-Droid-kongruaj deponejoj. La ĉefa deponejo estas gastigata ĉe f-droid.org kaj enhavas nur vere liberan programaron.\n\nAndroid mem estas malferma tiel, ke vi povas instali aplikaĵojn de iu ajn fonto, sed estas kelkaj bonaj kialoj por uzi F-Droid kiel vian instal‑administrilon:\n• ricevi sciigojn pri disponeblaj ĝisdatigoj\n• (malnepre) elŝuti kaj instali ĝisdatigojn aŭtomate\n• spuri malnovajn kaj betajn versiojn\n• filtri aplikaĵojn nekongruajn kun via aparato\n• esplori aplikaĵojn laŭ kategorioj kaj per serĉeblaj priskriboj\n• aliri ligilojn por donaci, fontkodo, ktp.\n• esti sekura per kontroli signaturojn de la deponeja indekso kaj haketaĵojn de apoj\n",
+          "es": "F-Droid es un catálogo instalable de aplicaciones de software libre para Android. La aplicación de cliente F-Droid facilita la navegación, la instalación y el seguimiento de las actualizaciones en su dispositivo.\n\nSe conecta a cualquier repositorio compatible con F-Droid. El repositorio predeterminado está alojado en f-droid.org, que contiene solo software libre de buena fe.\n\nAndroid en sí mismo es abierto en el sentido de que puede instalar APK desde cualquier lugar que desee, pero hay muchas buenas razones para usar F-Droid como su administrador de aplicaciones de software libre:\n\n* Reciba notificaciones cuando haya actualizaciones disponibles\n* Opcionalmente, descargue e instale actualizaciones automáticamente\n* Realice un seguimiento de las versiones anteriores y beta\n* Filtrar aplicaciones incompatibles con el dispositivo\n* Encuentra aplicaciones a través de categorías y descripciones que se pueden buscar\n* Acceda a URL asociadas para donaciones, código fuente, etc.\n* Manténgase seguro al verificar las firmas del índice de repositorios y los hashes de APK\n",
+          "es-AR": "F-Droid es un catálogo de software libre para android. El cliente de F-Droid hace fácil buscar, instalar, y Mantener actualizado tu dispositivo.\n\nEste se conecta con cualquier repositorio compatible con F-Droid. El repositorio predeterminado es hosteado en f-droid.org, que contiene solo software libre\nAndroid es abierto en el sentido en el que puedes instalas APKs\ndesde donde quieras, pero hay buenas razones para usar F-Droid como tu gestor de apps libres\n* Mantente informado de actualizaciones\n* Opcionalmente puedes descargar e instalar actualizaciones automáticamente\n* Manten un registro de versiones viejas y beta\n* filtrar las aplicaciones incompatibles con tu dispositivo\n* busca apps por categorías o por descripción\n* Accede a URLs asociadas para donaciones, código fuente, etc.\n* Mantente seguro verificando las signatures y hashes de los APKs\n",
+          "es-MX": "F-Droid es un catálogo instalable de software libre\naplicaciones para Android. La aplicación cliente de F-Droid hace que\nfácil de navegar, instalar y llevar un registro de las actualizaciones de tu dispositivo.\n\nSe conecta a cualquier depósito compatible con F-Droid. El repositorio por defecto\nestá alojado en f-droid.org, que contiene sólo software libre de buena fe.\n\nEl propio Android es abierto en el sentido de que es libre de instalar APKs\nde cualquier lugar que desee, pero hay muchas buenas razones para usar\nF-Droid como tu administrador de aplicaciones de software libre:\n\n* Recibirás una notificación cuando haya actualizaciones disponibles\n* Opcionalmente descargar e instalar actualizaciones automáticamente\n* Manténgase al tanto de las versiones antiguas y beta\n* Filtrar las aplicaciones incompatibles con el dispositivo\n* Encontrar aplicaciones a través de categorías y descripciones buscables\n* Accede a las URLs asociadas para donaciones, código fuente, etc.\n* Manténgase seguro comprobando las firmas del índice de reposición y los hashes APK\n",
+          "es_AR": "F-Droid es un catálogo de software libre para android. El cliente de F-Droid hace fácil buscar, instalar, y Mantener actualizado tu dispositivo.\n\nEste se conecta con cualquier repositorio compatible con F-Droid. El repositorio predeterminado es hosteado en f-droid.org, que contiene solo software libre\nAndroid es abierto en el sentido en el que puedes instalas APKs\ndesde donde quieras, pero hay buenas razones para usar F-Droid como tu gestor de apps libres\n* Mantente informado de actualizaciones\n* Opcionalmente puedes descargar e instalar actualizaciones automáticamente\n* Manten un registro de versiones viejas y beta\n* filtrar las aplicaciones incompatibles con tu dispositivo\n* busca apps por categorías o por descripción\n* Accede a URLs asociadas para donaciones, código fuente, etc.\n* Mantente seguro verificando las signatures y hashes de los APKs\n",
+          "es_MX": "F-Droid es un catálogo instalable de software libre\naplicaciones para Android. La aplicación cliente de F-Droid hace que\nfácil de navegar, instalar y llevar un registro de las actualizaciones de tu dispositivo.\n\nSe conecta a cualquier depósito compatible con F-Droid. El repositorio por defecto\nestá alojado en f-droid.org, que contiene sólo software libre de buena fe.\n\nEl propio Android es abierto en el sentido de que es libre de instalar APKs\nde cualquier lugar que desee, pero hay muchas buenas razones para usar\nF-Droid como tu administrador de aplicaciones de software libre:\n\n* Recibirás una notificación cuando haya actualizaciones disponibles\n* Opcionalmente descargar e instalar actualizaciones automáticamente\n* Manténgase al tanto de las versiones antiguas y beta\n* Filtrar las aplicaciones incompatibles con el dispositivo\n* Encontrar aplicaciones a través de categorías y descripciones buscables\n* Accede a las URLs asociadas para donaciones, código fuente, etc.\n* Manténgase seguro comprobando las firmas del índice de reposición y los hashes APK\n",
+          "et": "F-Droid on paigaldatav vaba tarkvara rakenduste kataloog Androidile.\nF-Droidi kliendirakendus lubab lihtsalt sirvida, paigaldada ja hoida \nsilm peal oma seadme rakenduste värskendustel.\n\nTa ühendub kõigi F-Droidiga ühilduvate hoidlatega. Vaikimisi hoidla \non saidil f-droid.org ja pakub ainult tõelist vaba tarkvara.\n\nAndroid ise on avatud selles mõttes, et sa oled vaba paigaldamaks \nAPK faile kõikjalt, kus sa soovid, kuid F-Droidi kasutamisel on mitmeid \neeliseid su vaba tarkvara rakenduste haldurina:\n\n* Oled teavitatud, kui värskendused on saadaval\n* Valikuline värskenduste alla laadimine ja paigaldamine\n* Jälgi rakenduste vanemaid ja prooviversioone\n* Filtreeri välja seadme mitteühilduvad rakendused\n* Otsi rakendusi kategooriate ja otsitavate kirjelduste kaudu\n* Pöördu seotud annetuste, lähtekoodi jms. viidetele\n* Ole turvatud kontrollides hoidla indeksi allkirju ja APK räsisid\n",
+          "eu": "F-droid instalatu daitekeen Android plataformarako aplikazio librearen katalogo bat da.\nF-Droid bezeroari eske erreza da hauek arakatzea, instalatzea eta eguneraketen jarraipena egitea zure gailuan.\n\nF-Droid-ekin bateragarriak diren biltegietara konektatzen da.\nLehenetsitako biltegia f-droid.org da, eta egiaztatutako software librea besterik ez dauka.\n\nAndroid berez irekia da, Non nahitik APK fitxategiak instalatzea baimentzen du alegia,\nbaina arrazoi ugari daude F-Droid zure software librearentzako aplikazio kudeatzaile gisa erabiltzeko:\n\n* Eguneraketen jakinarazpenak jaso\n* Aukeran eguneraketak automatikoki deskargatu eta instalatu\n* Bertsio zaharren eta beta bertsioen jarraipena egin\n* Gailuarekin bateragarriak ez diren aplikazioak iragazi\n* Aplikazioak kategoriaren arabera eta bilaketen arabera aurkitu\n* Dohaintzak egiteko URLak\n* Segurtasuna zaintzea biltegiaren indizearen sinadurak eta APK fitxategien hash.a egiaztatuz\n",
+          "fa": "اف‌دروید فهرستی قابل نصب از کاره‌های نرم‌افزار آزاد\nبرای اندروید است. کارهٔ کارخواه اف‌دروید، مرور، نصب و\nردیابی به‌روز رسانی‌ها را روی دستگاهتان آسان می‌کند.\n\nاین کاره به تمامی مخازن سازگار با اف‌دروید وصل می‌شود.\nمخزن پیش‌گزیده روی f-droid.org میزبانی شده که فقط\nشامل نرم‌افزارهای آزاد است.\n\nاندروید باز است، به این معنی که می‌توانید APKها را از هرجایی\nکه دوست دارید نصب کنید؛ ولی دلایل خوبی برای استفاده از\nاف‌دروید به عنوان مدیر کاره‌های نرم‌افزار آزادتان وجود دارد:\n\n* آگاه شدن هنگام وجود به‌روز رسانی‌ها\n* بارگیری و نصب خودکار به‌روز رسانی‌ها به صورت دلخواه\n* ردیابی نگارش‌های آزمایشی و قدیمی\n* پالایش کاره‌های ناسازگار با دستگاه\n* یافتن کاره‌ها از دسته‌بندی‌ها و توضیحات قابل جست‌وجو\n* دسترسی به نشانی‌های اختصاصی برای اعانه، کد مبدأ و…\n* امن ماندن با بررسی امضای نمایهٔ مخزن و هش‌های APK\n",
+          "fi": "F-Droid on pakettivarasto avoimen lähdekoodin\nAndroid-ohjelmille. F-Droidilla on helppo etsiä, \nasentaa ja päivittää sovelluksia.\n\nSe pystyy muodostamaan yhteyden kaikkiin F-Droid -yhteensopiviin\nsovelluslähteisiin. Oletus sovelluslähde on ylläpidetty osoitteessa\nf-droid.org, joka sisältää vain täysin avoimia ohjelmistoja.\n\nAndroid itsessään on avoin siinä mielessä, että voit vapaasti\nasentaa haluamiasi APK-tiedostoja mistä haluat.\nTässä on monia hyviä syitä käyttää F-Droidia sovellusten asentamiseen:\n\n* Saat ilmoituksen, kun päivityksiä on saatavilla\n* Vaihtoehtoisesti voit ladata ja asentaa päivitykset automaattisesti\n* Halutessasi voit päivittää sovelluksen vanhempaan tai beta-versioon\n* Suodata laitteen kanssa yhteensopimattomat sovellukset\n* Etsi sovelluksia luokkien ja haun avulla\n* Sovelluksien kuvaussivuille liitetyt URL-osoitteet kehittäjille lahjoittamiseen, lähdekoodiin, käännökseen jne.\n* Pysy turvassa tarkistamalla sovelluslähteiden indeksi allekirjoitukset ja APK-hajautukset\n",
+          "fil": "Ang F-Droid ay isang mai-install na katalogo ng mga libre software\napp sa Android. Pinapadali ng F-Droid client na\nmag-browse, mag-install, at mag-track sa mga update sa iyong device.\n\nKumokonekta ito sa kahit anong mga repositoryong compatible sa F-Droid. Ang default na repo ay\nhino-host sa fdroid.org, na naglalaman lang ng mga bona fide na libre software.\n\nBukas ang Android dahil malaya kang makakapag-install ng mga APK\nsaanman sila galing, pero may mga magagandang dahilan kung bakit magandang gamitin ang F-Droid bilang app manager ng mga libre software mo:\n\n* Maabisuhan kapag may mga update\n* Pwedeng ipakusa ang pag-download at pag-install sa mga update\n* I-track ang mga luma at beta na bersyon\n* Isala ang mga app na hindi compatible sa device\n* Maghanap ng mga app sa tulong ng mga kategorya at mahahanap na paglalarawan\n* I-access ang mga kaugnay na URL para sa mga donasyon, code ng source, atbp.\n* Manatiling ligtas sa tulong ng pagtingin\nsa mga pirma sa index ng repo at mga hash ng APK\n",
+          "fr": "F-Droid est un catalogue installable d’application libres pour Android. L’application client F-Droid facilite la navigation, l’installation, ainsi que le suivi des mises à jour sur votre appareil.\n\nElle se connecte à n’importe quel dépôt compatible avec F-Droid. Le dépôt par défaut est hébergé sur f-droid.org et ne propose que de véritables applications libres.\n\nAndroid même est ouvert dans la mesure où vous êtes libre d’installer des fichiers APK quelle qu'en soit la provenance, mais les raisons ne manquent pas d’utiliser F-Droid en tant que gestionnaire de vos applications libres :\n\n* Être informé lorsque des mises à jour sont disponibles\n* Il est possible de télécharger et installer les mises à jour automatiquement\n* Suivi des anciennes versions et des versions bêta\n* Filtre les applis incompatibles avec l’appareil\n* Recherche d'applications par catégorie et depuis leur description\n* Accès aux URL connexes pour faire un don, accéder au code source, etc.\n* Sécurité garantie avec la vérification des signatures des indices de dépôt et les hachages d’APK\n",
+          "gd": "’S e catalog de bhathar-bhog saor a ghabhas stàladh air Android\na th’ ann an F-Droid. Nì aplacaid cliant F-Droid e furasta dhut\ngun rùraich, gun stàlaich is gun cùm thu sùil air ùrachaidhean air an uidheam agad.\n\nNì i ceangal ri ionad-tasgaidh sam bith a tha co-chòrdail le F-Droid. Tha an t-ionad-tasgaidh bunaiteach\n’ga òstadh air f-droid.org agus fhan ghaigh thu ach bathar-bog a tha saor dha-rìribh ann.\n\nTha Android fhèin fosgailte san t-seagh gum faod thu APK\na stàladh à àite sam bith a thogras tu ach tha iomadh deagh adhbhar ann airson\nF-Droid a chleachdadh airson na h-aplacaidean saora agad a stùireadh:\n\n* Gheibh thu brath nuair a bhios ùrachadh ri fhaighinn\n* ’S urrainn dhut ùrachaidhean a lochdadh a-nuas is a stàladh gu fèin-obrachail ma thogras tu\n* ’S urrainn dhut sùil a chumail air seann-tionndaidhean is tionndaidhean beta\n* ’S urrainn dhut aplacaidean nach eil co-chòrdail ris an uidheam agad a chriathradh air falbh\n* ’S urrainn dhut aplacaidean a lorg le roinnean-seòrsa is tuairisgeulan a ghabhas lorg annta\n* ’S urrainn dhut URLaichean co-cheangailte inntrigeadh, can airson tabhartas a thoirt, am bun-tùs fhaighinn is msaa.\n* Bidh thu nas sàbhailte le dearbhadh nan soidhnidhean air inneacsan nan ionadan-tasgaidh is haisichean nan APK\n",
+          "he": "F-Droid הוא קטלוג של יישומונים חופשיים שמיועדים להתקנה על Android. יישומון הלקוח של F-Droid מקל על העיון, ההתקנה ומעקב אחר עדכונים עבור המכשיר שלך.\n\nהלקוח מתחבר לכל מאגר תואם F-Droid. מאגר בררת המחדל מתארח ב־f-droid.org, שמכיל אך ורק יישומונים חופשיים באחריות.\n\nמערכת Android עצמה פתוחה במובן שיש לך את החופש להתקין קובצי APK מהיכן שרק תחפוץ, אך ישנן מגוון סיבות טובות להשתמש בלקוח F-Droid בתור מנהל היישומונים החופשיים שלך:\n\n* קבלת התראות כשקיימים עדכונים\n* מתן האפשרות להוריד ולהתקין עדכונים אוטומטית\n* לעקוב אחר מהדורות ישנות יותר לצד מהדורות בטא\n* סינון יישומונים שאינם תואמים למכשיר\n* איתור יישומונים בזכות קטגוריות ותיאורים שניתן לחפש בהם\n* גישה לכתובות משויכות לטובת תרומה, קוד מקור וכו׳\n* שמירה על אבטחת מידע על ידי בדיקת חתימות מפתח המאגר וגיבובי APK\n",
+          "hu": "Az F-Droid telepíthető szabad szoftveres alkalmazások katalógusa. Az F-Droid kliensalkalmazás könnyűvé teszi az alkalmazások tallózását, telepítését és azok frissen tartását az eszközén.\n\nBármely F-Droiddal kompatibilis tárolóhoz képes kapcsolódni. Az alapértelmezett tároló az f-droid.org-on található, és csak valóban szabad szoftvereket tartalmaz.\n\nMaga az Android abban az értelemben nyílt, hogy szabadon telepíthet APK-kat, ahonnan csak szeretne, de számos oka van annak, hogy az F-Droidot használja a szabad alkalmazáskezelőjeként:\n\n* Kapjon értesítéseket, ha frissítések érhetők el\n* Válaszható módon töltsön le és frissítsen automatikusan\n* Kövesse a régebbi és béta verziókat\n* Szűrje ki az eszközével nem kompatibilis alkalmazásokat\n* Keressen alkalmazásokat kategória és leírás alapján\n* Érje el az adományozási URL-eket, forráskódot, stb.\n* Maradjon biztonságban a tárolóindex- és APK-aláírásokkal\n",
+          "id": "F-Droid adalah katalog perangkat lunak aplikasi\nbebas untuk Android. Aplikasi klien F-Droid membuatnya\nmudah untuk menelusuri, memasang, dan mengikuti pembaruan aplikasi yang ada di perangkat Anda.\n\nIni terhubung dengan semua repositori yang kompatibel dengan F-Droid. Repositori bawaan dihost di f-droid.org,\nyang hanya mengandung perangkat lunak bonafid bebas.\n\nAndroid sendiri terbuka jika Anda ingin mengunduh APK secara bebas.\ndari mana pun yang Anda ingin, tetapi ada beberapa alasan baik untuk menggunakan\nF-Droid sebagai aplikasi pengelola perangkat lunak bebas Anda.\n\n* Dapatkan pemberitahuan ketika pembaruan telah tersedia\n* Unduh dan instal aplikasi secara otomatis secara opsional\n* Ikuti versi lama dan beta dari aplikasi\n* Saring aplikasi yang tidak kompatibel dengan perangkat Anda\n* Temukan aplikasi melalui kategori dan deskripsi yang dapat dicari\n* Akses URL terkait untuk donasi, kode sumber, dll.\n* Tetap aman dengan memeriksa tandatangan indeks repo dan hash APK\n",
+          "is": "F-Droid er uppsetjanlegt safn frjálsra forrita fyrir\nAndroid. Sjálft F-Droid forritið auðveldar að skoða, setja upp\nog halda utan um uppfærslur á tækinu þínu.\n\nÞað tengist við hvert það hugbúnaðarsafn sem er samhæfanlegt\nvið F-Droid. Sjálfgefna hugbúnaðarsafnið er hýst á f-droid.org,\nsem inniheldur einungis hreinan opinn og frjálsan hugbúnað.\n\nSjálft Android-stýrikerfið er opið í þeim skilningi að þér er frjálst\nað setja upp APK-pakka hvaðan sem þér sýnist, en eftir sem áður\neru margar góðar ástæður fyrir því að nota F-Droid fyrir almenna\nhugbúnaðarstjórnun:\n\n* Fáðu tilkynningar þegar uppfærslur eru gefnar út\n* Mögulegt er að sækja og setja uppfærslur upp sjálfvirkt\n* Haltu utan um eldri útgáfur og prófunarútgáfur\n* Síaðu út forrit sem ekki eru samhæfð tækinu þínu\n* Finndu forrit eftir flokkum og leitanlegum lýsingum\n* Smelltu á slóðir á styrki til útgefenda, grunnkóða o.s.frv.\n* Tryggðu öryggið með því að athuga undirritanir hugbúnaðarsafna og gátsummur APK-pakka\n",
+          "it": "F-Droid è un catalogo di applicazioni installabili libere\ne open source per Android. L'app F-Droid rende facile sfogliare,\ninstallare e tenere traccia degli aggiornamenti nel tuo dispositivo.\n\nSi connette a qualsiasi repository compatibile con F-Droid. Quello predefinito\nè ospitato su f-droid.org, contenente solo software libero in buona fede.\n\nAndroid stesso è open nel senso che sei libero di installare APK\nda dovunque tu preferisca, ma ci sono diversi buoni motivi per usare\nF-Droid come gestore di app libere e open source:\n\n* Vieni avvisato quando sono disponibili aggiornamenti\n* Scarica e installa automaticamente gli aggiornamenti (facoltativo)\n* Tiene traccia delle versioni obsolete e beta\n* Esclude le app non compatibili con il dispositivo\n* Trova le app tramite categorie e descrizioni ricercabili\n* Accedi ad URL correlati per donazioni, codice sorgente, ecc.\n* Resta al sicuro controllando le firme dei repo e gli hash degli APK\n",
+          "ja": "F-Droidは、Android向けの自由なソフトウェアアプリのカタログです。\nF-Droidアプリは、簡単に検索、インストール、および更新の追跡が\n端末上で出来ます。\n\nすべてのF-Droidと互換性のあるリポジトリに接続します。既定のリポジトリは、\nf-droid.orgにてホストされていて、善意の自由なソフトウェアが含まれています。\n\nAndroid自体がオープンなので、APKをどこからでも自由にインストールできますが、\n自由なソフトウェアのアプリマネージャーとしてF-Droidを使用する多くの\n良い理由があります。\n\n* 更新が利用可能なときに通知します\n* 必要に応じて自動的に更新をダウンロードして、インストールします \n* 古いバージョンやベータ版を追跡します\n* デバイスと互換性のないアプリをフィルタリングします\n* カテゴリーや検索可能な説明を使用してアプリを検索します\n* 関連付けられている寄付の URL、ソースコードなどにアクセスします\n* リポジトリのインデックス署名、APK のハッシュをチェックして安全を守ります\n",
+          "nb": "F-Droid er en installerbar katalog av fri programvare for Android.\nKlienten gjør det enkelt å utforske, installere og holde oppsyn med oppdateringer på din enhet.\n\nTilkobling blir gjort til enhver F-Droid-kompatibel pakkebrønn.\nVertskap for den offisielle pakkebrønnen er f-droid.org, som kun inneholder fri programvare.\n\nAndroid i seg selv er åpent i den utstrekning at du kan installere APK-er selv fra der du måtte ønske, men det er mange gode grunner til å bruke F-Droid som din friprog-pakkebehandler:\n\n* Få beskjed når nye oppdateringer er tilgjengelige\n* Valgfri nedlasting og automatisk installasjon\n* Hold oppsyn med gamle versjoner og betaversjoner\n* Filtrer programmer som ikke er kompatible med enheten\n* Finn programmer via kategorier og søkbare beskrivelser\n* Tilgang til tilknyttede nettadresser for donasjoner, kildekode osv.\n* Hold deg trygg ved å sjekke pakkebrønnsindeksen signaturer og APK-sjekksummer\n",
+          "nn": "F-Droid er ein installerbar katalog over fri programvare for Android. Med F-Droid-klientappen kan du enkelt finna, installera og oppdatera appar på eininga di.\n\nDu kan kopla appen til alle F-Droid-kompatible pakke­brønnar. Standard­brønnane ligg på f-droid.org og inneheld berre heilt fri programvare.\n\nAndroid er ei open plattform, der du fritt kan installera appar via APK-filer du lastar ned, men det finst fleire gode grunnar til å bruka F-Droid til app­biblioteket ditt. Du kan:\n\n* Få varslingar når det finst nye versjonane av appane\n* Velja å få oppdateringar lasta ned og installert automatisk\n* Ta vare på eldre versjonar og betaversjonar av appane\n* Filtrera ut appar som ikkje er kompatible med eininga\n* Finna appar via kategoriar eller søk i appskildringane\n* Få direkte tilgang til nettsider for pengegåver eller kjeldekode til appane\n* Auka tryggleik ved automatisk kontroll av pakkebrønn­signaturar og kontrollsummar for APK-filer\n",
+          "pa": "F-Droid ਐਂਡਰੌਇਡ ਲਈ ਮੁਫਤ ਸਾਫਟਵੇਅਰ ਐਪਸ ਦੀ ਇੱਕ ਸਥਾਪਨਾਯੋਗ ਕੈਟਾਲਾਗ ਹੈ। F-Droid ਕਲਾਇੰਟ ਐਪ ਤੁਹਾਡੀ ਡਿਵਾਈਸ 'ਤੇ ਅੱਪਡੇਟ ਨੂੰ ਬ੍ਰਾਊਜ਼ ਕਰਨਾ, ਸਥਾਪਤ ਕਰਨਾ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਟਰੈਕ ਕਰਨਾ ਆਸਾਨ ਬਣਾਉਂਦਾ ਹੈ।\n\nਇਹ ਕਿਸੇ ਵੀ F-Droid ਅਨੁਕੂਲ ਰਿਪੋਜ਼ਟਰੀਆਂ ਨਾਲ ਜੁੜਦਾ ਹੈ। ਡਿਫੌਲਟ ਰੈਪੋ f-droid.org 'ਤੇ ਹੋਸਟ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਿਸ ਵਿੱਚ ਸਿਰਫ਼ ਬੋਨਾ ਫਾਈਡ ਲਿਬਰ ਸੌਫਟਵੇਅਰ ਸ਼ਾਮਲ ਹਨ। ਐਂਡਰੌਇਡ ਆਪਣੇ ਆਪ ਵਿੱਚ ਇਸ ਅਰਥ ਵਿੱਚ ਖੁੱਲ੍ਹਾ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣੀ ਮਰਜ਼ੀ ਤੋਂ ਕਿਤੇ ਵੀ ਏਪੀਕੇ ਸਥਾਪਤ ਕਰਨ ਲਈ ਸੁਤੰਤਰ ਹੋ, ਪਰ ਤੁਹਾਡੇ ਲਿਬਰ ਸੌਫਟਵੇਅਰ ਐਪ ਮੈਨੇਜਰ ਵਜੋਂ F-Droid ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੇ ਬਹੁਤ ਸਾਰੇ ਚੰਗੇ ਕਾਰਨ ਹਨ:\n\n* ਅੱਪਡੇਟ ਉਪਲਬਧ ਹੋਣ 'ਤੇ ਸੂਚਨਾ ਪ੍ਰਾਪਤ ਕਰੋ * ਵਿਕਲਪਿਕ ਤੌਰ 'ਤੇ ਅਪਡੇਟਾਂ ਨੂੰ ਆਪਣੇ ਆਪ ਡਾਊਨਲੋਡ ਅਤੇ ਸਥਾਪਿਤ ਕਰੋ\n* ਪੁਰਾਣੇ ਅਤੇ ਬੀਟਾ ਸੰਸਕਰਣਾਂ 'ਤੇ ਨਜ਼ਰ ਰੱਖੋ * ਡਿਵਾਈਸ ਦੇ ਨਾਲ ਅਸੰਗਤ ਐਪਾਂ ਨੂੰ ਫਿਲਟਰ ਕਰੋ\n* ਸ਼੍ਰੇਣੀਆਂ ਅਤੇ ਖੋਜਣਯੋਗ ਵਰਣਨ ਰਾਹੀਂ ਐਪਸ ਲੱਭੋ\n* ਦਾਨ, ਸਰੋਤ ਕੋਡ ਆਦਿ ਲਈ ਸੰਬੰਧਿਤ URL ਤੱਕ ਪਹੁੰਚ ਕਰੋ।\n* ਰੈਪੋ ਇੰਡੈਕਸ ਹਸਤਾਖਰਾਂ ਅਤੇ ਏਪੀਕੇ ਹੈਸ਼ਾਂ ਦੀ ਜਾਂਚ ਕਰਕੇ ਸੁਰੱਖਿਅਤ ਰਹੋ\n",
+          "pl": "F-Droid jest katalogiem wolnego oprogramowania dla Androida. Aplikacja kliencka F-Droid ułatwia przeglądanie, instalowanie i śledzenie aktualizacji na urządzeniu.\n\nŁączy się z dowolnymi repozytoriami kompatybilnymi z F-Droid. Domyślne repozytorium jest hostowane na f-droid.org, które zawiera tylko wolne oprogramowanie.\n\nAndroid jest otwarty w tym sensie, że możesz zainstalować APK z dowolnego miejsca, ale istnieje wiele dobrych powodów, aby użyć F-Droid jako menedżera wolnych aplikacji:\n\n* Otrzymuj powiadomienia o dostępnych aktualizacjach\n* Opcjonalne pobieraj i instaluj aktualizacje automatycznie\n* Śledź starsze wersje oraz wersje beta\n* Filtruj aplikacje niezgodne z urządzeniem\n* Znajduj aplikacje za pomocą kategorii i przeszukiwalnych opisów\n* Uzyskaj dostęp do powiązanych adresów URL dla darowizn, kodu źródłowego itd.\n* Bądź bezpieczny, sprawdzając sygnatury indeksów repozytorium i sumy kontrolne APK\n",
+          "pt": "F-Droid é um catálogo de aplicações de software livre que se podem instalar no Android. A aplicação-cliente F-Droid facilita a descoberta, instalação e gestão das atualizações no seu dispositivo.\n\nEsta conecta-se a qualquer repositório compatível com o F-Droid. O repositório predefinido encontra-se em f-droid.org, que contém apenas software livre e de boa-fé (bona fide).\n\nO Android em si é aberto no sentido de que qualquer pessoa tem liberdade para instalar APKs de qualquer origem que desejar, mas há muitas boas razões para usar o F-Droid como o seu gestor de software livre:\n\n* Ser notificado quando as atualizações estiverem disponíveis\n* Opcionalmente, transferir e instalar automaticamente as atualizações\n* Opcionalmente, instalar as versões mais antigas e versões em teste (beta) das aplicações\n* Ocultar aplicações incompatíveis com o seu dispositivo\n* Encontrar aplicações através de categorias e descrições pesquisáveis\n* Aceder aos sites relacionados com a aplicação: donativos, acesso ao código-fonte, ao site, ao site de desenvolvimento para reportar problemas, etc.\n* Manter-se seguro, verificando as assinaturas do índice do repositório e hashes do APK\n",
+          "pt-BR": "O F-Droid é um catálogo instalável de aplicativos de software livre para Android. O aplicativo cliente F-Droid facilita a navegação,\ninstalação e acompanhamento de atualizações no seu dispositivo.\n\nEle se conecta a qualquer repositório compatível com o F-Droid. O repositório padrão é hospedado no f-droid.org, que contém apenas software livre de boa-fé.\n\nO Android em si é aberto no sentido de que você é livre para instalar APKs de qualquer lugar que desejar, mas há muitas boas\nrazões para usar o F-Droid como seu gerenciador de aplicativos\nde software livre:\n\n* Ser notificado quando atualizações estiverem disponíveis\n* Opcionalmente, baixar e instalar atualizações automaticamente\n* Manter rastro de versões antigas e betas\n* Filtrar aplicativos incompatíveis com seu dispositivo\n* Localizar aplicativos por categorias e descrições pesquisáveis\n* Acessar URLs associadas para doações, código-fonte, etc.\n* Ficar seguro verificando as assinaturas do índice do repositório e hashes de APK\n",
+          "pt-PT": "F-Droid é um catálogo de apps instaláveis de software livre para Android. A app cliente F-Droid facilita a navegação, instalação e monitorização de atualizações no seu aparelho.\n\nLiga-se a qualquer repositório compatível com o F-Droid. O repositório predefinido encontra-se em f-droid.org, que contém apenas software livre de boa-fé.\n\nO Android é aberto no sentido de que qualquer pessoa é livre para instalar APKs de qualquer lugar que desejar, mas há muitas boas razões para usar o F-Droid como o seu gestor de software livre:\n\n* Ser notificado quando as atualizações estiverem disponíveis\n* Opcionalmente, transferir e instalar automaticamente as atualizações\n* Monitorizar as versões antigas e beta\n* Filtrar apps incompatíveis com o aparelho\n* Encontrar apps via categorias e descrições pesquisáveis\n* Aceder aos URLs associados para doações, código-fonte, etc.\n* Mantenha-se seguro, verificando as assinaturas do índice do repositório e hashes do APK\n",
+          "ro": "F-Droid este un catalog instalabil de aplicații libere pentru Android. Aplicația client F-Droid facilitează navigarea, instalarea și urmărirea actualizărilor pe dispozitivul dumneavoastră.\n\nAceasta se conectează la orice depozit compatibil F-Droid. Depozitulul implicit este găzduit la f-droid.org, și conține numai aplicații libere de bună credință.\n\nAndroid în sine este deschis, în sensul că sunteți liber să instalați APK-uri de oriunde doriți, dar există multe motive întemeiate pentru a folosi F-Droid ca manager de aplicații libere:\n\n* Primiți notificări atunci când sunt disponibile actualizări\n* Descărcați și instalați opțional actualizări în mod automat\n* Țineți evidența versiunilor mai vechi și beta\n* Filtrați aplicațiile incompatibile cu dispozitivul\n* Găsiți aplicațiile prin intermediul categoriilor și descrierilor care pot fi căutate\n* Accesați adresele asociate pentru donații, codul sursă etc.\n* Rămâneți în siguranță prin verificarea semnăturilor indexurilor depozitelor și a hașurilor APK\n",
+          "ru": "F-Droid - это каталог свободных приложений для Android. С помощью клиентского приложения F-Droid можно легко находить, устанавливать и отслеживать обновления на вашем устройстве.\n\nПриложение подключается к любым репозиториям, совместимым с F-Droid. По умолчанию используется репозиторий f-droid.org, который содержит только подлинно свободное программное обеспечение.\n\nСам Android является открытым в том смысле, что вы можете свободно устанавливать APK-файлы откуда угодно, но есть много веских причин использования F-Droid в качестве менеджера свободных приложений:\n\n* Получение уведомлений о появлении обновлений\n* Автоматическая загрузка и установка обновлений\n* Отслеживание устаревших приложений и бета-версий\n* Фильтрация несовместимых с устройством приложений\n* Поиск приложений по категориям и описаниям\n* Доступ к ассоциированным URL для пожертвований, исходного кода и т.д.\n* Обеспечение безопасности путем проверки подписей индекса репозиториев и хэшей APK\n",
+          "sq": "F-Droid është një katalog i instalueshëm aplikacionesh software-i\ntë lirë për Android. Aplikacioni klient për F-Droid e bën të lehtë\nshfletimin, instalimin dhe ndjekjen e përditësimeve në pajisjen tuaj.\n\nLidhet me çfarëdo deposh të përputhshme me F-Droid. Depoja\nparazgjedhje strehohet te f-droid.org, e cila përmban vetëm software\ntë lirë <em>bona fide</em>.\n\nAndroid-i vetë është i hapur, në kuptimin që jeni të lirë të instaloni\nAPK-ra prej nga të doni, por ka disa arsye të mira për përdorimin\ne F-Droid-it si përgjegjësin tuaj të aplikacioneve software i lirë,\npërmes të cilit mund të:\n\n* Merrni njoftime kur ka përditësime gati\n* Shkarkoni dhe instaloni automatikisht përditësime, në daçi\n* Ndiqni versione të dikurshëm ose beta\n* Lini jashtë aplikacione të papërputhshëm me pajisjen\n* Gjeni aplikacione përmes kategorish dhe përshkrimesh të kërkueshëm\n* Të përdorni URL shoqëruese, për dhurime, kod burim, etj.\n* Të jini të parrezikr, përmes marrjesh nënshkrimet treguesish\ndeposh dhe hashesh APK-sh\n",
+          "sr": "F-Droid је каталог слободног софтвера за Android.\nУз апликацију F-Droid можете са лакоћом да прегледате,\nинсталирате и ажурирате апликације на свом уређају.\n\nМогуће је повезивање са било којим репозиторијумом који је компатибилан са F-Droid-ом.\nПодразумевано се користи репозиторијум на f-droid.org, који садржи само слободан софтвер.\n\nAndroid је сам по себи отворен у смислу да је могуће инсталирати APK-ове одакле желите,\nали у наставку су све погодности коришћења F-Droid-а као менаџера слободних апликација:\n\n* Обавештења о доступности ажурирања\n* Могућност аутоматског преузимања и инсталирања ажурирања\n* Праћење старијих и бета верзија\n* Филтрирање апликација које нису компатибилне са уређајем\n* Претрага апликација по категоријама и описима\n* Приступ линковима за донације, изворни кôд итд.\n* Одсуство ризика захваљујући провери потписа репозиторијума и хешевима APK-ова\n",
+          "sv": "F-Droid är en installerbar katalog över libre programvaror\nför Android. F-Droid-klientappen gör det det lätt att\nbläddra, installera och hålla reda på uppdateringar på enheten.\n\nDen ansluter till alla F-Droid kompatibla förråd. Standard förrådet\när värd på f-droid.org som innehåller endast bona fide libre programvaror.\n\nAndroid själv är öppen i den meningen att du är fri att installera APK:er\nfrån var du vill, men det finns många goda skäl att använda\nF-Droid som din libre programhanterare:\n\n* Få meddelande när uppdateringar är tillgängliga\n* Hämta och installera uppdateringar automatiskt\n* Håll koll på äldre och betaversioner\n* Filtrera bort appar som inte är kompatibla med enheten\n* Hitta appar via kategorier och sökbara beskrivningar\n* Tillgång associerade webbadresser för donationer, källkod o.s.v.\n* Håll dig säker genom att kontrollera förrådindex-signaturer och APK-hashar\n",
+          "tr": "F-Droid, Android için özgür yazılım uygulamalarının kurulabilir bir kataloğudur. F-Droid istemci uygulaması, aygıtınızdaki güncellemelere göz atmayı, onları kurmayı ve izlemeyi kolaylaştırır.\n\nHerhangi bir F-Droid uyumlu depoya bağlanır. Öntanımlı depo, yalnızca iyi niyetli özgür yazılımları içeren f-droid.org adresinde barındırılmaktadır.\n\nAndroid'in kendisi, APK'ları istediğiniz yerden kurmakta özgür olduğunuz anlamında açıktır. Ancak özgür yazılım uygulama yöneticiniz olarak F-Droid'i kullanmanız için birçok iyi neden vardır:\n\n* Güncellemeler olduğunda bildirim alın\n* İsteğe bağlı olarak güncellemeleri otomatik olarak indirin ve kurun\n* Eski ve beta sürümlerini takip edin\n* Aygıt ile uyumlu olmayan uygulamaları filtreleyin\n* Kategoriler ve aranabilir açıklamalar aracılığıyla uygulamaları bulun\n* Bağış, kaynak kodu vb. ile ilişkili bağlantılara erişin\n* Depo dizin imzalarını ve APK hash'lerini denetleyerek güvende kalın\n",
+          "uk": "F-Droid — це каталог для встановлення вільних застосунків для Android. Клієнт F-Droid спрощує пошук, встановлення та відстеження оновлень на вашому пристрої.\n\nВін під'єднується до будь-яких сумісних із F-Droid репозиторіїв. Типовий репозиторій розміщений на вебсайті f-droid.org, який містить лише добросовісне вільне та відкрите програмне забезпечення.\n\nСам Android відкритий у тому сенсі, що ви можете встановлювати APK з будь-якого місця, але є багато вагомих причин для використання F-Droid менеджером вільного програмного забезпечення:\n\n* Отримання повідомлень, коли доступні оновлення\n* Можливе автоматичне завантаження та встановлення оновлень\n* Відстеження старіших та бета-версій\n* Фільтр від несумісних з пристроєм застосунків\n* Пошук застосунків за категоріями й описами\n* Доступ до відповідних URL-посилань для фінансової допомоги, початкового коду тощо\n* Перебування в безпеці через контроль індексних підписів репозиторіїв і хешів APK\n",
+          "vi": "F-Droid là một mục lục các ứng dụng phần mềm tự do\ncho Android. Ứng dụng khách F-Droid khiến\nviệc duyệt, cài đặt, và theo dõi các bản cập nhật trên thiết bị của bạn được dễ dàng.\n\nỨng dụng này kết nối đến bất kỳ kho nào tương thích với F-Droid. Kho mặc định\nđược lưu trữ tại f-droid.org, nó chỉ chứa các phần mềm tự do thực sự.\n\nBản thân Android là mở theo cách là bạn có thể tuỳ ý cài đặt các tệp APK\ntừ bất cứ đâu bạn muốn, nhưng có nhiều lý do tốt để sử dụng\nF-Droid làm trình quản lý ứng dụng phần mềm tự do:\n\n* Có thông báo khi có bản cập nhật\n* Tự động tải xuống và cài đặt các bản cập nhật (không bắt buộc)\n* Theo dõi các phiên bản cũ hơn và phiên bản beta\n* Lọc ra các ứng dụng không tương thích với thiết bị\n* Tìm các ứng dụng qua các hạng mục và các mục mô tả có thể tìm kiếm\n* Truy cập các URL được liên kết để quyên góp, tìm mã nguồn, v.v.\n* Giữ an toàn bằng cách kiểm tra chữ ký mục lục kho và mã kiểm tra của các tệp APK\n",
+          "yue": "F-Droid 係 Android 上面一個提供安裝嘅自由軟件 apps 目錄。F-Droid 用戶端 app 等您輕鬆喺您部機度瀏覽、安裝同追蹤更新。\n\n個 app 可連接任何兼容 F-Droid 嘅存庫。預設存庫架構喺 f-droid.org，只包含真正自由嘅軟件。\n\nAndroid 本身某程度上係開放嘅，意思係您可隨意安裝任何來源嘅 APK，然而有唔少好好嘅理由，去選用 F-Droid 做您嘅自由軟件 app 總管：\n\n* 出咗更新嘅時候有得通知您\n* 有得揀自動下載同安裝更新\n* 追蹤舊版同測試版本\n* 剔除同部機唔兼容嘅 apps\n* 按分類同描述搜尋去搵 apps\n* 跳去捐款、原始碼等相關網址\n* 查驗存庫索引簽署同 APK 雜湊以確保安全\n",
+          "zh-CN": "F-Droid 是 Android 平台上的一个自由软件应用商店。F-Droid 客户端应用使得浏览、安装和跟踪设备上的应用更新变得轻而易举。\n\n它可以连接到任何兼容 F-Droid 的存储库。默认存储库托管在 f-droid.org 上，其中只包含真正的自由软件。\n\nAndroid 本身是开放的，意思是您可以从任何地方安装 APK 应用，但是还是有很多理由使用 F-Droid 作为自由软件应用管理器：\n\n* 在有可用更新时收到通知\n* 可选择自动下载和安装更新\n* 跟踪旧版本和测试版本\n* 过滤与设备不兼容的应用\n* 通过类别和可搜索的描述查找应用\n* 访问捐赠、源代码等应用相关链接\n* 通过检查存储库索引签名和 APK 哈希值来保持安全\n",
+          "zh-Hant-HK": "F-Droid 是適用於 Android 一個匯集可供安裝的自由軟件應用程式目錄。此 F-Droid 客戶端應用程式讓您可在您的裝置上輕易瀏覽、安裝並追蹤更新。\n\n此應用程式可連線至任何與 F-Droid 相容的軟件庫。預設的軟件庫架構於 f-droid.org，僅包含真正的自由軟件。\n\nAndroid 本身乃開放給您隨心所欲安裝不同來源的 APK 檔案，然而選用 F-Droid 作為您的自由軟件應用程式還有不少好處：\n\n* 當更新可用時取得通知\n* 可選擇自動下載並安裝更新\n* 追蹤較舊與測試版的版本\n* 篩走與裝置不相容的應用程式\n* 按分類或搜尋描述尋找應用程式\n* 存取捐款、原始碼等相關的 URL\n* 查驗軟件庫索引簽署與 APK 雜湊確保安全\n",
+          "zh-TW": "F-Droid 是一個可在 Android 上安裝的自由的應用程式目錄。\nF-Droid 用戶端應用程式可以輕鬆的瀏覽、安裝和持續追蹤\n裝置上應用程式的更新。\n\n它能連接到任何與 F-Droid 相容的軟體庫。預設的軟體庫主機\n位於 f-droid.org，其中只容納真誠的自由軟體。\n\n若從使用者可以自由決定安裝什麼 APKs 來看，Android 本身\n是開放的。但仍然有其它好理由用 F-Droid 來當自由軟體的\n應用程式管理器：\n\n* 通知軟體有更新\n* 可選擇是否自動下載與安裝更新\n* 追蹤老舊和試驗版本\n* 篩選出與設備不相容的應用軟體\n* 利用類別和可搜尋的描述來找軟體\n* 存取捐款或原始碼等相關的網址資源\n* 檢查軟體庫索引簽署和 APK 雜湊值以確保安全\n"
+        },
+        "donate": [
+          "https://f-droid.org/donate"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "/org.fdroid.fdroid/en-US/icon.png",
+            "sha256": "d2c94d47c27d79da83643a3258004566ba9038d53d13288d57033a07726e8bf4",
+            "size": 9649
+          }
+        },
+        "preferredSigner": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab"
+      },
+      "versions": {
+        "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75": {
+          "added": 1692823573000,
+          "file": {
+            "name": "/F-Droid.apk",
+            "sha256": "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75",
+            "size": 10646430
+          },
+          "manifest": {
+            "versionName": "1.17.0",
+            "versionCode": 1017050,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 28
+            },
+            "signer": {
+              "sha256": [
+                "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.BLUETOOTH",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.BLUETOOTH_ADMIN",
+                "maxSdkVersion": 30
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.USB_PERMISSION",
+                "maxSdkVersion": 22
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.NFC"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ],
+            "usesPermissionSdk23": [
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              }
+            ]
+          }
+        }
+      }
+    },
     "org.openobservatory.ooniprobe": {
       "metadata": {
-        "added": 1692763288000,
+        "added": 1692823582000,
         "categories": [
           "Internet",
           "Security",
@@ -1186,7 +1510,7 @@
         ],
         "changelog": "https://github.com/ooni/probe-android/releases",
         "issueTracker": "https://github.com/ooni/probe-android/issues",
-        "lastUpdated": 1692763288000,
+        "lastUpdated": 1692823582000,
         "license": "BSD-2-Clause",
         "sourceCode": "https://github.com/ooni/probe-android",
         "translation": "https://www.transifex.com/otf/ooniprobe/",
@@ -1230,7 +1554,7 @@
       },
       "versions": {
         "c661f938c44dde071e236fd8208e7e42fd96ebb7b93cd16ecd9201bee55146c4": {
-          "added": 1692763288000,
+          "added": 1692823582000,
           "file": {
             "name": "/OONIProbe.apk",
             "sha256": "c661f938c44dde071e236fd8208e7e42fd96ebb7b93cd16ecd9201bee55146c4",
@@ -1295,13 +1619,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1692763302000,
+        "added": 1692823596000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1692763302000,
+        "lastUpdated": 1692823596000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1325,7 +1649,7 @@
       },
       "versions": {
         "5b024b3ce83818313058af35c6ecb95dae36ae30cfecce3db3478bcdd94ec619": {
-          "added": 1692763302000,
+          "added": 1692823596000,
           "file": {
             "name": "/Signal.apk",
             "sha256": "5b024b3ce83818313058af35c6ecb95dae36ae30cfecce3db3478bcdd94ec619",
@@ -1574,14 +1898,14 @@
     },
     "org.torproject.android": {
       "metadata": {
-        "added": 1692763290000,
+        "added": 1692823583000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
-        "lastUpdated": 1692763290000,
+        "lastUpdated": 1692823583000,
         "license": "BSD-3-Clause",
         "sourceCode": "https://gitweb.torproject.org/orbot.git",
         "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
@@ -1647,7 +1971,7 @@
       },
       "versions": {
         "10a4ad0fe599ed6b5c7fa450a0678b4e4606252be3906f9c27dd2484ea086682": {
-          "added": 1692763290000,
+          "added": 1692823583000,
           "file": {
             "name": "/Orbot.apk",
             "sha256": "10a4ad0fe599ed6b5c7fa450a0678b4e4606252be3906f9c27dd2484ea086682",
@@ -1711,14 +2035,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1692763306000,
+        "added": 1692823600000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1692763306000,
+        "lastUpdated": 1692823600000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -1749,7 +2073,7 @@
       },
       "versions": {
         "b315345bf5224c58e21da3d3aef298cbe1dede651c4faec8e766d7c491df3e14": {
-          "added": 1692763306000,
+          "added": 1692823600000,
           "file": {
             "name": "/TorBrowser.apk",
             "sha256": "b315345bf5224c58e21da3d3aef298cbe1dede651c4faec8e766d7c491df3e14",
@@ -1839,7 +2163,7 @@
     },
     "se.leap.riseupvpn": {
       "metadata": {
-        "added": 1692763294000,
+        "added": 1692823588000,
         "categories": [
           "Internet",
           "Security",
@@ -1847,7 +2171,7 @@
         ],
         "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
-        "lastUpdated": 1692763294000,
+        "lastUpdated": 1692823588000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://0xacab.org/leap/bitmask_android",
         "translation": "https://www.transifex.com/projects/p/bitmask-android",
@@ -1895,7 +2219,7 @@
       },
       "versions": {
         "56378375929de5c18fd911d163ca8abc94b5f200a775ae1b86bfb1eaca01304b": {
-          "added": 1692763294000,
+          "added": 1692823588000,
           "file": {
             "name": "/RiseupVPN.apk",
             "sha256": "56378375929de5c18fd911d163ca8abc94b5f200a775ae1b86bfb1eaca01304b",
@@ -1959,14 +2283,14 @@
     },
     "wangdaye.com.geometricweather": {
       "metadata": {
-        "added": 1692763281000,
+        "added": 1692823574000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://github.com/WangDaYeeeeee/GeometricWeather/releases",
         "issueTracker": "https://github.com/WangDaYeeeeee/GeometricWeather/issues",
-        "lastUpdated": 1692763281000,
+        "lastUpdated": 1692823574000,
         "license": "LGPL-3.0-only",
         "sourceCode": "https://github.com/WangDaYeeeeee/GeometricWeather",
         "authorName": "wangdaye",
@@ -1992,7 +2316,7 @@
       },
       "versions": {
         "7045d1274e57929c1c1c7eb2586a416eeb5985a643ec62898d3d2e1ba0142de3": {
-          "added": 1692763281000,
+          "added": 1692823574000,
           "file": {
             "name": "/GeometricWeather.apk",
             "sha256": "7045d1274e57929c1c1c7eb2586a416eeb5985a643ec62898d3d2e1ba0142de3",
