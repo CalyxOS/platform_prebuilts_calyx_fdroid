@@ -3,6 +3,15 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := F-Droid
+LOCAL_SRC_FILES := F-Droid.apk
+LOCAL_CERTIFICATE := PRESIGNED
+LOCAL_MODULE_CLASS := APPS
+LOCAL_PRODUCT_MODULE := true
+LOCAL_OPTIONAL_USES_LIBRARIES := androidx.window.extensions androidx.window.sidecar
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := fdroid-repo
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_TAGS := optional
