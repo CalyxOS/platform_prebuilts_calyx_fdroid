@@ -16,6 +16,24 @@
       "message": "Still need to re-gen this",
       "revId": "b94f6d64d0dc62208f8dd66e906ff942bd14eb24",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc76f5d4_beb887f4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-08-23T20:29:16Z",
+      "side": 1,
+      "message": "Done 18816: Update fdroid repo to 4934732153 | https://review.calyxos.org/c/CalyxOS/platform_prebuilts_calyx_fdroid/+/18816",
+      "parentUuid": "ff6b6789_824f629a",
+      "revId": "b94f6d64d0dc62208f8dd66e906ff942bd14eb24",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
