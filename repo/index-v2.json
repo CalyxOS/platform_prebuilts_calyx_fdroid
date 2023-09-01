@@ -14,18 +14,18 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1692823601000
+    "timestamp": 1693540910000
   },
   "packages": {
     "app.organicmaps": {
       "metadata": {
-        "added": 1692823586000,
+        "added": 1693540896000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
-        "lastUpdated": 1692823586000,
+        "lastUpdated": 1693540896000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
         "webSite": "https://organicmaps.app/",
@@ -49,7 +49,7 @@
       },
       "versions": {
         "0b62e8c711a625c8f9d469ba28ebd94b98d6b6dd7e96f477b4ed1c548eee3d0e": {
-          "added": 1692823586000,
+          "added": 1693540896000,
           "file": {
             "name": "/OrganicMaps.apk",
             "sha256": "0b62e8c711a625c8f9d469ba28ebd94b98d6b6dd7e96f477b4ed1c548eee3d0e",
@@ -115,14 +115,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1692823572000,
+        "added": 1693540882000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1692823572000,
+        "lastUpdated": 1693540882000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -184,7 +184,7 @@
       },
       "versions": {
         "a195cc64a5abfe76fc2b73d8057feb0427601158aef64ba0e5c892ce82630536": {
-          "added": 1692823572000,
+          "added": 1693540882000,
           "file": {
             "name": "/DAVx5.apk",
             "sha256": "a195cc64a5abfe76fc2b73d8057feb0427601158aef64ba0e5c892ce82630536",
@@ -305,14 +305,14 @@
     },
     "com.artifex.mupdf.viewer.app": {
       "metadata": {
-        "added": 1692823576000,
+        "added": 1693540887000,
         "categories": [
           "Reading",
           "Default"
         ],
         "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
         "issueTracker": "https://bugs.ghostscript.com",
-        "lastUpdated": 1692823576000,
+        "lastUpdated": 1693540887000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
         "webSite": "https://mupdf.com",
@@ -353,7 +353,7 @@
       },
       "versions": {
         "0c7a01ca619694619ff11d966a47a2c73e349d58431f16270d4801f84e1b9626": {
-          "added": 1692823576000,
+          "added": 1693540887000,
           "file": {
             "name": "/MuPDFviewer.apk",
             "sha256": "0c7a01ca619694619ff11d966a47a2c73e349d58431f16270d4801f84e1b9626",
@@ -387,14 +387,14 @@
     },
     "com.aurora.store": {
       "metadata": {
-        "added": 1692823567000,
+        "added": 1693540877000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
-        "lastUpdated": 1692823567000,
+        "lastUpdated": 1693540877000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
         "translation": "https://poeditor.com/join/project/54swaCpFXJ",
@@ -444,16 +444,16 @@
         "preferredSigner": "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532"
       },
       "versions": {
-        "de8aa625fabfde1e5694dc8b6f8cc45605299172b2eb33355619e15248fd661a": {
-          "added": 1692823567000,
+        "63d6bab01893ee577c732be154fc963e34a061c8896ccd9f867f85008fce8a7f": {
+          "added": 1693540877000,
           "file": {
             "name": "/AuroraStore.apk",
-            "sha256": "de8aa625fabfde1e5694dc8b6f8cc45605299172b2eb33355619e15248fd661a",
-            "size": 6111514
+            "sha256": "63d6bab01893ee577c732be154fc963e34a061c8896ccd9f867f85008fce8a7f",
+            "size": 6041988
           },
           "manifest": {
-            "versionName": "4.2.5",
-            "versionCode": 47,
+            "versionName": "4.3.1",
+            "versionCode": 49,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 33
@@ -469,9 +469,6 @@
               },
               {
                 "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.CHANGE_NETWORK_STATE"
               },
               {
                 "name": "android.permission.FOREGROUND_SERVICE"
@@ -531,14 +528,14 @@
     },
     "com.fsck.k9": {
       "metadata": {
-        "added": 1692823576000,
+        "added": 1693540886000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
         "issueTracker": "https://github.com/k9mail/k-9/issues",
-        "lastUpdated": 1692823576000,
+        "lastUpdated": 1693540886000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/k9mail/k-9",
         "translation": "https://www.transifex.com/projects/p/k9mail/",
@@ -579,16 +576,16 @@
         "preferredSigner": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576"
       },
       "versions": {
-        "89f3f03376afa74f4afb79f887a2caedcd04b027e904224c6db8d201a3d996fe": {
-          "added": 1692823576000,
+        "d2593b13e7104fdbae6c17ba517b6966c0395e6cec0889dfea71647435f7190f": {
+          "added": 1693540886000,
           "file": {
             "name": "/K-9Mail.apk",
-            "sha256": "89f3f03376afa74f4afb79f887a2caedcd04b027e904224c6db8d201a3d996fe",
-            "size": 10043263
+            "sha256": "d2593b13e7104fdbae6c17ba517b6966c0395e6cec0889dfea71647435f7190f",
+            "size": 10051455
           },
           "manifest": {
-            "versionName": "6.708",
-            "versionCode": 37008,
+            "versionName": "6.710",
+            "versionCode": 37010,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 31
@@ -642,14 +639,14 @@
     },
     "com.jarsilio.android.scrambledeggsif": {
       "metadata": {
-        "added": 1692823589000,
+        "added": 1693540899000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/juanitobananas/scrambled-exif/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/juanitobananas/scrambled-exif/issues",
-        "lastUpdated": 1692823589000,
+        "lastUpdated": 1693540899000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
         "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
@@ -702,7 +699,7 @@
       },
       "versions": {
         "4b5e8f2c5d415a09427fa236ea8907bf16e660b2ba628f7cd9f8a1737c4c1009": {
-          "added": 1692823589000,
+          "added": 1693540899000,
           "file": {
             "name": "/ScrambledExif.apk",
             "sha256": "4b5e8f2c5d415a09427fa236ea8907bf16e660b2ba628f7cd9f8a1737c4c1009",
@@ -740,13 +737,13 @@
     },
     "com.nextcloud.client": {
       "metadata": {
-        "added": 1692823579000,
+        "added": 1693540889000,
         "categories": [
           "Internet"
         ],
         "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://github.com/nextcloud/android/issues",
-        "lastUpdated": 1692823579000,
+        "lastUpdated": 1693540889000,
         "license": "GPL-2.0-only",
         "sourceCode": "https://github.com/nextcloud/android",
         "translation": "https://www.transifex.com/nextcloud/nextcloud/",
@@ -796,7 +793,7 @@
       },
       "versions": {
         "dc6c8c58cf64ba63788ff3f5377f3e56be5816673e82e754a2090d08bd473f13": {
-          "added": 1692823579000,
+          "added": 1693540889000,
           "file": {
             "name": "/Nextcloud.apk",
             "sha256": "dc6c8c58cf64ba63788ff3f5377f3e56be5816673e82e754a2090d08bd473f13",
@@ -911,7 +908,7 @@
     },
     "org.briarproject.briar.android": {
       "metadata": {
-        "added": 1692823568000,
+        "added": 1693540878000,
         "categories": [
           "Connectivity",
           "Internet",
@@ -920,7 +917,7 @@
         ],
         "changelog": "https://code.briarproject.org/briar/briar/wikis/changelog",
         "issueTracker": "https://code.briarproject.org/briar/briar/issues",
-        "lastUpdated": 1692823568000,
+        "lastUpdated": 1693540878000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://code.briarproject.org/briar/briar",
         "translation": "https://www.transifex.com/otf/briar/",
@@ -965,7 +962,7 @@
       },
       "versions": {
         "739ade6addeedc8c7fc6c5bf307bfcbb03e8ae1ffb03e2c6d6d7658ab09ec8dd": {
-          "added": 1692823568000,
+          "added": 1693540878000,
           "file": {
             "name": "/Briar.apk",
             "sha256": "739ade6addeedc8c7fc6c5bf307bfcbb03e8ae1ffb03e2c6d6d7658ab09ec8dd",
@@ -1063,7 +1060,7 @@
     },
     "org.calyxinstitute.vpn": {
       "metadata": {
-        "added": 1692823570000,
+        "added": 1693540880000,
         "categories": [
           "Internet",
           "Security",
@@ -1071,7 +1068,7 @@
         ],
         "changelog": "https://gitlab.com/calyxos/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/calyxos/bitmask_android/issues",
-        "lastUpdated": 1692823570000,
+        "lastUpdated": 1693540880000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://gitlab.com/calyxos/bitmask_android",
         "translation": "https://www.transifex.com/otf/bitmask-android/",
@@ -1116,7 +1113,7 @@
       },
       "versions": {
         "990bf8c7e26a8a74bf0b9449812f3f08fe13c98e571bba9c10bde129c996c166": {
-          "added": 1692823570000,
+          "added": 1693540880000,
           "file": {
             "name": "/CalyxVPN.apk",
             "sha256": "990bf8c7e26a8a74bf0b9449812f3f08fe13c98e571bba9c10bde129c996c166",
@@ -1178,14 +1175,14 @@
     },
     "org.fdroid.fdroid": {
       "metadata": {
-        "added": 1692823573000,
+        "added": 1693540883000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1692823573000,
+        "lastUpdated": 1693540883000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1398,7 +1395,7 @@
       },
       "versions": {
         "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75": {
-          "added": 1692823573000,
+          "added": 1693540883000,
           "file": {
             "name": "/F-Droid.apk",
             "sha256": "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75",
@@ -1502,7 +1499,7 @@
     },
     "org.openobservatory.ooniprobe": {
       "metadata": {
-        "added": 1692823582000,
+        "added": 1693540892000,
         "categories": [
           "Internet",
           "Security",
@@ -1510,7 +1507,7 @@
         ],
         "changelog": "https://github.com/ooni/probe-android/releases",
         "issueTracker": "https://github.com/ooni/probe-android/issues",
-        "lastUpdated": 1692823582000,
+        "lastUpdated": 1693540892000,
         "license": "BSD-2-Clause",
         "sourceCode": "https://github.com/ooni/probe-android",
         "translation": "https://www.transifex.com/otf/ooniprobe/",
@@ -1554,7 +1551,7 @@
       },
       "versions": {
         "c661f938c44dde071e236fd8208e7e42fd96ebb7b93cd16ecd9201bee55146c4": {
-          "added": 1692823582000,
+          "added": 1693540892000,
           "file": {
             "name": "/OONIProbe.apk",
             "sha256": "c661f938c44dde071e236fd8208e7e42fd96ebb7b93cd16ecd9201bee55146c4",
@@ -1619,13 +1616,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1692823596000,
+        "added": 1693540906000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1692823596000,
+        "lastUpdated": 1693540906000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1648,12 +1645,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "5b024b3ce83818313058af35c6ecb95dae36ae30cfecce3db3478bcdd94ec619": {
-          "added": 1692823596000,
+        "38248f407148d89b4c09e6bdaed1bb019241176085848a84a365d398b100005b": {
+          "added": 1693540906000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "5b024b3ce83818313058af35c6ecb95dae36ae30cfecce3db3478bcdd94ec619",
-            "size": 87636164
+            "sha256": "38248f407148d89b4c09e6bdaed1bb019241176085848a84a365d398b100005b",
+            "size": 87811665
           },
           "manifest": {
             "nativecode": [
@@ -1662,8 +1659,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "6.29.2",
-            "versionCode": 131400,
+            "versionName": "6.30.4",
+            "versionCode": 131900,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 31
@@ -1898,14 +1895,14 @@
     },
     "org.torproject.android": {
       "metadata": {
-        "added": 1692823583000,
+        "added": 1693540893000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
-        "lastUpdated": 1692823583000,
+        "lastUpdated": 1693540893000,
         "license": "BSD-3-Clause",
         "sourceCode": "https://gitweb.torproject.org/orbot.git",
         "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
@@ -1971,7 +1968,7 @@
       },
       "versions": {
         "10a4ad0fe599ed6b5c7fa450a0678b4e4606252be3906f9c27dd2484ea086682": {
-          "added": 1692823583000,
+          "added": 1693540893000,
           "file": {
             "name": "/Orbot.apk",
             "sha256": "10a4ad0fe599ed6b5c7fa450a0678b4e4606252be3906f9c27dd2484ea086682",
@@ -2035,14 +2032,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1692823600000,
+        "added": 1693540909000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1692823600000,
+        "lastUpdated": 1693540909000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -2072,19 +2069,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "b315345bf5224c58e21da3d3aef298cbe1dede651c4faec8e766d7c491df3e14": {
-          "added": 1692823600000,
+        "72737f8b84c92b0be3742be48a0f60afc92b5143ff5f72e6955d7036541700ba": {
+          "added": 1693540909000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "b315345bf5224c58e21da3d3aef298cbe1dede651c4faec8e766d7c491df3e14",
-            "size": 93915101
+            "sha256": "72737f8b84c92b0be3742be48a0f60afc92b5143ff5f72e6955d7036541700ba",
+            "size": 93931485
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "102.2.1-Release (12.5.2)",
-            "versionCode": 2015960795,
+            "versionName": "102.2.1-Release (12.5.3)",
+            "versionCode": 2015960803,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 31
@@ -2163,7 +2160,7 @@
     },
     "se.leap.riseupvpn": {
       "metadata": {
-        "added": 1692823588000,
+        "added": 1693540898000,
         "categories": [
           "Internet",
           "Security",
@@ -2171,7 +2168,7 @@
         ],
         "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
-        "lastUpdated": 1692823588000,
+        "lastUpdated": 1693540898000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://0xacab.org/leap/bitmask_android",
         "translation": "https://www.transifex.com/projects/p/bitmask-android",
@@ -2219,7 +2216,7 @@
       },
       "versions": {
         "56378375929de5c18fd911d163ca8abc94b5f200a775ae1b86bfb1eaca01304b": {
-          "added": 1692823588000,
+          "added": 1693540898000,
           "file": {
             "name": "/RiseupVPN.apk",
             "sha256": "56378375929de5c18fd911d163ca8abc94b5f200a775ae1b86bfb1eaca01304b",
@@ -2283,14 +2280,14 @@
     },
     "wangdaye.com.geometricweather": {
       "metadata": {
-        "added": 1692823574000,
+        "added": 1693540884000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://github.com/WangDaYeeeeee/GeometricWeather/releases",
         "issueTracker": "https://github.com/WangDaYeeeeee/GeometricWeather/issues",
-        "lastUpdated": 1692823574000,
+        "lastUpdated": 1693540884000,
         "license": "LGPL-3.0-only",
         "sourceCode": "https://github.com/WangDaYeeeeee/GeometricWeather",
         "authorName": "wangdaye",
@@ -2316,7 +2313,7 @@
       },
       "versions": {
         "7045d1274e57929c1c1c7eb2586a416eeb5985a643ec62898d3d2e1ba0142de3": {
-          "added": 1692823574000,
+          "added": 1693540884000,
           "file": {
             "name": "/GeometricWeather.apk",
             "sha256": "7045d1274e57929c1c1c7eb2586a416eeb5985a643ec62898d3d2e1ba0142de3",
