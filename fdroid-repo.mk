@@ -12,14 +12,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/com.nextcloud.client/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.nextcloud.client/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/entry.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.jar \
     prebuilts/calyx/fdroid/repo/entry.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.json \
-    prebuilts/calyx/fdroid/repo/icons-120/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-120/se.leap.riseupvpn.162000.png \
-    prebuilts/calyx/fdroid/repo/icons-160/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-160/se.leap.riseupvpn.162000.png \
-    prebuilts/calyx/fdroid/repo/icons-240/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-240/se.leap.riseupvpn.162000.png \
-    prebuilts/calyx/fdroid/repo/icons-320/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-320/se.leap.riseupvpn.162000.png \
-    prebuilts/calyx/fdroid/repo/icons-480/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-480/se.leap.riseupvpn.162000.png \
-    prebuilts/calyx/fdroid/repo/icons-640/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons-640/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \
-    prebuilts/calyx/fdroid/repo/icons/se.leap.riseupvpn.162000.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/se.leap.riseupvpn.162000.png \
     prebuilts/calyx/fdroid/repo/index.css:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.css \
     prebuilts/calyx/fdroid/repo/index.html:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.html \
     prebuilts/calyx/fdroid/repo/index.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.jar \

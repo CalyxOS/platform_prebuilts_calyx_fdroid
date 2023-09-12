@@ -1,3 +1,4 @@
+AlwaysInstall
 Connectivity
 Default
 Internet
