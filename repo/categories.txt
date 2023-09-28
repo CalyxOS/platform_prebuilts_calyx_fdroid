@@ -1,6 +1,7 @@
 AlwaysInstall
 Connectivity
 Default
+Hidden
 Internet
 Navigation
 Reading
