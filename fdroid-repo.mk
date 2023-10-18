@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/index.xml:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.xml \
     prebuilts/calyx/fdroid/repo/org.briarproject.briar.android/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.briarproject.briar.android/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.calyxinstitute.vpn/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.calyxinstitute.vpn/en-US/icon.png \
-    prebuilts/calyx/fdroid/repo/org.fdroid.fdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.fdroid.fdroid/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.openobservatory.ooniprobe/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.openobservatory.ooniprobe/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.thoughtcrime.securesms/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.thoughtcrime.securesms/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.torproject.android/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.torproject.android/en-US/icon.png \
@@ -40,7 +39,7 @@ PRODUCT_PACKAGES += \
     Briar \
     CalyxVPN \
     DAVx5 \
-    F-Droid \
+    F-DroidBasic \
     GeometricWeather \
     K-9Mail \
     MuPDFviewer \

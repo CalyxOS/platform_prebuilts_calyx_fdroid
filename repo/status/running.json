@@ -20,7 +20,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1697591993814,
+  "endTimestamp": 1697596342251,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "d0d15a205f4c89ae0b52fc497235e4c1e5d5a05e",
@@ -42,7 +42,7 @@
     "com.nextcloud.client",
     "org.briarproject.briar.android",
     "org.calyxinstitute.vpn",
-    "org.fdroid.fdroid",
+    "org.fdroid.basic",
     "org.openobservatory.ooniprobe",
     "org.thoughtcrime.securesms",
     "org.torproject.android",
@@ -60,7 +60,7 @@
     "com.nextcloud.client",
     "org.briarproject.briar.android",
     "org.calyxinstitute.vpn",
-    "org.fdroid.fdroid",
+    "org.fdroid.basic",
     "org.openobservatory.ooniprobe",
     "org.thoughtcrime.securesms",
     "org.torproject.android",
@@ -78,7 +78,7 @@
     "com.nextcloud.client",
     "org.briarproject.briar.android",
     "org.calyxinstitute.vpn",
-    "org.fdroid.fdroid",
+    "org.fdroid.basic",
     "org.openobservatory.ooniprobe",
     "org.thoughtcrime.securesms",
     "org.torproject.android",
@@ -86,6 +86,6 @@
     "se.leap.riseupvpn",
     "wangdaye.com.geometricweather"
   ],
-  "startTimestamp": 1697591956000,
+  "startTimestamp": 1697596301000,
   "subcommand": "update"
 }
