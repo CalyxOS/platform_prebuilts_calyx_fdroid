@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1697591990000,
+    "timestamp": 1697596338000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -34,9 +34,9 @@
       "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
       "translation": "https://poeditor.com/join/project/54swaCpFXJ",
       "webSite": "http://auroraoss.com",
-      "added": 1697591957000,
+      "added": 1697596302000,
       "packageName": "com.aurora.store",
-      "lastUpdated": 1697591957000,
+      "lastUpdated": 1697596302000,
       "localized": {
         "de": {
           "summary": "Ein Google Playstore-Client"
@@ -129,9 +129,9 @@
       "sourceCode": "https://code.briarproject.org/briar/briar",
       "translation": "https://www.transifex.com/otf/briar/",
       "webSite": "https://briarproject.org/",
-      "added": 1697591959000,
+      "added": 1697596304000,
       "packageName": "org.briarproject.briar.android",
-      "lastUpdated": 1697591959000,
+      "lastUpdated": 1697596304000,
       "localized": {
         "de": {
           "summary": "Soziales Netzwerk im Darknet"
@@ -213,9 +213,9 @@
       "sourceCode": "https://gitlab.com/calyxos/bitmask_android",
       "translation": "https://www.transifex.com/otf/bitmask-android/",
       "webSite": "https://calyx.net",
-      "added": 1697591961000,
+      "added": 1697596306000,
       "packageName": "org.calyxinstitute.vpn",
-      "lastUpdated": 1697591961000,
+      "lastUpdated": 1697596306000,
       "localized": {
         "de": {
           "summary": "Kostenloser VPN-Dienst von The Calyx Institute"
@@ -290,9 +290,9 @@
       "sourceCode": "https://www.davx5.com/source",
       "translation": "https://www.transifex.com/bitfireAT/davx5/",
       "webSite": "https://www.davx5.com/",
-      "added": 1697591962000,
+      "added": 1697596308000,
       "packageName": "at.bitfire.davdroid",
-      "lastUpdated": 1697591962000,
+      "lastUpdated": 1697596308000,
       "localized": {
         "ar": {
           "description": "DAVx\u2075 \u0647\u0648 \u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0632\u0627\u0645\u0646\u0629 \u0644\u0622\u0646\u062f\u0631\u0648\u064a\u062f \u064a\u062a\u0643\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0646\u0638\u0627\u0645 \u0622\u0646\u062f\u0631\u0648\u064a\u062f.\n\n\u0627\u0633\u062a\u062e\u062f\u0645\u0647 \u0645\u0639 \u062e\u0627\u062f\u0645\u0643 \u0627\u0644\u062e\u0627\u0635 \u0623\u0648 \u0645\u0639 \u062c\u0647\u0629 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u062a\u062b\u0642 \u0628\u0647\u0627 \u0644\u0625\u0628\u0642\u0627\u0621 \u062c\u0647\u0627\u062a \u0627\u062a\u0635\u0627\u0644\u0643 \u0648 \u0623\u062d\u062f\u0627\u062b\u0643 \u0648 \u0645\u0647\u0627\u0645\u0643 \u062a\u062d\u062a \u0633\u064a\u0637\u0631\u062a\u0643.\n\n\u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u062e\u0627\u062f\u0645\u0627\u062a/\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a \u062a\u062c\u0631\u0628\u062a\u0647\u0627 \u060c \u0648\u0644\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u060c \u0623\u0644\u0642 \u0646\u0638\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u064a\u0628.",
@@ -368,354 +368,78 @@
     },
     {
       "allowedAPKSigningKeys": [
-        "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab"
+        "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312"
       ],
       "categories": [
         "System",
         "AlwaysInstall"
       ],
-      "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md",
+      "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
       "suggestedVersionCode": "1017050",
+      "description": "NOTE: The Basic version of F-Droid Client has a reduced feature set (e.g. no nearby share and no panic feature). It targets Android 13 and can do unattended updates without privileged extension or root.\n\nF-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
       "liberapay": "F-Droid-Data",
       "license": "GPL-3.0-or-later",
+      "name": "F-Droid Basic",
       "openCollective": "F-Droid-Euro",
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1697591964000,
-      "packageName": "org.fdroid.fdroid",
-      "lastUpdated": 1697591964000,
+      "added": 1697596310000,
+      "packageName": "org.fdroid.basic",
+      "lastUpdated": 1697596310000,
       "localized": {
-        "af": {
-          "description": "F-Droid is 'n installeerbare katalogus van gratis sagteware\nprogramme vir Android. Die F-Droid-kli\u00ebnt-app maak dit\nmaklik om te blaai, te installeer en op hoogte te bly van opdaterings op u toestel.\n\nDit kan gekoppel word aan enige F-Droid-versoenbare bewaarplekke. Die standaardrepos\nword gehuisves by f-droid.org, wat slegs bona fide libre sagteware bevat.\n\nAndroid self is oop in die sin dat u vry is om APK's te installeer\nwaar u ook al wil, maar daar is baie goeie redes om dit te gebruik\nF-Droid as u sagteware-programbestuurder:\n\n* Word in kennis gestel wanneer opdaterings beskikbaar is\n* Aflaai en installeer opdaterings outomaties\n* Hou ouer en beta-weergawes dop\n* Filtreer programme uit wat nie met die toestel versoenbaar is nie\n* Vind programme via kategorie\u00eb en soekbare beskrywings\n* Toegang tot geassosieerde URL's vir donasies, bronkode ens.\n* Bly veilig deur repo-indekshandtekeninge en APK-hakies na te gaan\n",
-          "name": "F-Droid",
-          "summary": "Die app-winkel wat vryheid en privaatheid respekteer"
-        },
         "ar": {
-          "description": "F-Droid \u0647\u0648 \u0643\u062a\u0627\u0644\u0648\u062c \u0642\u0627\u0628\u0644 \u0644\u0644\u062a\u062b\u0628\u064a\u062a \u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0628\u0631\u0627\u0645\u062c \u0627\u0644\u062d\u0631\u0629 \u0644\u0646\u0638\u0627\u0645 Android. \u064a\u0633\u0647\u0644 \u062a\u0637\u0628\u064a\u0642 \u0639\u0645\u064a\u0644 F-Droid \u062a\u0635\u0641\u062d \u0627\u0644\u062a\u062d\u062f\u064a\u062b\u0627\u062a \u0648\u062a\u062b\u0628\u064a\u062a\u0647\u0627 \u0648\u062a\u062a\u0628\u0639\u0647\u0627 \u0639\u0644\u0649 \u062c\u0647\u0627\u0632\u0643.\n\n\u064a\u062a\u0635\u0644 \u0628\u0623\u064a \u0645\u0633\u062a\u0648\u062f\u0639\u0627\u062a \u0645\u062a\u0648\u0627\u0641\u0642\u0629 \u0645\u0639 F-Droid . \u064a\u062a\u0645 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a \u0641\u064a f-droid.org \u060c \u0648\u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0648\u064a \u0641\u0642\u0637 \u0639\u0644\u0649 \u0628\u0631\u0646\u0627\u0645\u062c \u062d\u0631 \u062d\u0633\u0646 \u0627\u0644\u0646\u064a\u0629.\n\n\u0646\u0638\u0627\u0645 \u0627\u0646\u062f\u0631\u0648\u064a\u062f \u0645\u0641\u062a\u0648\u062d \u0628\u0645\u0639\u0646\u0649 \u0622\u062e\u0631 \u0623\u0646\u062a \u062d\u0631 \u0641\u064a \u062a\u062b\u0628\u064a\u062a \u0645\u0644\u0641\u0627\u062a APK \u0645\u0646 \u0623\u064a \u0645\u0643\u0627\u0646 \u062a\u0631\u064a\u062f\u0647 \u060c \u0648\u0644\u0643\u0646 \u0647\u0646\u0627\u0643 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0623\u0633\u0628\u0627\u0628 \u0627\u0644\u0648\u062c\u064a\u0647\u0629 \u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 F-Droid \u0643\u0645\u062f\u064a\u0631 \u062a\u0637\u0628\u064a\u0642 \u0628\u0631\u0646\u0627\u0645\u062c \u062d\u0631:\n\n* \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0625\u062e\u0637\u0627\u0631 \u0639\u0646\u062f \u062a\u0648\u0641\u0631 \u0627\u0644\u062a\u062d\u062f\u064a\u062b\u0627\u062a\n* \u0627\u062e\u062a\u064a\u0627\u0631\u064a\u0627 \u062a\u062d\u0645\u064a\u0644 \u0648\u062a\u062b\u0628\u064a\u062a \u0627\u0644\u062a\u062d\u062f\u064a\u062b\u0627\u062a \u062a\u0644\u0642\u0627\u0626\u064a\u0627\n* \u062a\u062a\u0628\u0639 \u0627\u0644\u0625\u0635\u062f\u0627\u0631\u0627\u062a \u0627\u0644\u0642\u062f\u064a\u0645\u0629 \u0648\u0627\u0644\u062a\u062c\u0631\u064a\u0628\u064a\u0629\n* \u062a\u0635\u0641\u064a\u0629 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u063a\u064a\u0631 \u0627\u0644\u0645\u062a\u0648\u0627\u0641\u0642\u0629 \u0645\u0639 \u0627\u0644\u062c\u0647\u0627\u0632\n* \u0627\u0644\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0628\u0631 \u0627\u0644\u0641\u0626\u0627\u062a \u0648\u0627\u0644\u0623\u0648\u0635\u0627\u0641 \u0627\u0644\u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u0628\u062d\u062b\n* \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0639\u0646\u0627\u0648\u064a\u0646 URL \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0644\u0644\u062a\u0628\u0631\u0639\u0627\u062a \u0648\u0634\u0641\u0631\u0629 \u0627\u0644\u0645\u0635\u062f\u0631 \u0648\u0645\u0627 \u0625\u0644\u0649 \u0630\u0644\u0643.\n* \u0627\u0628\u0642 \u0622\u0645\u0646\u0627 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u062a\u062d\u0642\u0642 \u0645\u0646 \u062a\u0648\u0642\u064a\u0639\u0627\u062a \u0641\u0647\u0631\u0633 \u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639\u0627\u062a \u0648\u062a\u062c\u0632\u0626\u0627\u062a APK\n",
-          "name": "\u0627\u0641-\u062f\u0631\u0648\u064a\u062f",
-          "summary": "\u0645\u062a\u062c\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0631\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
-        },
-        "az": {
-          "description": "F-Droid Android platformas\u0131 \u00fc\u00e7\u00fcn pulsuz proqram kataloqudur.\nF-Droid proqram\u0131 baxma\u011f\u0131 asanla\u015fd\u0131r\u0131r\nproqramlar\u0131 qura\u015fd\u0131r\u0131n, onlar\u0131 qura\u015fd\u0131r\u0131n v\u0259 yenil\u0259m\u0259l\u0259ri izl\u0259yin.\n\nF-Droid il\u0259 uy\u011fun g\u0259l\u0259n ist\u0259nil\u0259n repozitoriyaya qo\u015fulmaq m\u00fcmk\u00fcnd\u00fcr. Defolt depo f-droid.org-dur,\nyaln\u0131z orijinal pulsuz proqram t\u0259minat\u0131 ehtiva edir.\n\nAndroid \u00f6z\u00fc APK paketl\u0259rinin qura\u015fd\u0131r\u0131lmas\u0131 m\u0259nas\u0131nda a\u00e7\u0131qd\u0131r\nh\u0259r yerd\u0259n, lakin F-Droid-i sizin kimi istifad\u0259 etm\u0259k \u00fc\u00e7\u00fcn \u00e7ox yax\u015f\u0131 s\u0259b\u0259bl\u0259r var\npulsuz proqram meneceri:\n\n* Bildiri\u015fl\u0259ri yenil\u0259yin\n* Yenil\u0259m\u0259l\u0259ri avtomatik y\u00fckl\u0259m\u0259k v\u0259 qura\u015fd\u0131rmaq imkan\u0131\n* K\u00f6hn\u0259lmi\u015f proqramlar\u0131 v\u0259 onlar\u0131n beta versiyalar\u0131n\u0131 izl\u0259m\u0259k\n* Cihazla uy\u011fun g\u0259lm\u0259y\u0259n proqramlar\u0131n yoxlan\u0131lmas\u0131\n* T\u0259tbiql\u0259ri kateqoriyalar v\u0259 t\u0259svirl\u0259r \u00fczr\u0259 axtar\u0131n\n* \u0130an\u0259 proqramlar\u0131 il\u0259 \u0259laq\u0259li ba\u011flant\u0131lara daxil olun, m\u0259nb\u0259 koduna bax\u0131n v\u0259 s\n* Repozitor imzalar\u0131n\u0131 v\u0259 APK hashlar\u0131n\u0131 yoxlamaqla risk yoxdur\n",
-          "name": "F-Droid",
-          "summary": "Azadl\u0131\u011fa v\u0259 m\u0259xfiliy\u0259 h\u00f6rm\u0259t ed\u0259n proqram ma\u011fazas\u0131"
-        },
-        "be": {
-          "name": "F-Droid",
-          "summary": "\u041a\u0440\u0430\u043c\u0430 \u043f\u0440\u0430\u0433\u0440\u0430\u043c, \u044f\u043a\u0430\u044f \u043f\u0430\u0432\u0430\u0436\u0430\u0435 \u0441\u0432\u0430\u0431\u043e\u0434\u0443 \u0456 \u043f\u0440\u044b\u0432\u0430\u0442\u043d\u0430\u0441\u0446\u044c"
-        },
-        "bg": {
-          "name": "F-Droid",
-          "summary": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d\u044a\u0442 \u0437\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u043a\u043e\u0439\u0442\u043e \u0443\u0432\u0430\u0436\u0430\u0432\u0430 \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0442\u0430 \u0438 \u043f\u043e\u0432\u0435\u0440\u0438\u0442\u0435\u043b\u043d\u043e\u0441\u0442\u0442\u0430"
-        },
-        "bn": {
-          "name": "\u098f\u09ab-\u09a1\u09cd\u09b0\u09af\u09bc\u09c7\u09a1",
-          "summary": "\u09af\u09c7 \u0985\u09cd\u09af\u09be\u09aa \u09b8\u09cd\u099f\u09cb\u09b0 \u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8\u09a4\u09be \u0993 \u0997\u09cb\u09aa\u09a8\u09c0\u09af\u09bc\u09a4\u09be \u09b8\u09ae\u09cd\u09ae\u09be\u09a8 \u0995\u09b0\u09c7"
-        },
-        "bo": {
-          "description": "\u0f68\u0f7a\u0f55\u0f0b\u0f62\u0f7c\u0f4c\u0f0b\u0f53\u0f72\u0f0b\u0f68\u0f7a\u0f53\u0f0b\u0f40\u0fb2\u0f7c\u0f4c\u0f0b\u0f56\u0f56\u0f0b\u0f66\u0f9f\u0f7a\u0f42\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f46\u0f7a\u0f51\u0f0b\u0f51\u0f74\u0f0bFOSS(\u0f62\u0f72\u0f53\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f51\u0f44\u0f0b\u0f55\u0fb1\u0f72\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f53\u0f44\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f58\u0f49\u0f7a\u0f53\u0f0b\u0f46\u0f66\u0f0d)\u0f42\u0fb1\u0f72\u0f0b\u0f66\u0f92\u0fb2\u0f72\u0f42\u0f0b\u0f56\u0f45\u0f74\u0f42\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f7a\u0f60\u0f74\u0f0b\u0f58\u0f72\u0f42\u0f0b\u0f5e\u0f72\u0f42\u0f0b\u0f62\u0f7a\u0f51\u0f0d \u0f58\u0f49\u0f7a\u0f66\u0f0b\u0f46\u0f66\u0f0b\u0f60\u0f51\u0f72\u0f0b\u0f56\u0f63\u0f9f\u0f0b\u0f46\u0f66\u0f0b\u0f51\u0f44\u0f0b\u0f0d \u0f66\u0f92\u0fb2\u0f72\u0f42\u0f0b\u0f56\u0f45\u0f74\u0f42 \u0f51\u0f7a\u0f0b\u0f56\u0f5e\u0f72\u0f53\u0f0b\u0f41\u0fb1\u0f7a\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f61\u0f7c\u0f0b\u0f56\u0fb1\u0f51\u0f0b\u0f62\u0f97\u0f7a\u0f66\u0f0b\u0f51\u0f7a\u0f51\u0f0b\u0f42\u0f4f\u0f7c\u0f44\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f0b\u0f63\u0f66\u0f0b\u0f66\u0fb3\u0f0b\u0f54\u0f7c\u0f0b\u0f56\u0f5f\u0f7c\u0f66\u0f0b\u0f61\u0f7c\u0f51\u0f0d\n\n\u0f60\u0f51\u0f72\u0f0b\u0f68\u0f7a\u0f55\u0f0b\u0f62\u0f7c\u0f4c\u0f0b\u0f53\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f58\u0f50\u0f74\u0f53\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f58\u0f5b\u0f7c\u0f51\u0f0b\u0f41\u0f44\u0f0b\u0f42\u0f44\u0f0b\u0f60\u0f51\u0fb2\u0f0b\u0f5e\u0f72\u0f42\u0f0b\u0f63\u0f60\u0f44\u0f0b\u0f58\u0f50\u0f74\u0f51\u0f0b\u0f50\u0f74\u0f56\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f61\u0f7c\u0f51\u0f0d \u0f62\u0f7a\u0f0b\u0f54\u0f7c\u0f0b\u0f66\u0f7c\u0f62\u0f0b\u0f56\u0f5e\u0f42\u0f0b\u0f53\u0f72\u0f0bf-droid.org \u0f53\u0f66\u0f0b\u0f66\u0fa3\u0f7a\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f5e\u0f74\u0f66\u0f0b\u0f61\u0f7c\u0f51\u0f0b\u0f63\u0f0b\u0f51\u0f7a\u0f0b\u0f53\u0f72\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f51\u0f44\u0f0b\u0f55\u0fb1\u0f72\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f53\u0f44\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f58\u0f49\u0f7a\u0f53\u0f0b\u0f46\u0f66\u0f0b\u0f44\u0f7c\u0f0b\u0f58\u0f0b\u0f46\u0f42\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f61\u0f7c\u0f51\u0f0d\n\n\u0f68\u0f7a\u0f53\u0f0b\u0f40\u0fb2\u0f7c\u0f4c\u0f0b\u0f53\u0f72\u0f0b\u0f42\u0f74\u0f0b\u0f61\u0f44\u0f66\u0f0b\u0f45\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f58\u0f49\u0f7a\u0f53\u0f0b\u0f46\u0f66\u0f0b\u0f64\u0f72\u0f42\u0f0b\u0f61\u0f72\u0f53\u0f0b\u0f63\u0f0b\u0f51\u0f7a\u0f0b\u0f61\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f66\u0f0bAPKs \u0f51\u0f7a\u0f0b\u0f56\u0f5e\u0f72\u0f53\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f60\u0f51\u0f7c\u0f51\u0f0b\u0f58\u0f7c\u0f66\u0f0b\u0f63\u0f9f\u0f62\u0f0b\u0f55\u0fb1\u0f7c\u0f42\u0f66\u0f0b\u0f42\u0f44\u0f0b\u0f53\u0f66\u0f0b\u0f40\u0fb1\u0f44\u0f0b\u0f66\u0f92\u0fb2\u0f72\u0f42\u0f0b\u0f56\u0f45\u0f74\u0f42\u0f0b\u0f56\u0fb1\u0f66\u0f0b\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f72\u0f42\u0f0b\u0f42\u0f72\u0f0b\u0f61\u0f7c\u0f51\u0f0d \u0f60\u0f7c\u0f53\u0f0b\u0f40\u0fb1\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f66\u0f0b\u0f68\u0f7a\u0f55\u0f0b\u0f62\u0f7c\u0f4c\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f58\u0f49\u0f7a\u0f53\u0f0b\u0f46\u0f66\u0f0b\u0f66\u0f9f\u0f44\u0f66\u0f0b\u0f60\u0f5b\u0f72\u0f53\u0f0b\u0f56\u0f7a\u0f51\u0f0b\u0f66\u0fa4\u0fb1\u0f7c\u0f51\u0f0b\u0f56\u0fb1\u0f66\u0f0b\u0f53\u0f0b\u0f41\u0f7a\u0f0b\u0f55\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f61\u0f7c\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f0b\u0f58\u0f5a\u0f53\u0f0b\u0f58\u0f44\u0f0b\u0f51\u0f42\u0f0b\u0f45\u0f72\u0f42\u0f0b\u0f61\u0f7c\u0f51\u0f0d\n\n*\u0f42\u0f66\u0f62\u0f0b\u0f56\u0f66\u0f92\u0fb1\u0f74\u0f62\u0f0b\u0f61\u0f7c\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f5a\u0f7a\u0f0b\u0f63\u0f53\u0f0b\u0f56\u0f62\u0fa1\u0f0b\u0f66\u0fa4\u0fb2\u0f51\u0f0b\u0f62\u0f7c\u0f42\u0f66\u0f0d *\u0f62\u0f44\u0f0b\u0f60\u0f42\u0f74\u0f63\u0f0b\u0f42\u0fb1\u0f72\u0f66\u0f0b\u0f55\u0f56\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f51\u0f44\u0f0b\u0f66\u0f92\u0fb2\u0f72\u0f42\u0f0b\u0f56\u0f45\u0f74\u0f42\u0f0b\u0f42\u0f66\u0f62\u0f0b\u0f56\u0f66\u0f92\u0fb1\u0f74\u0f62\u0f0b\u0f42\u0f51\u0f58\u0f0b\u0f40\u0f0d *\u0f50\u0f7c\u0f53\u0f0b\u0f62\u0f99\u0f72\u0f44\u0f0b\u0f54\u0f0b\u0f51\u0f44\u0f0b\u0f5a\u0f7c\u0f51\u0f0b\u0f63\u0f9f\u0f60\u0f72\u0f0b\u0f50\u0f7c\u0f53\u0f0b\u0f62\u0f72\u0f58\u0f0b\u0f63\u0f0b\u0f62\u0f97\u0f7a\u0f66\u0f0b\u0f60\u0f51\u0f7a\u0f51\u0f0b\u0f56\u0f4f\u0f44\u0f0b\u0f50\u0f74\u0f56\u0f0d*\u0f61\u0f7c\u0f0b\u0f56\u0fb1\u0f51\u0f0b\u0f51\u0f44\u0f0b\u0f58\u0f72\u0f0b\u0f58\u0f50\u0f74\u0f53\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f58\u0f49\u0f7a\u0f53\u0f0b\u0f46\u0f66\u0f0b\u0f62\u0fa3\u0f58\u0f66\u0f0b\u0f51\u0f56\u0fb1\u0f7a\u0f0b\u0f55\u0fb1\u0f7a\u0f66\u0f0b\u0f42\u0f4f\u0f7c\u0f44\u0f0b\u0f0d* \u0f66\u0fa1\u0f7a\u0f0b\u0f5a\u0f53\u0f0b\u0f51\u0f44\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f60\u0f5a\u0f7c\u0f63\u0f0b\u0f5e\u0f72\u0f56\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f51\u0f0b\u0f51\u0f7a\u0f0b\u0f58\u0f49\u0f7a\u0f53\u0f0b\u0f46\u0f66\u0f0b\u0f60\u0f5a\u0f7c\u0f63\u0f0b\u0f0d* \u0f5e\u0f63\u0f0b\u0f60\u0f51\u0f7a\u0f56\u0f66\u0f0b\u0f51\u0f44\u0f0b\u0f60\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f41\u0f74\u0f44\u0f66\u0f0b\u0f68\u0f44\u0f0b\u0f62\u0f9f\u0f42\u0f66\u0f0b\u0f66\u0f7c\u0f42\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f46\u0f7a\u0f51\u0f0b\u0f51\u0f74\u0f0bURLs \u0f58\u0f49\u0f58\u0f0b\u0f60\u0f56\u0fb2\u0f7a\u0f63\u0f0b\u0f66\u0f92\u0f7c\u0f0b\u0f55\u0fb1\u0f7a\u0f66\u0f0d *\u0f62\u0f7a\u0f0b\u0f54\u0f7c\u0f0b\u0f58\u0f72\u0f44\u0f0b\u0f62\u0f9f\u0f42\u0f66\u0f0b\u0f55\u0fb1\u0f7c\u0f42\u0f66\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f56\u0f7a\u0f51\u0f0b\u0f66\u0fa4\u0fb1\u0f7c\u0f51\u0f0b\u0f56\u0fb1\u0f66\u0f0b\u0f4f\u0f7a\u0f0b\u0f56\u0f7a\u0f51\u0f0b\u0f46\u0f42\u0f66\u0f0b\u0f50\u0f7c\u0f42\u0f0b\u0f42\u0f53\u0f66\u0f0b\u0f50\u0f74\u0f56\u0f0b\u0f54\u0f0b\u0f51\u0f44\u0f0b\u0f0d\u0f0b\n",
-          "summary": "\u0f62\u0f44\u0f0b\u0f51\u0f56\u0f44\u0f0b\u0f51\u0f44\u0f0b\u0f42\u0f66\u0f44\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f63\u0f0b\u0f42\u0f74\u0f66\u0f0b\u0f56\u0f62\u0fa9\u0f72\u0f0b\u0f5e\u0f74\u0f66\u0f0b\u0f58\u0f41\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f58\u0f49\u0f7a\u0f53\u0f0b\u0f46\u0f66\u0f0b\u0f49\u0f62\u0f0b\u0f5a\u0f42\u0f66\u0f0b\u0f41\u0f44\u0f0b\u0f0d"
-        },
-        "ca": {
-          "description": "F-Droid \u00e9s un cat\u00e0leg instal\u00b7lable d'aplicacions de software lliure\nper a Android. La aplicaci\u00f3 client de F-Droid facilita navegar, instal\u00b7lar\ni fer el seguiment de les actualitzacions en el vostre dispositiu.\n\nF-Droid connecta amb qualsevol repositori compatible. El repositori\nper defecte est\u00e0 allotjat a f-droid.org, que cont\u00e9 nom\u00e9s sofware lliure\nde bona qualitat.\n\nAndroid en s\u00ed \u00e9s obert en el sentit que sou lliures d'instal\u00b7lar APK's\ndes de qualsevol origen, per\u00f2 hi ha unes quantes bones raons per\nutilitzar F-Droid com a el gestor d'aplicacions de software lliure:\n\n* Obt\u00e9 notificacions quan hi hagin actualitzacions disponibles\n* Opcionalment es poden baixar i instal\u00b7lar actualitzacions autom\u00e0ticament\n* Fer un seguiment de les versions anteriors i betes\n* Filtrar les aplicacions que no siguin compatibles amb el vostre dispositiu\n* Trobar aplicacions a trav\u00e9s de les categories o les descripcions\n* Accedir a les URL's associades per fer-hi donacions, accedir al codi font, etc.\n* Mantindre la seguretat comprovant les firmes del repositori i dels APK's\n",
-          "name": "F-Droid",
-          "summary": "La botiga d'aplicacions que respecta la llibertat i la privacitat"
+          "summary": "\u062a\u0637\u0628\u064a\u0642 \u0639\u0645\u064a\u0644 \u062e\u0641\u064a\u0641 \u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0631\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
         },
         "cs": {
-          "description": "F-Droid je katalog svobodn\u00fdch aplikac\u00ed pro Android. S klientem F-Droid je snadn\u00e9 listovat v katalogu aplikac\u00ed, instalovat je a udr\u017eovat je aktu\u00e1ln\u00ed.\n\nF-Droid dok\u00e1\u017ee pou\u017e\u00edt jak\u00fdkoli kompatibiln\u00ed repozit\u00e1\u0159. V\u00fdchoz\u00ed repozit\u00e1\u0159 (k dispozici na f-droid.org) obsahuje pouze d\u016fv\u011bryhodn\u00fd svobodn\u00fd software.\n\nS\u00e1m Android je otev\u0159en\u00fd v tom smyslu, \u017ee m\u00e1te svobodu instalovat soubory APK odkudkoli, existuj\u00ed ale dobr\u00e9 d\u016fvody, pro\u010d pou\u017e\u00edvat F-Droid jako spr\u00e1vce va\u0161ich svobodn\u00fdch aplikac\u00ed:\n\n* Po\u0161le v\u00e1m ozn\u00e1men\u00ed o aktualizaci, jakmile je dostupn\u00e1\n* Voliteln\u00e9 automatick\u00e9 aktualizace\n* Proch\u00e1zejte star\u0161\u00ed a beta verze\n* Dok\u00e1\u017ee vy\u0159adit aplikace nekompatibiln\u00ed se za\u0159\u00edzen\u00edm\n* Um\u00ed vyhled\u00e1vat aplikace dle kategori\u00ed a popisk\u016f\n* Poskytne p\u0159\u00edstup k souvisej\u00edc\u00edm odkaz\u016fm na zdrojov\u00fd k\u00f3d, str\u00e1nku na p\u0159\u00edsp\u011bvky atd.\n* Zkontroluje podpis obsahu repozit\u00e1\u0159e a hash APK\n",
-          "name": "F-Droid",
-          "summary": "Zdroj aplikac\u00ed kter\u00fd respektuje va\u0161i svobodu a soukrom\u00ed"
-        },
-        "cy": {
-          "description": "Mae F-Droid yn gatalog y gellir ei osod o apiau meddalwedd rhydd ar gyfer Android. Mae'r ap cleient F-Droid yn ei wneud yn hawdd pori, gosod a chadw trefn ar ddiweddariadau ar dy ddyfais.\n\nMae'n cysylltu ag unrhyw ystorfeydd sy'n gydnaws ag F-Droid. Cynhelir yr ystorfa graidd yn f-droid.org, ble cynhelir dim ond meddalwedd rhydd bona fide.\n\nMae Android ei hun yn agored yn yr ystyr dy fod yn rhydd i osod APKiau o unrhyw le wyt yn dymuno, ond mae yna nifer o resymau da i ddefnyddio F-Droid fel dy reolwr apiau meddalwedd rhydd:\n\n* Cael dy hysbysu pan mae diweddariadau ar gael\n* Dewis i lawrlwytho a gosod diweddariadau yn awtomatig neu beidio\n* Cadw trefn ar fersiynau hyn a fersiynau beta\n* Diystyru apiau na sy'n gydnaws \u00e2 dy ddyfais\n* Darganfod apiau fesul categori a thrwy chwilio eu disgrifiadau\n* Cael mynediad at URLau er mwyn cyfrannu, gweld cod gwreiddiol, ayyb\n* Aros yn ddiogel gan wirio llofnodion mynegai ystorfeydd a hashiau APK\n",
-          "name": "F-Droid",
-          "summary": "Yr ystorfa apiau sy'n parchu rhyddid a phreifatrwydd"
-        },
-        "da": {
-          "description": "F-Droid er et installerbart katalog over frie softwareapps til Android. F-Droid-appen g\u00f8r det nemt at gennemse, installere og holde styr p\u00e5 opdateringer p\u00e5 din enhed.\n\nAppen opretter forbindelse til alle F-Droid-kompatible depoter. Standard-depotet er hostet p\u00e5 f-droid.org, som kun indeholder \u00e6gte fri software.\n\nAndroid i sig selv er \u00e5ben i den forstand, at du frit kan installere APK'er n\u00e5r du finder dem, men der er mange gode grunde til at bruge F-Droid som appmanager til fri software:\n\n* F\u00e5 besked, n\u00e5r opdateringer er tilg\u00e6ngelige\n* Du kan v\u00e6lge at downloade og installere opdateringer automatisk\n* Hold styr p\u00e5 \u00e6ldre versioner og betaversioner\n* Frasorter apps, der er inkompatible med enheden\n* Find apps via kategorier og s\u00f8gbare beskrivelser\n* F\u00e5 adgang til links til donationer, kildekode osv.\n* Forbliv sikker ved at tjekke depot-indekssignaturer og APK-hash\n",
-          "name": "F-Droid",
-          "summary": "App-butikken, der respekterer frihed og privatliv"
+          "summary": "Minim\u00e1ln\u00ed klient pro obchod s aplikacemi, kter\u00e1 respektuje svobodu a soukrom\u00ed"
         },
         "de": {
-          "description": "F-Droid ist ein installierbarer Katalog mit Libre Software Apps f\u00fcr Android. Die F-Droid-App vereinfacht die Suche nach Apps, deren Installation und sorgt daf\u00fcr, dass sie auf dem neusten Stand bleiben.\n\nSie verbindet sich mit jeder mit F-Droid kompatiblen Paketquelle. Die Standardquelle wird auf f-droid.org gehostet, die ausschlie\u00dflich echte freie und quelloffene Software enth\u00e4lt.\n\nAndroid selbst ist dahingehend offen, dass jeder die Wahl hat, woher er APKs installieren m\u00f6chte. Es gibt aber viele gute Gr\u00fcnde, F-Droid als App-Manager f\u00fcr freie Software zu verwenden:\n\n* Benachrichtigungen zu verf\u00fcgbaren Aktualisierungen erhalten \n* Aktualisierungen wahlweise automatisch herunterladen und installieren \n* Vorg\u00e4nger- und Beta-Versionen \u00fcberblicken \n* Mit dem Ger\u00e4t inkompatible Apps aussortieren\n* Apps nach Kategorien und durchsuchbaren Beschreibungen finden \n* Auf URLs zugreifen, die mit Quelltext, Spendenm\u00f6glichkeiten usw. verkn\u00fcpft sind \n* Durch \u00dcberpr\u00fcfung von Quell-Signaturen und APK-Hashes gesch\u00fctzt bleiben\n",
-          "name": "F-Droid",
-          "summary": "Der App-Store, der Freiheit und Privatsph\u00e4re respektiert"
-        },
-        "el": {
-          "description": "\u03a4\u03bf F-Droid \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03ba\u03b1\u03c4\u03ac\u03bb\u03bf\u03b3\u03bf\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ce\u03bd \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf\u03c5 \u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03bf\u03cd\n\u03b3\u03b9\u03b1 \u03c4\u03bf Android. \u0397 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c0\u03b5\u03bb\u03ac\u03c4\u03b7 F-Droid \u03b4\u03b9\u03b5\u03c5\u03ba\u03bf\u03bb\u03cd\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7,\n\u03c4\u03b7\u03bd \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03b7 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03b7 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ae \u03c3\u03b1\u03c2.\n\n\u03a3\u03c5\u03bd\u03b4\u03ad\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03bf\u03c0\u03bf\u03b9\u03bf\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03b1\u03c0\u03bf\u03b8\u03b5\u03c4\u03ae\u03c1\u03b9\u03bf \u03c3\u03c5\u03bc\u03b2\u03b1\u03c4\u03cc \u03bc\u03b5 \u03c4\u03bf F-Droid. \u03a4\u03bf \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03bf\n\u03b1\u03c0\u03bf\u03b8\u03b5\u03c4\u03ae\u03c1\u03b9\u03bf \u03c6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf f-droid.org, \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03c0\u03b5\u03c1\u03b9\u03ad\u03c7\u03b5\u03b9 \u03bc\u03cc\u03bd\u03bf \u03ba\u03b1\u03bb\u03cc\u03c0\u03b9\u03c3\u03c4\u03bf \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf \u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03cc.\n\n\u03a4\u03bf \u03af\u03b4\u03b9\u03bf \u03c4\u03bf Android \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03c5\u03c0\u03cc \u03c4\u03b7\u03bd \u03ad\u03bd\u03bd\u03bf\u03b9\u03b1 \u03cc\u03c4\u03b9 \u03b5\u03af\u03c3\u03c4\u03b5 \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf\u03b9 \u03bd\u03b1\n\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 APK \u03b1\u03c0\u03cc \u03bf\u03c0\u03bf\u03c5\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5, \u03b1\u03bb\u03bb\u03ac \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03c0\u03bf\u03bb\u03bb\u03bf\u03af \u03ba\u03b1\u03bb\u03bf\u03af \u03bb\u03cc\u03b3\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7\n\u03c4\u03bf\u03c5 F-Droid \u03c9\u03c2 \u03c4\u03bf\u03bd \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03ae \u03c3\u03b1\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ce\u03bd \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf\u03c5 \u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03b9\u03ba\u03bf\u03cd:\n\n* \u039b\u03ac\u03b2\u03b5\u03c4\u03b5 \u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03cc\u03c4\u03b1\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b5\u03c2 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03c3\u03b5\u03b9\u03c2\n* \u03a0\u03c1\u03bf\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ac, \u03ba\u03b1\u03c4\u03b5\u03b2\u03ac\u03c3\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03c4\u03b5 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b1\n* \u03a0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03ae\u03c3\u03c4\u03b5 \u03c0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03ba\u03b4\u03cc\u03c3\u03b5\u03b9\u03c2\n* \u03a6\u03b9\u03bb\u03c4\u03c1\u03ac\u03c1\u03b5\u03c4\u03b5 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c5\u03bc\u03b2\u03b1\u03c4\u03ad\u03c2 \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ae \u03c3\u03b1\u03c2\n* \u0392\u03c1\u03b5\u03af\u03c4\u03b5 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2 \u03bc\u03ad\u03c3\u03c9 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b9\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03b1\u03c6\u03ce\u03bd \u03bc\u03b5 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7\u03c2\n* \u03a0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b4\u03b9\u03b5\u03c5\u03b8\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2 URL \u03b3\u03b9\u03b1 \u03b4\u03c9\u03c1\u03b5\u03ad\u03c2, \u03c0\u03b7\u03b3\u03b1\u03af\u03bf \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1 \u03ba\u03bb\u03c0.\n* \u039c\u03b5\u03af\u03bd\u03b5\u03c4\u03b5 \u03b1\u03c3\u03c6\u03b1\u03bb\u03b5\u03af\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c4\u03b9\u03c2 \u03c5\u03c0\u03bf\u03b3\u03c1\u03b1\u03c6\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c5\u03c1\u03b5\u03c4\u03b7\u03c1\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03ba\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd\u03c2 \u03c4\u03c9\u03bd APK\n",
-          "name": "F-Droid",
-          "summary": "\u03a4\u03bf \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ce\u03bd \u03c0\u03bf\u03c5 \u03c3\u03ad\u03b2\u03b5\u03c4\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1"
+          "summary": "Der minimale Client f\u00fcr den App Store, der Freiheit und Privatsph\u00e4re respektiert"
         },
         "en-US": {
-          "description": "F-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes\n",
-          "icon": "icon.png",
-          "name": "F-Droid",
-          "summary": "The app store that respects freedom and privacy"
+          "summary": "The minimal client app for the app store that respects freedom and privacy"
         },
         "eo": {
-          "description": "F-Droid estas instalebla katalogo de liberaj aplika\u0135oj por Android. La kliento plifaciligas foliumadon, instaladon kaj spuradon de \u011disdatigoj \u0109e via aparato.\n\n\u011ci konektas al \u0109iuj F-Droid-kongruaj deponejoj. La \u0109efa deponejo estas gastigata \u0109e f-droid.org kaj enhavas nur vere liberan programaron.\n\nAndroid mem estas malferma tiel, ke vi povas instali aplika\u0135ojn de iu ajn fonto, sed estas kelkaj bonaj kialoj por uzi F-Droid kiel vian instal\u2011administrilon:\n\u2022 ricevi sciigojn pri disponeblaj \u011disdatigoj\n\u2022 (malnepre) el\u015duti kaj instali \u011disdatigojn a\u016dtomate\n\u2022 spuri malnovajn kaj betajn versiojn\n\u2022 filtri aplika\u0135ojn nekongruajn kun via aparato\n\u2022 esplori aplika\u0135ojn la\u016d kategorioj kaj per ser\u0109eblaj priskriboj\n\u2022 aliri ligilojn por donaci, fontkodo, ktp.\n\u2022 esti sekura per kontroli signaturojn de la deponeja indekso kaj haketa\u0135ojn de apoj\n",
-          "name": "F-Droid",
-          "summary": "Aplika\u0135a vendejo respektanta liberecon kaj privatecon"
-        },
-        "es": {
-          "description": "F-Droid es un cat\u00e1logo instalable de aplicaciones de software libre para Android. La aplicaci\u00f3n de cliente F-Droid facilita la navegaci\u00f3n, la instalaci\u00f3n y el seguimiento de las actualizaciones en su dispositivo.\n\nSe conecta a cualquier repositorio compatible con F-Droid. El repositorio predeterminado est\u00e1 alojado en f-droid.org, que contiene solo software libre de buena fe.\n\nAndroid en s\u00ed mismo es abierto en el sentido de que puede instalar APK desde cualquier lugar que desee, pero hay muchas buenas razones para usar F-Droid como su administrador de aplicaciones de software libre:\n\n* Reciba notificaciones cuando haya actualizaciones disponibles\n* Opcionalmente, descargue e instale actualizaciones autom\u00e1ticamente\n* Realice un seguimiento de las versiones anteriores y beta\n* Filtrar aplicaciones incompatibles con el dispositivo\n* Encuentra aplicaciones a trav\u00e9s de categor\u00edas y descripciones que se pueden buscar\n* Acceda a URL asociadas para donaciones, c\u00f3digo fuente, etc.\n* Mant\u00e9ngase seguro al verificar las firmas del \u00edndice de repositorios y los hashes de APK\n",
-          "name": "F-Droid",
-          "summary": "El repositorio de aplicaciones que respeta la libertad y la privacidad"
-        },
-        "es-AR": {
-          "description": "F-Droid es un cat\u00e1logo de software libre para android. El cliente de F-Droid hace f\u00e1cil buscar, instalar, y Mantener actualizado tu dispositivo.\n\nEste se conecta con cualquier repositorio compatible con F-Droid. El repositorio predeterminado es hosteado en f-droid.org, que contiene solo software libre\nAndroid es abierto en el sentido en el que puedes instalas APKs\ndesde donde quieras, pero hay buenas razones para usar F-Droid como tu gestor de apps libres\n* Mantente informado de actualizaciones\n* Opcionalmente puedes descargar e instalar actualizaciones autom\u00e1ticamente\n* Manten un registro de versiones viejas y beta\n* filtrar las aplicaciones incompatibles con tu dispositivo\n* busca apps por categor\u00edas o por descripci\u00f3n\n* Accede a URLs asociadas para donaciones, c\u00f3digo fuente, etc.\n* Mantente seguro verificando las signatures y hashes de los APKs\n",
-          "name": "F-Droid",
-          "summary": "La tienda de apps que respeta tu libertad y privacidad"
-        },
-        "es-MX": {
-          "description": "F-Droid es un cat\u00e1logo instalable de software libre\naplicaciones para Android. La aplicaci\u00f3n cliente de F-Droid hace que\nf\u00e1cil de navegar, instalar y llevar un registro de las actualizaciones de tu dispositivo.\n\nSe conecta a cualquier dep\u00f3sito compatible con F-Droid. El repositorio por defecto\nest\u00e1 alojado en f-droid.org, que contiene s\u00f3lo software libre de buena fe.\n\nEl propio Android es abierto en el sentido de que es libre de instalar APKs\nde cualquier lugar que desee, pero hay muchas buenas razones para usar\nF-Droid como tu administrador de aplicaciones de software libre:\n\n* Recibir\u00e1s una notificaci\u00f3n cuando haya actualizaciones disponibles\n* Opcionalmente descargar e instalar actualizaciones autom\u00e1ticamente\n* Mant\u00e9ngase al tanto de las versiones antiguas y beta\n* Filtrar las aplicaciones incompatibles con el dispositivo\n* Encontrar aplicaciones a trav\u00e9s de categor\u00edas y descripciones buscables\n* Accede a las URLs asociadas para donaciones, c\u00f3digo fuente, etc.\n* Mant\u00e9ngase seguro comprobando las firmas del \u00edndice de reposici\u00f3n y los hashes APK\n",
-          "name": "F-Droid",
-          "summary": "La tienda de aplicaciones que respeta la libertad y la privacidad"
-        },
-        "es_AR": {
-          "description": "F-Droid es un cat\u00e1logo de software libre para android. El cliente de F-Droid hace f\u00e1cil buscar, instalar, y Mantener actualizado tu dispositivo.\n\nEste se conecta con cualquier repositorio compatible con F-Droid. El repositorio predeterminado es hosteado en f-droid.org, que contiene solo software libre\nAndroid es abierto en el sentido en el que puedes instalas APKs\ndesde donde quieras, pero hay buenas razones para usar F-Droid como tu gestor de apps libres\n* Mantente informado de actualizaciones\n* Opcionalmente puedes descargar e instalar actualizaciones autom\u00e1ticamente\n* Manten un registro de versiones viejas y beta\n* filtrar las aplicaciones incompatibles con tu dispositivo\n* busca apps por categor\u00edas o por descripci\u00f3n\n* Accede a URLs asociadas para donaciones, c\u00f3digo fuente, etc.\n* Mantente seguro verificando las signatures y hashes de los APKs\n",
-          "name": "F-Droid",
-          "summary": "La tienda de apps que respeta tu libertad y privacidad"
-        },
-        "es_MX": {
-          "description": "F-Droid es un cat\u00e1logo instalable de software libre\naplicaciones para Android. La aplicaci\u00f3n cliente de F-Droid hace que\nf\u00e1cil de navegar, instalar y llevar un registro de las actualizaciones de tu dispositivo.\n\nSe conecta a cualquier dep\u00f3sito compatible con F-Droid. El repositorio por defecto\nest\u00e1 alojado en f-droid.org, que contiene s\u00f3lo software libre de buena fe.\n\nEl propio Android es abierto en el sentido de que es libre de instalar APKs\nde cualquier lugar que desee, pero hay muchas buenas razones para usar\nF-Droid como tu administrador de aplicaciones de software libre:\n\n* Recibir\u00e1s una notificaci\u00f3n cuando haya actualizaciones disponibles\n* Opcionalmente descargar e instalar actualizaciones autom\u00e1ticamente\n* Mant\u00e9ngase al tanto de las versiones antiguas y beta\n* Filtrar las aplicaciones incompatibles con el dispositivo\n* Encontrar aplicaciones a trav\u00e9s de categor\u00edas y descripciones buscables\n* Accede a las URLs asociadas para donaciones, c\u00f3digo fuente, etc.\n* Mant\u00e9ngase seguro comprobando las firmas del \u00edndice de reposici\u00f3n y los hashes APK\n",
-          "name": "F-Droid",
-          "summary": "La tienda de aplicaciones que respeta la libertad y la privacidad"
-        },
-        "et": {
-          "description": "F-Droid on paigaldatav vaba tarkvara rakenduste kataloog Androidile.\nF-Droidi kliendirakendus lubab lihtsalt sirvida, paigaldada ja hoida \nsilm peal oma seadme rakenduste v\u00e4rskendustel.\n\nTa \u00fchendub k\u00f5igi F-Droidiga \u00fchilduvate hoidlatega. Vaikimisi hoidla \non saidil f-droid.org ja pakub ainult t\u00f5elist vaba tarkvara.\n\nAndroid ise on avatud selles m\u00f5ttes, et sa oled vaba paigaldamaks \nAPK faile k\u00f5ikjalt, kus sa soovid, kuid F-Droidi kasutamisel on mitmeid \neeliseid su vaba tarkvara rakenduste haldurina:\n\n* Oled teavitatud, kui v\u00e4rskendused on saadaval\n* Valikuline v\u00e4rskenduste alla laadimine ja paigaldamine\n* J\u00e4lgi rakenduste vanemaid ja prooviversioone\n* Filtreeri v\u00e4lja seadme mitte\u00fchilduvad rakendused\n* Otsi rakendusi kategooriate ja otsitavate kirjelduste kaudu\n* P\u00f6\u00f6rdu seotud annetuste, l\u00e4htekoodi jms. viidetele\n* Ole turvatud kontrollides hoidla indeksi allkirju ja APK r\u00e4sisid\n",
-          "name": "F-Droid",
-          "summary": "Rakenduste pood, mis austab vabadust ja privaatsust"
-        },
-        "eu": {
-          "description": "F-droid instalatu daitekeen Android plataformarako aplikazio librearen katalogo bat da.\nF-Droid bezeroari eske erreza da hauek arakatzea, instalatzea eta eguneraketen jarraipena egitea zure gailuan.\n\nF-Droid-ekin bateragarriak diren biltegietara konektatzen da.\nLehenetsitako biltegia f-droid.org da, eta egiaztatutako software librea besterik ez dauka.\n\nAndroid berez irekia da, Non nahitik APK fitxategiak instalatzea baimentzen du alegia,\nbaina arrazoi ugari daude F-Droid zure software librearentzako aplikazio kudeatzaile gisa erabiltzeko:\n\n* Eguneraketen jakinarazpenak jaso\n* Aukeran eguneraketak automatikoki deskargatu eta instalatu\n* Bertsio zaharren eta beta bertsioen jarraipena egin\n* Gailuarekin bateragarriak ez diren aplikazioak iragazi\n* Aplikazioak kategoriaren arabera eta bilaketen arabera aurkitu\n* Dohaintzak egiteko URLak\n* Segurtasuna zaintzea biltegiaren indizearen sinadurak eta APK fitxategien hash.a egiaztatuz\n",
-          "name": "F-Droid",
-          "summary": "Askatasuna eta pribatutasunari begirunea dion aplikazio biltegia"
-        },
-        "fa": {
-          "description": "\u0627\u0641\u200c\u062f\u0631\u0648\u06cc\u062f \u0641\u0647\u0631\u0633\u062a\u06cc \u0642\u0627\u0628\u0644 \u0646\u0635\u0628 \u0627\u0632 \u06a9\u0627\u0631\u0647\u200c\u0647\u0627\u06cc \u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631 \u0622\u0632\u0627\u062f\n\u0628\u0631\u0627\u06cc \u0627\u0646\u062f\u0631\u0648\u06cc\u062f \u0627\u0633\u062a. \u06a9\u0627\u0631\u0647\u0654 \u06a9\u0627\u0631\u062e\u0648\u0627\u0647 \u0627\u0641\u200c\u062f\u0631\u0648\u06cc\u062f\u060c \u0645\u0631\u0648\u0631\u060c \u0646\u0635\u0628 \u0648\n\u0631\u062f\u06cc\u0627\u0628\u06cc \u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc\u200c\u0647\u0627 \u0631\u0627 \u0631\u0648\u06cc \u062f\u0633\u062a\u06af\u0627\u0647\u062a\u0627\u0646 \u0622\u0633\u0627\u0646 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u06a9\u0627\u0631\u0647 \u0628\u0647 \u062a\u0645\u0627\u0645\u06cc \u0645\u062e\u0627\u0632\u0646 \u0633\u0627\u0632\u06af\u0627\u0631 \u0628\u0627 \u0627\u0641\u200c\u062f\u0631\u0648\u06cc\u062f \u0648\u0635\u0644 \u0645\u06cc\u200c\u0634\u0648\u062f.\n\u0645\u062e\u0632\u0646 \u067e\u06cc\u0634\u200c\u06af\u0632\u06cc\u062f\u0647 \u0631\u0648\u06cc f-droid.org \u0645\u06cc\u0632\u0628\u0627\u0646\u06cc \u0634\u062f\u0647 \u06a9\u0647 \u0641\u0642\u0637\n\u0634\u0627\u0645\u0644 \u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631\u0647\u0627\u06cc \u0622\u0632\u0627\u062f \u0627\u0633\u062a.\n\n\u0627\u0646\u062f\u0631\u0648\u06cc\u062f \u0628\u0627\u0632 \u0627\u0633\u062a\u060c \u0628\u0647 \u0627\u06cc\u0646 \u0645\u0639\u0646\u06cc \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f APK\u0647\u0627 \u0631\u0627 \u0627\u0632 \u0647\u0631\u062c\u0627\u06cc\u06cc\n\u06a9\u0647 \u062f\u0648\u0633\u062a \u062f\u0627\u0631\u06cc\u062f \u0646\u0635\u0628 \u06a9\u0646\u06cc\u062f\u061b \u0648\u0644\u06cc \u062f\u0644\u0627\u06cc\u0644 \u062e\u0648\u0628\u06cc \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632\n\u0627\u0641\u200c\u062f\u0631\u0648\u06cc\u062f \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0645\u062f\u06cc\u0631 \u06a9\u0627\u0631\u0647\u200c\u0647\u0627\u06cc \u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631 \u0622\u0632\u0627\u062f\u062a\u0627\u0646 \u0648\u062c\u0648\u062f \u062f\u0627\u0631\u062f:\n\n* \u0622\u06af\u0627\u0647 \u0634\u062f\u0646 \u0647\u0646\u06af\u0627\u0645 \u0648\u062c\u0648\u062f \u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc\u200c\u0647\u0627\n* \u0628\u0627\u0631\u06af\u06cc\u0631\u06cc \u0648 \u0646\u0635\u0628 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0647\u200c\u0631\u0648\u0632 \u0631\u0633\u0627\u0646\u06cc\u200c\u0647\u0627 \u0628\u0647 \u0635\u0648\u0631\u062a \u062f\u0644\u062e\u0648\u0627\u0647\n* \u0631\u062f\u06cc\u0627\u0628\u06cc \u0646\u06af\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u0648 \u0642\u062f\u06cc\u0645\u06cc\n* \u067e\u0627\u0644\u0627\u06cc\u0634 \u06a9\u0627\u0631\u0647\u200c\u0647\u0627\u06cc \u0646\u0627\u0633\u0627\u0632\u06af\u0627\u0631 \u0628\u0627 \u062f\u0633\u062a\u06af\u0627\u0647\n* \u06cc\u0627\u0641\u062a\u0646 \u06a9\u0627\u0631\u0647\u200c\u0647\u0627 \u0627\u0632 \u062f\u0633\u062a\u0647\u200c\u0628\u0646\u062f\u06cc\u200c\u0647\u0627 \u0648 \u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0642\u0627\u0628\u0644 \u062c\u0633\u062a\u200c\u0648\u062c\u0648\n* \u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u0646\u0634\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0628\u0631\u0627\u06cc \u0627\u0639\u0627\u0646\u0647\u060c \u06a9\u062f \u0645\u0628\u062f\u0623 \u0648\u2026\n* \u0627\u0645\u0646 \u0645\u0627\u0646\u062f\u0646 \u0628\u0627 \u0628\u0631\u0631\u0633\u06cc \u0627\u0645\u0636\u0627\u06cc \u0646\u0645\u0627\u06cc\u0647\u0654 \u0645\u062e\u0632\u0646 \u0648 \u0647\u0634\u200c\u0647\u0627\u06cc APK\n",
-          "name": "\u0627\u0641\u200c\u062f\u0631\u0648\u06cc\u062f",
-          "summary": "\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u06a9\u0627\u0631\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0628\u0647 \u0622\u0632\u0627\u062f\u06cc \u0648 \u0645\u062d\u0631\u0645\u0627\u0646\u06af\u06cc \u0627\u062d\u062a\u0631\u0627\u0645 \u0645\u06cc\u200c\u06af\u0630\u0627\u0631\u062f"
-        },
-        "fi": {
-          "description": "F-Droid on pakettivarasto avoimen l\u00e4hdekoodin\nAndroid-ohjelmille. F-Droidilla on helppo etsi\u00e4, \nasentaa ja p\u00e4ivitt\u00e4\u00e4 sovelluksia.\n\nSe pystyy muodostamaan yhteyden kaikkiin F-Droid -yhteensopiviin\nsovellusl\u00e4hteisiin. Oletus sovellusl\u00e4hde on yll\u00e4pidetty osoitteessa\nf-droid.org, joka sis\u00e4lt\u00e4\u00e4 vain t\u00e4ysin avoimia ohjelmistoja.\n\nAndroid itsess\u00e4\u00e4n on avoin siin\u00e4 mieless\u00e4, ett\u00e4 voit vapaasti\nasentaa haluamiasi APK-tiedostoja mist\u00e4 haluat.\nT\u00e4ss\u00e4 on monia hyvi\u00e4 syit\u00e4 k\u00e4ytt\u00e4\u00e4 F-Droidia sovellusten asentamiseen:\n\n* Saat ilmoituksen, kun p\u00e4ivityksi\u00e4 on saatavilla\n* Vaihtoehtoisesti voit ladata ja asentaa p\u00e4ivitykset automaattisesti\n* Halutessasi voit p\u00e4ivitt\u00e4\u00e4 sovelluksen vanhempaan tai beta-versioon\n* Suodata laitteen kanssa yhteensopimattomat sovellukset\n* Etsi sovelluksia luokkien ja haun avulla\n* Sovelluksien kuvaussivuille liitetyt URL-osoitteet kehitt\u00e4jille lahjoittamiseen, l\u00e4hdekoodiin, k\u00e4\u00e4nn\u00f6kseen jne.\n* Pysy turvassa tarkistamalla sovellusl\u00e4hteiden indeksi allekirjoitukset ja APK-hajautukset\n",
-          "name": "F-Droid",
-          "summary": "Sovelluskauppa, joka kunnioittaa vapautta ja yksityisyytt\u00e4"
-        },
-        "fil": {
-          "description": "Ang F-Droid ay isang mai-install na katalogo ng mga libre software\napp sa Android. Pinapadali ng F-Droid client na\nmag-browse, mag-install, at mag-track sa mga update sa iyong device.\n\nKumokonekta ito sa kahit anong mga repositoryong compatible sa F-Droid. Ang default na repo ay\nhino-host sa fdroid.org, na naglalaman lang ng mga bona fide na libre software.\n\nBukas ang Android dahil malaya kang makakapag-install ng mga APK\nsaanman sila galing, pero may mga magagandang dahilan kung bakit magandang gamitin ang F-Droid bilang app manager ng mga libre software mo:\n\n* Maabisuhan kapag may mga update\n* Pwedeng ipakusa ang pag-download at pag-install sa mga update\n* I-track ang mga luma at beta na bersyon\n* Isala ang mga app na hindi compatible sa device\n* Maghanap ng mga app sa tulong ng mga kategorya at mahahanap na paglalarawan\n* I-access ang mga kaugnay na URL para sa mga donasyon, code ng source, atbp.\n* Manatiling ligtas sa tulong ng pagtingin\nsa mga pirma sa index ng repo at mga hash ng APK\n",
-          "name": "F-Droid",
-          "summary": "Ang app store na rumerespeto sa kalayaan at pagkapribado"
+          "summary": "Minimuma kliento por la aplika\u0135a vendejo respektanta liberecon kaj privatecon"
         },
         "fr": {
-          "description": "F-Droid est un catalogue installable d\u2019application libres pour Android. L\u2019application client F-Droid facilite la navigation, l\u2019installation, ainsi que le suivi des mises \u00e0 jour sur votre appareil.\n\nElle se connecte \u00e0 n\u2019importe quel d\u00e9p\u00f4t compatible avec F-Droid. Le d\u00e9p\u00f4t par d\u00e9faut est h\u00e9berg\u00e9 sur f-droid.org et ne propose que de v\u00e9ritables applications libres.\n\nAndroid m\u00eame est ouvert dans la mesure o\u00f9 vous \u00eates libre d\u2019installer des fichiers APK quelle qu'en soit la provenance, mais les raisons ne manquent pas d\u2019utiliser F-Droid en tant que gestionnaire de vos applications libres\u00a0:\n\n* \u00catre inform\u00e9 lorsque des mises \u00e0 jour sont disponibles\n* Il est possible de t\u00e9l\u00e9charger et installer les mises \u00e0 jour automatiquement\n* Suivi des anciennes versions et des versions b\u00eata\n* Filtre les applis incompatibles avec l\u2019appareil\n* Recherche d'applications par cat\u00e9gorie et depuis leur description\n* Acc\u00e8s aux URL connexes pour faire un don, acc\u00e9der au code source, etc.\n* S\u00e9curit\u00e9 garantie avec la v\u00e9rification des signatures des indices de d\u00e9p\u00f4t et les hachages d\u2019APK\n",
-          "name": "F-Droid",
-          "summary": "Le magasin d'applications qui respecte votre libert\u00e9 et votre vie priv\u00e9e"
-        },
-        "gd": {
-          "description": "\u2019S e catalog de bhathar-bhog saor a ghabhas st\u00e0ladh air Android\na th\u2019 ann an F-Droid. N\u00ec aplacaid cliant F-Droid e furasta dhut\ngun r\u00f9raich, gun st\u00e0laich is gun c\u00f9m thu s\u00f9il air \u00f9rachaidhean air an uidheam agad.\n\nN\u00ec i ceangal ri ionad-tasgaidh sam bith a tha co-ch\u00f2rdail le F-Droid. Tha an t-ionad-tasgaidh bunaiteach\n\u2019ga \u00f2stadh air f-droid.org agus fhan ghaigh thu ach bathar-bog a tha saor dha-r\u00ecribh ann.\n\nTha Android fh\u00e8in fosgailte san t-seagh gum faod thu APK\na st\u00e0ladh \u00e0 \u00e0ite sam bith a thogras tu ach tha iomadh deagh adhbhar ann airson\nF-Droid a chleachdadh airson na h-aplacaidean saora agad a st\u00f9ireadh:\n\n* Gheibh thu brath nuair a bhios \u00f9rachadh ri fhaighinn\n* \u2019S urrainn dhut \u00f9rachaidhean a lochdadh a-nuas is a st\u00e0ladh gu f\u00e8in-obrachail ma thogras tu\n* \u2019S urrainn dhut s\u00f9il a chumail air seann-tionndaidhean is tionndaidhean beta\n* \u2019S urrainn dhut aplacaidean nach eil co-ch\u00f2rdail ris an uidheam agad a chriathradh air falbh\n* \u2019S urrainn dhut aplacaidean a lorg le roinnean-se\u00f2rsa is tuairisgeulan a ghabhas lorg annta\n* \u2019S urrainn dhut URLaichean co-cheangailte inntrigeadh, can airson tabhartas a thoirt, am bun-t\u00f9s fhaighinn is msaa.\n* Bidh thu nas s\u00e0bhailte le dearbhadh nan soidhnidhean air inneacsan nan ionadan-tasgaidh is haisichean nan APK\n",
-          "name": "F-Droid",
-          "summary": "Am b\u00f9th aplacaidean aig a bheil suim dhan t-saorsa is phr\u00ecobhaideachd agad"
-        },
-        "gl": {
-          "name": "F-Droid",
-          "summary": "A tenda de aplicaci\u00f3ns que respecta a liberdade e a privacidade"
+          "summary": "L\u2019application minimale pour le magasin d\u2019applis respectueux de la vie priv\u00e9e"
         },
         "he": {
-          "description": "F-Droid \u05d4\u05d5\u05d0 \u05e7\u05d8\u05dc\u05d5\u05d2 \u05e9\u05dc \u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05e0\u05d9\u05dd \u05d7\u05d5\u05e4\u05e9\u05d9\u05d9\u05dd \u05e9\u05de\u05d9\u05d5\u05e2\u05d3\u05d9\u05dd \u05dc\u05d4\u05ea\u05e7\u05e0\u05d4 \u05e2\u05dc Android. \u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05df \u05d4\u05dc\u05e7\u05d5\u05d7 \u05e9\u05dc F-Droid \u05de\u05e7\u05dc \u05e2\u05dc \u05d4\u05e2\u05d9\u05d5\u05df, \u05d4\u05d4\u05ea\u05e7\u05e0\u05d4 \u05d5\u05de\u05e2\u05e7\u05d1 \u05d0\u05d7\u05e8 \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05e2\u05d1\u05d5\u05e8 \u05d4\u05de\u05db\u05e9\u05d9\u05e8 \u05e9\u05dc\u05da.\n\n\u05d4\u05dc\u05e7\u05d5\u05d7 \u05de\u05ea\u05d7\u05d1\u05e8 \u05dc\u05db\u05dc \u05de\u05d0\u05d2\u05e8 \u05ea\u05d5\u05d0\u05dd F-Droid. \u05de\u05d0\u05d2\u05e8 \u05d1\u05e8\u05e8\u05ea \u05d4\u05de\u05d7\u05d3\u05dc \u05de\u05ea\u05d0\u05e8\u05d7 \u05d1\u05bef-droid.org, \u05e9\u05de\u05db\u05d9\u05dc \u05d0\u05da \u05d5\u05e8\u05e7 \u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05e0\u05d9\u05dd \u05d7\u05d5\u05e4\u05e9\u05d9\u05d9\u05dd \u05d1\u05d0\u05d7\u05e8\u05d9\u05d5\u05ea.\n\n\u05de\u05e2\u05e8\u05db\u05ea Android \u05e2\u05e6\u05de\u05d4 \u05e4\u05ea\u05d5\u05d7\u05d4 \u05d1\u05de\u05d5\u05d1\u05df \u05e9\u05d9\u05e9 \u05dc\u05da \u05d0\u05ea \u05d4\u05d7\u05d5\u05e4\u05e9 \u05dc\u05d4\u05ea\u05e7\u05d9\u05df \u05e7\u05d5\u05d1\u05e6\u05d9 APK \u05de\u05d4\u05d9\u05db\u05df \u05e9\u05e8\u05e7 \u05ea\u05d7\u05e4\u05d5\u05e5, \u05d0\u05da \u05d9\u05e9\u05e0\u05df \u05de\u05d2\u05d5\u05d5\u05df \u05e1\u05d9\u05d1\u05d5\u05ea \u05d8\u05d5\u05d1\u05d5\u05ea \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05dc\u05e7\u05d5\u05d7 F-Droid \u05d1\u05ea\u05d5\u05e8 \u05de\u05e0\u05d4\u05dc \u05d4\u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05e0\u05d9\u05dd \u05d4\u05d7\u05d5\u05e4\u05e9\u05d9\u05d9\u05dd \u05e9\u05dc\u05da:\n\n* \u05e7\u05d1\u05dc\u05ea \u05d4\u05ea\u05e8\u05d0\u05d5\u05ea \u05db\u05e9\u05e7\u05d9\u05d9\u05de\u05d9\u05dd \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd\n* \u05de\u05ea\u05df \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05dc\u05d4\u05d5\u05e8\u05d9\u05d3 \u05d5\u05dc\u05d4\u05ea\u05e7\u05d9\u05df \u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d0\u05d5\u05d8\u05d5\u05de\u05d8\u05d9\u05ea\n* \u05dc\u05e2\u05e7\u05d5\u05d1 \u05d0\u05d7\u05e8 \u05de\u05d4\u05d3\u05d5\u05e8\u05d5\u05ea \u05d9\u05e9\u05e0\u05d5\u05ea \u05d9\u05d5\u05ea\u05e8 \u05dc\u05e6\u05d3 \u05de\u05d4\u05d3\u05d5\u05e8\u05d5\u05ea \u05d1\u05d8\u05d0\n* \u05e1\u05d9\u05e0\u05d5\u05df \u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05e0\u05d9\u05dd \u05e9\u05d0\u05d9\u05e0\u05dd \u05ea\u05d5\u05d0\u05de\u05d9\u05dd \u05dc\u05de\u05db\u05e9\u05d9\u05e8\n* \u05d0\u05d9\u05ea\u05d5\u05e8 \u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05e0\u05d9\u05dd \u05d1\u05d6\u05db\u05d5\u05ea \u05e7\u05d8\u05d2\u05d5\u05e8\u05d9\u05d5\u05ea \u05d5\u05ea\u05d9\u05d0\u05d5\u05e8\u05d9\u05dd \u05e9\u05e0\u05d9\u05ea\u05df \u05dc\u05d7\u05e4\u05e9 \u05d1\u05d4\u05dd\n* \u05d2\u05d9\u05e9\u05d4 \u05dc\u05db\u05ea\u05d5\u05d1\u05d5\u05ea \u05de\u05e9\u05d5\u05d9\u05db\u05d5\u05ea \u05dc\u05d8\u05d5\u05d1\u05ea \u05ea\u05e8\u05d5\u05de\u05d4, \u05e7\u05d5\u05d3 \u05de\u05e7\u05d5\u05e8 \u05d5\u05db\u05d5\u05f3\n* \u05e9\u05de\u05d9\u05e8\u05d4 \u05e2\u05dc \u05d0\u05d1\u05d8\u05d7\u05ea \u05de\u05d9\u05d3\u05e2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d1\u05d3\u05d9\u05e7\u05ea \u05d7\u05ea\u05d9\u05de\u05d5\u05ea \u05de\u05e4\u05ea\u05d7 \u05d4\u05de\u05d0\u05d2\u05e8 \u05d5\u05d2\u05d9\u05d1\u05d5\u05d1\u05d9 APK\n",
-          "name": "F-Droid\u200e",
-          "summary": "\u05d7\u05e0\u05d5\u05ea \u05d4\u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05e0\u05d9\u05dd \u05e9\u05de\u05db\u05d1\u05d3\u05ea \u05d7\u05d5\u05e4\u05e9 \u05d5\u05e4\u05e8\u05d8\u05d9\u05d5\u05ea"
-        },
-        "hi": {
-          "name": "\u090f\u092b\u0921\u094d\u0930\u093e\u092f\u0921",
-          "summary": "\u0910\u092a \u0938\u094d\u091f\u094b\u0930 \u091c\u094b \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0914\u0930 \u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0915\u093e \u0938\u092e\u094d\u092e\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948"
-        },
-        "hr": {
-          "name": "F-Droid",
-          "summary": "Spremi\u0161te za programe koje po\u0161tuje slobodu i privatnost"
-        },
-        "hu": {
-          "description": "Az F-Droid telep\u00edthet\u0151 szabad szoftveres alkalmaz\u00e1sok katal\u00f3gusa. Az F-Droid kliensalkalmaz\u00e1s k\u00f6nny\u0171v\u00e9 teszi az alkalmaz\u00e1sok tall\u00f3z\u00e1s\u00e1t, telep\u00edt\u00e9s\u00e9t \u00e9s azok frissen tart\u00e1s\u00e1t az eszk\u00f6z\u00e9n.\n\nB\u00e1rmely F-Droiddal kompatibilis t\u00e1rol\u00f3hoz k\u00e9pes kapcsol\u00f3dni. Az alap\u00e9rtelmezett t\u00e1rol\u00f3 az f-droid.org-on tal\u00e1lhat\u00f3, \u00e9s csak val\u00f3ban szabad szoftvereket tartalmaz.\n\nMaga az Android abban az \u00e9rtelemben ny\u00edlt, hogy szabadon telep\u00edthet APK-kat, ahonnan csak szeretne, de sz\u00e1mos oka van annak, hogy az F-Droidot haszn\u00e1lja a szabad alkalmaz\u00e1skezel\u0151jek\u00e9nt:\n\n* Kapjon \u00e9rtes\u00edt\u00e9seket, ha friss\u00edt\u00e9sek \u00e9rhet\u0151k el\n* V\u00e1laszhat\u00f3 m\u00f3don t\u00f6lts\u00f6n le \u00e9s friss\u00edtsen automatikusan\n* K\u00f6vesse a r\u00e9gebbi \u00e9s b\u00e9ta verzi\u00f3kat\n* Sz\u0171rje ki az eszk\u00f6z\u00e9vel nem kompatibilis alkalmaz\u00e1sokat\n* Keressen alkalmaz\u00e1sokat kateg\u00f3ria \u00e9s le\u00edr\u00e1s alapj\u00e1n\n* \u00c9rje el az adom\u00e1nyoz\u00e1si URL-eket, forr\u00e1sk\u00f3dot, stb.\n* Maradjon biztons\u00e1gban a t\u00e1rol\u00f3index- \u00e9s APK-al\u00e1\u00edr\u00e1sokkal\n",
-          "name": "F-Droid",
-          "summary": "Az alkalmaz\u00e1sbolt, amely tiszteletben tartja a szabads\u00e1got \u00e9s az adatv\u00e9delmet"
-        },
-        "id": {
-          "description": "F-Droid adalah katalog perangkat lunak aplikasi\nbebas untuk Android. Aplikasi klien F-Droid membuatnya\nmudah untuk menelusuri, memasang, dan mengikuti pembaruan aplikasi yang ada di perangkat Anda.\n\nIni terhubung dengan semua repositori yang kompatibel dengan F-Droid. Repositori bawaan dihost di f-droid.org,\nyang hanya mengandung perangkat lunak bonafid bebas.\n\nAndroid sendiri terbuka jika Anda ingin mengunduh APK secara bebas.\ndari mana pun yang Anda ingin, tetapi ada beberapa alasan baik untuk menggunakan\nF-Droid sebagai aplikasi pengelola perangkat lunak bebas Anda.\n\n* Dapatkan pemberitahuan ketika pembaruan telah tersedia\n* Unduh dan instal aplikasi secara otomatis secara opsional\n* Ikuti versi lama dan beta dari aplikasi\n* Saring aplikasi yang tidak kompatibel dengan perangkat Anda\n* Temukan aplikasi melalui kategori dan deskripsi yang dapat dicari\n* Akses URL terkait untuk donasi, kode sumber, dll.\n* Tetap aman dengan memeriksa tandatangan indeks repo dan hash APK\n",
-          "name": "F-Droid",
-          "summary": "Toko aplikasi yang menghormati kebebasan dan privasi"
-        },
-        "is": {
-          "description": "F-Droid er uppsetjanlegt safn frj\u00e1lsra forrita fyrir\nAndroid. Sj\u00e1lft F-Droid forriti\u00f0 au\u00f0veldar a\u00f0 sko\u00f0a, setja upp\nog halda utan um uppf\u00e6rslur \u00e1 t\u00e6kinu \u00fe\u00ednu.\n\n\u00dea\u00f0 tengist vi\u00f0 hvert \u00fea\u00f0 hugb\u00fana\u00f0arsafn sem er samh\u00e6fanlegt\nvi\u00f0 F-Droid. Sj\u00e1lfgefna hugb\u00fana\u00f0arsafni\u00f0 er h\u00fdst \u00e1 f-droid.org,\nsem inniheldur einungis hreinan opinn og frj\u00e1lsan hugb\u00fana\u00f0.\n\nSj\u00e1lft Android-st\u00fdrikerfi\u00f0 er opi\u00f0 \u00ed \u00feeim skilningi a\u00f0 \u00fe\u00e9r er frj\u00e1lst\na\u00f0 setja upp APK-pakka hva\u00f0an sem \u00fe\u00e9r s\u00fdnist, en eftir sem \u00e1\u00f0ur\neru margar g\u00f3\u00f0ar \u00e1st\u00e6\u00f0ur fyrir \u00fev\u00ed a\u00f0 nota F-Droid fyrir almenna\nhugb\u00fana\u00f0arstj\u00f3rnun:\n\n* F\u00e1\u00f0u tilkynningar \u00feegar uppf\u00e6rslur eru gefnar \u00fat\n* M\u00f6gulegt er a\u00f0 s\u00e6kja og setja uppf\u00e6rslur upp sj\u00e1lfvirkt\n* Haltu utan um eldri \u00fatg\u00e1fur og pr\u00f3funar\u00fatg\u00e1fur\n* S\u00eda\u00f0u \u00fat forrit sem ekki eru samh\u00e6f\u00f0 t\u00e6kinu \u00fe\u00ednu\n* Finndu forrit eftir flokkum og leitanlegum l\u00fdsingum\n* Smelltu \u00e1 sl\u00f3\u00f0ir \u00e1 styrki til \u00fatgefenda, grunnk\u00f3\u00f0a o.s.frv.\n* Trygg\u00f0u \u00f6ryggi\u00f0 me\u00f0 \u00fev\u00ed a\u00f0 athuga undirritanir hugb\u00fana\u00f0arsafna og g\u00e1tsummur APK-pakka\n",
-          "name": "F-Droid",
-          "summary": "Forritasafni\u00f0 sem vir\u00f0ir frelsi og gagnaleynd"
-        },
-        "it": {
-          "description": "F-Droid \u00e8 un catalogo di applicazioni installabili libere\ne open source per Android. L'app F-Droid rende facile sfogliare,\ninstallare e tenere traccia degli aggiornamenti nel tuo dispositivo.\n\nSi connette a qualsiasi repository compatibile con F-Droid. Quello predefinito\n\u00e8 ospitato su f-droid.org, contenente solo software libero in buona fede.\n\nAndroid stesso \u00e8 open nel senso che sei libero di installare APK\nda dovunque tu preferisca, ma ci sono diversi buoni motivi per usare\nF-Droid come gestore di app libere e open source:\n\n* Vieni avvisato quando sono disponibili aggiornamenti\n* Scarica e installa automaticamente gli aggiornamenti (facoltativo)\n* Tiene traccia delle versioni obsolete e beta\n* Esclude le app non compatibili con il dispositivo\n* Trova le app tramite categorie e descrizioni ricercabili\n* Accedi ad URL correlati per donazioni, codice sorgente, ecc.\n* Resta al sicuro controllando le firme dei repo e gli hash degli APK\n",
-          "name": "F-Droid",
-          "summary": "L'app store che rispetta la libert\u00e0 e la privacy"
-        },
-        "ja": {
-          "description": "F-Droid\u306f\u3001Android\u5411\u3051\u306e\u81ea\u7531\u306a\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a2\u30d7\u30ea\u306e\u30ab\u30bf\u30ed\u30b0\u3067\u3059\u3002\nF-Droid\u30a2\u30d7\u30ea\u306f\u3001\u7c21\u5358\u306b\u691c\u7d22\u3001\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3001\u304a\u3088\u3073\u66f4\u65b0\u306e\u8ffd\u8de1\u304c\n\u7aef\u672b\u4e0a\u3067\u51fa\u6765\u307e\u3059\u3002\n\n\u3059\u3079\u3066\u306eF-Droid\u3068\u4e92\u63db\u6027\u306e\u3042\u308b\u30ea\u30dd\u30b8\u30c8\u30ea\u306b\u63a5\u7d9a\u3057\u307e\u3059\u3002\u65e2\u5b9a\u306e\u30ea\u30dd\u30b8\u30c8\u30ea\u306f\u3001\nf-droid.org\u306b\u3066\u30db\u30b9\u30c8\u3055\u308c\u3066\u3044\u3066\u3001\u5584\u610f\u306e\u81ea\u7531\u306a\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002\n\nAndroid\u81ea\u4f53\u304c\u30aa\u30fc\u30d7\u30f3\u306a\u306e\u3067\u3001APK\u3092\u3069\u3053\u304b\u3089\u3067\u3082\u81ea\u7531\u306b\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3067\u304d\u307e\u3059\u304c\u3001\n\u81ea\u7531\u306a\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306e\u30a2\u30d7\u30ea\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u3068\u3057\u3066F-Droid\u3092\u4f7f\u7528\u3059\u308b\u591a\u304f\u306e\n\u826f\u3044\u7406\u7531\u304c\u3042\u308a\u307e\u3059\u3002\n\n* \u66f4\u65b0\u304c\u5229\u7528\u53ef\u80fd\u306a\u3068\u304d\u306b\u901a\u77e5\u3057\u307e\u3059\n* \u5fc5\u8981\u306b\u5fdc\u3058\u3066\u81ea\u52d5\u7684\u306b\u66f4\u65b0\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u3001\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u307e\u3059 \n* \u53e4\u3044\u30d0\u30fc\u30b8\u30e7\u30f3\u3084\u30d9\u30fc\u30bf\u7248\u3092\u8ffd\u8de1\u3057\u307e\u3059\n* \u30c7\u30d0\u30a4\u30b9\u3068\u4e92\u63db\u6027\u306e\u306a\u3044\u30a2\u30d7\u30ea\u3092\u30d5\u30a3\u30eb\u30bf\u30ea\u30f3\u30b0\u3057\u307e\u3059\n* \u30ab\u30c6\u30b4\u30ea\u30fc\u3084\u691c\u7d22\u53ef\u80fd\u306a\u8aac\u660e\u3092\u4f7f\u7528\u3057\u3066\u30a2\u30d7\u30ea\u3092\u691c\u7d22\u3057\u307e\u3059\n* \u95a2\u9023\u4ed8\u3051\u3089\u308c\u3066\u3044\u308b\u5bc4\u4ed8\u306e URL\u3001\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u306a\u3069\u306b\u30a2\u30af\u30bb\u30b9\u3057\u307e\u3059\n* \u30ea\u30dd\u30b8\u30c8\u30ea\u306e\u30a4\u30f3\u30c7\u30c3\u30af\u30b9\u7f72\u540d\u3001APK \u306e\u30cf\u30c3\u30b7\u30e5\u3092\u30c1\u30a7\u30c3\u30af\u3057\u3066\u5b89\u5168\u3092\u5b88\u308a\u307e\u3059\n",
-          "name": "F-Droid",
-          "summary": "\u81ea\u7531\u3068\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u3092\u5c0a\u91cd\u3059\u308b\u30a2\u30d7\u30ea\u30b9\u30c8\u30a2"
-        },
-        "kab": {
-          "name": "F-Droid",
-          "summary": "Ta\u1e25anut n yisnasen i yettqadaren tilelli d tba\u1e0dnit"
-        },
-        "ko": {
-          "name": "F-Droid",
-          "summary": "\uc790\uc720\uc640 \uac1c\uc778\uc815\ubcf4 \ubcf4\ud638\ub97c \uc874\uc911\ud558\ub294 \uc571 \uc2a4\ud1a0\uc5b4"
-        },
-        "lt": {
-          "name": "F-Droid",
-          "summary": "Program\u0117li\u0173 parduotuv\u0117, kuri gerbia laisves ir privatum\u0105"
-        },
-        "mr": {
-          "name": "\u090f\u092b-\u0921\u094d\u0930\u0949\u0908\u0921",
-          "summary": "\u0905\u0938\u093e \u0905\u0928\u0941\u092a\u094d\u0930\u092f\u094b\u0917 \u0938\u0902\u0917\u094d\u0930\u0939 \u091c\u094b \u0938\u094d\u0935\u093e\u0924\u0902\u0924\u094d\u0930\u094d\u092f \u0906\u0923\u093f \u0917\u094b\u092a\u0928\u0940\u092f\u0924\u0947\u091a\u093e \u0906\u0926\u0930 \u0915\u0930\u0924\u094b"
-        },
-        "my": {
-          "name": "F-Droid",
-          "summary": "\u101c\u103d\u1010\u103a\u101c\u1015\u103a\u1019\u103e\u102f\u1014\u1032\u1037\u1000\u102d\u102f\u101a\u103a\u101b\u1031\u1038\u1000\u102d\u102f\u101a\u103a\u1010\u102c\u1000\u102d\u102f \u1021\u101c\u1031\u1038\u1011\u102c\u1038\u1010\u1032\u1037 \u1021\u1000\u103a\u1015\u103a\u1005\u1010\u102d\u102f\u1038"
-        },
-        "nb": {
-          "description": "F-Droid er en installerbar katalog av fri programvare for Android.\nKlienten gj\u00f8r det enkelt \u00e5 utforske, installere og holde oppsyn med oppdateringer p\u00e5 din enhet.\n\nTilkobling blir gjort til enhver F-Droid-kompatibel pakkebr\u00f8nn.\nVertskap for den offisielle pakkebr\u00f8nnen er f-droid.org, som kun inneholder fri programvare.\n\nAndroid i seg selv er \u00e5pent i den utstrekning at du kan installere APK-er selv fra der du m\u00e5tte \u00f8nske, men det er mange gode grunner til \u00e5 bruke F-Droid som din friprog-pakkebehandler:\n\n* F\u00e5 beskjed n\u00e5r nye oppdateringer er tilgjengelige\n* Valgfri nedlasting og automatisk installasjon\n* Hold oppsyn med gamle versjoner og betaversjoner\n* Filtrer programmer som ikke er kompatible med enheten\n* Finn programmer via kategorier og s\u00f8kbare beskrivelser\n* Tilgang til tilknyttede nettadresser for donasjoner, kildekode osv.\n* Hold deg trygg ved \u00e5 sjekke pakkebr\u00f8nnsindeksen signaturer og APK-sjekksummer\n",
-          "name": "F-Droid",
-          "summary": "Programbutikken som respekterer frihet og personvern"
-        },
-        "nl": {
-          "name": "F-Droid",
-          "summary": "De appwinkel die je vrijheid en privacy respecteert"
-        },
-        "nn": {
-          "description": "F-Droid er ein installerbar katalog over fri programvare for Android. Med F-Droid-klientappen kan du enkelt finna, installera og oppdatera appar p\u00e5 eininga di.\n\nDu kan kopla appen til alle F-Droid-kompatible pakke\u00adbr\u00f8nnar. Standard\u00adbr\u00f8nnane ligg p\u00e5 f-droid.org og inneheld berre heilt fri programvare.\n\nAndroid er ei open plattform, der du fritt kan installera appar via APK-filer du lastar ned, men det finst fleire gode grunnar til \u00e5 bruka F-Droid til app\u00adbiblioteket ditt. Du kan:\n\n* F\u00e5 varslingar n\u00e5r det finst nye versjonane av appane\n* Velja \u00e5 f\u00e5 oppdateringar lasta ned og installert automatisk\n* Ta vare p\u00e5 eldre versjonar og betaversjonar av appane\n* Filtrera ut appar som ikkje er kompatible med eininga\n* Finna appar via kategoriar eller s\u00f8k i appskildringane\n* F\u00e5 direkte tilgang til nettsider for pengeg\u00e5ver eller kjeldekode til appane\n* Auka tryggleik ved automatisk kontroll av pakkebr\u00f8nn\u00adsignaturar og kontrollsummar for APK-filer\n",
-          "name": "F-Droid",
-          "summary": "Appbutikken som respekterer fridommen din og personvernet ditt"
-        },
-        "pa": {
-          "description": "F-Droid \u0a10\u0a02\u0a21\u0a30\u0a4c\u0a07\u0a21 \u0a32\u0a08 \u0a2e\u0a41\u0a2b\u0a24 \u0a38\u0a3e\u0a2b\u0a1f\u0a35\u0a47\u0a05\u0a30 \u0a10\u0a2a\u0a38 \u0a26\u0a40 \u0a07\u0a71\u0a15 \u0a38\u0a25\u0a3e\u0a2a\u0a28\u0a3e\u0a2f\u0a4b\u0a17 \u0a15\u0a48\u0a1f\u0a3e\u0a32\u0a3e\u0a17 \u0a39\u0a48\u0964 F-Droid \u0a15\u0a32\u0a3e\u0a07\u0a70\u0a1f \u0a10\u0a2a \u0a24\u0a41\u0a39\u0a3e\u0a21\u0a40 \u0a21\u0a3f\u0a35\u0a3e\u0a08\u0a38 '\u0a24\u0a47 \u0a05\u0a71\u0a2a\u0a21\u0a47\u0a1f \u0a28\u0a42\u0a70 \u0a2c\u0a4d\u0a30\u0a3e\u0a0a\u0a1c\u0a3c \u0a15\u0a30\u0a28\u0a3e, \u0a38\u0a25\u0a3e\u0a2a\u0a24 \u0a15\u0a30\u0a28\u0a3e \u0a05\u0a24\u0a47 \u0a09\u0a39\u0a28\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a1f\u0a30\u0a48\u0a15 \u0a15\u0a30\u0a28\u0a3e \u0a06\u0a38\u0a3e\u0a28 \u0a2c\u0a23\u0a3e\u0a09\u0a02\u0a26\u0a3e \u0a39\u0a48\u0964\n\n\u0a07\u0a39 \u0a15\u0a3f\u0a38\u0a47 \u0a35\u0a40 F-Droid \u0a05\u0a28\u0a41\u0a15\u0a42\u0a32 \u0a30\u0a3f\u0a2a\u0a4b\u0a1c\u0a3c\u0a1f\u0a30\u0a40\u0a06\u0a02 \u0a28\u0a3e\u0a32 \u0a1c\u0a41\u0a5c\u0a26\u0a3e \u0a39\u0a48\u0964 \u0a21\u0a3f\u0a2b\u0a4c\u0a32\u0a1f \u0a30\u0a48\u0a2a\u0a4b f-droid.org '\u0a24\u0a47 \u0a39\u0a4b\u0a38\u0a1f \u0a15\u0a40\u0a24\u0a3e \u0a17\u0a3f\u0a06 \u0a39\u0a48, \u0a1c\u0a3f\u0a38 \u0a35\u0a3f\u0a71\u0a1a \u0a38\u0a3f\u0a30\u0a2b\u0a3c \u0a2c\u0a4b\u0a28\u0a3e \u0a2b\u0a3e\u0a08\u0a21 \u0a32\u0a3f\u0a2c\u0a30 \u0a38\u0a4c\u0a2b\u0a1f\u0a35\u0a47\u0a05\u0a30 \u0a38\u0a3c\u0a3e\u0a2e\u0a32 \u0a39\u0a28\u0964 \u0a10\u0a02\u0a21\u0a30\u0a4c\u0a07\u0a21 \u0a06\u0a2a\u0a23\u0a47 \u0a06\u0a2a \u0a35\u0a3f\u0a71\u0a1a \u0a07\u0a38 \u0a05\u0a30\u0a25 \u0a35\u0a3f\u0a71\u0a1a \u0a16\u0a41\u0a71\u0a32\u0a4d\u0a39\u0a3e \u0a39\u0a48 \u0a15\u0a3f \u0a24\u0a41\u0a38\u0a40\u0a02 \u0a06\u0a2a\u0a23\u0a40 \u0a2e\u0a30\u0a1c\u0a3c\u0a40 \u0a24\u0a4b\u0a02 \u0a15\u0a3f\u0a24\u0a47 \u0a35\u0a40 \u0a0f\u0a2a\u0a40\u0a15\u0a47 \u0a38\u0a25\u0a3e\u0a2a\u0a24 \u0a15\u0a30\u0a28 \u0a32\u0a08 \u0a38\u0a41\u0a24\u0a70\u0a24\u0a30 \u0a39\u0a4b, \u0a2a\u0a30 \u0a24\u0a41\u0a39\u0a3e\u0a21\u0a47 \u0a32\u0a3f\u0a2c\u0a30 \u0a38\u0a4c\u0a2b\u0a1f\u0a35\u0a47\u0a05\u0a30 \u0a10\u0a2a \u0a2e\u0a48\u0a28\u0a47\u0a1c\u0a30 \u0a35\u0a1c\u0a4b\u0a02 F-Droid \u0a26\u0a40 \u0a35\u0a30\u0a24\u0a4b\u0a02 \u0a15\u0a30\u0a28 \u0a26\u0a47 \u0a2c\u0a39\u0a41\u0a24 \u0a38\u0a3e\u0a30\u0a47 \u0a1a\u0a70\u0a17\u0a47 \u0a15\u0a3e\u0a30\u0a28 \u0a39\u0a28:\n\n* \u0a05\u0a71\u0a2a\u0a21\u0a47\u0a1f \u0a09\u0a2a\u0a32\u0a2c\u0a27 \u0a39\u0a4b\u0a23 '\u0a24\u0a47 \u0a38\u0a42\u0a1a\u0a28\u0a3e \u0a2a\u0a4d\u0a30\u0a3e\u0a2a\u0a24 \u0a15\u0a30\u0a4b * \u0a35\u0a3f\u0a15\u0a32\u0a2a\u0a3f\u0a15 \u0a24\u0a4c\u0a30 '\u0a24\u0a47 \u0a05\u0a2a\u0a21\u0a47\u0a1f\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a06\u0a2a\u0a23\u0a47 \u0a06\u0a2a \u0a21\u0a3e\u0a0a\u0a28\u0a32\u0a4b\u0a21 \u0a05\u0a24\u0a47 \u0a38\u0a25\u0a3e\u0a2a\u0a3f\u0a24 \u0a15\u0a30\u0a4b\n* \u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a47 \u0a05\u0a24\u0a47 \u0a2c\u0a40\u0a1f\u0a3e \u0a38\u0a70\u0a38\u0a15\u0a30\u0a23\u0a3e\u0a02 '\u0a24\u0a47 \u0a28\u0a1c\u0a3c\u0a30 \u0a30\u0a71\u0a16\u0a4b * \u0a21\u0a3f\u0a35\u0a3e\u0a08\u0a38 \u0a26\u0a47 \u0a28\u0a3e\u0a32 \u0a05\u0a38\u0a70\u0a17\u0a24 \u0a10\u0a2a\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a2b\u0a3f\u0a32\u0a1f\u0a30 \u0a15\u0a30\u0a4b\n* \u0a38\u0a3c\u0a4d\u0a30\u0a47\u0a23\u0a40\u0a06\u0a02 \u0a05\u0a24\u0a47 \u0a16\u0a4b\u0a1c\u0a23\u0a2f\u0a4b\u0a17 \u0a35\u0a30\u0a23\u0a28 \u0a30\u0a3e\u0a39\u0a40\u0a02 \u0a10\u0a2a\u0a38 \u0a32\u0a71\u0a2d\u0a4b\n* \u0a26\u0a3e\u0a28, \u0a38\u0a30\u0a4b\u0a24 \u0a15\u0a4b\u0a21 \u0a06\u0a26\u0a3f \u0a32\u0a08 \u0a38\u0a70\u0a2c\u0a70\u0a27\u0a3f\u0a24 URL \u0a24\u0a71\u0a15 \u0a2a\u0a39\u0a41\u0a70\u0a1a \u0a15\u0a30\u0a4b\u0964\n* \u0a30\u0a48\u0a2a\u0a4b \u0a07\u0a70\u0a21\u0a48\u0a15\u0a38 \u0a39\u0a38\u0a24\u0a3e\u0a16\u0a30\u0a3e\u0a02 \u0a05\u0a24\u0a47 \u0a0f\u0a2a\u0a40\u0a15\u0a47 \u0a39\u0a48\u0a38\u0a3c\u0a3e\u0a02 \u0a26\u0a40 \u0a1c\u0a3e\u0a02\u0a1a \u0a15\u0a30\u0a15\u0a47 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a05\u0a24 \u0a30\u0a39\u0a4b\n",
-          "name": "\u0a10\u0a2b\u0a21\u0a30\u0a3e\u0a07\u0a21",
-          "summary": "\u0a10\u0a2a \u0a38\u0a1f\u0a4b\u0a30 \u0a1c\u0a4b \u0a06\u0a1c\u0a3c\u0a3e\u0a26\u0a40 \u0a05\u0a24\u0a47 \u0a17\u0a4b\u0a2a\u0a28\u0a40\u0a2f\u0a24\u0a3e \u0a26\u0a3e \u0a38\u0a28\u0a2e\u0a3e\u0a28 \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a48"
-        },
-        "pa-PK": {
-          "name": "\u0627\u06cc\u0641\u200c\u0688\u0631\u0648\u0626\u06cc\u0688"
+          "summary": "\u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05df \u05d4\u05dc\u05e7\u05d5\u05d7 \u05d4\u05de\u05d6\u05e2\u05e8\u05d9 \u05dc\u05d7\u05e0\u05d5\u05ea \u05d9\u05d9\u05e9\u05d5\u05de\u05d5\u05e0\u05d9\u05dd \u05e9\u05de\u05db\u05d1\u05d3 \u05d7\u05d5\u05e4\u05e9 \u05d5\u05e4\u05e8\u05d8\u05d9\u05d5\u05ea"
         },
         "pl": {
-          "description": "F-Droid jest katalogiem wolnego oprogramowania dla Androida. Aplikacja kliencka F-Droid u\u0142atwia przegl\u0105danie, instalowanie i \u015bledzenie aktualizacji na urz\u0105dzeniu.\n\n\u0141\u0105czy si\u0119 z dowolnymi repozytoriami kompatybilnymi z F-Droid. Domy\u015blne repozytorium jest hostowane na f-droid.org, kt\u00f3re zawiera tylko wolne oprogramowanie.\n\nAndroid jest otwarty w tym sensie, \u017ce mo\u017cesz zainstalowa\u0107 APK z dowolnego miejsca, ale istnieje wiele dobrych powod\u00f3w, aby u\u017cy\u0107 F-Droid jako mened\u017cera wolnych aplikacji:\n\n* Otrzymuj powiadomienia o dost\u0119pnych aktualizacjach\n* Opcjonalne pobieraj i instaluj aktualizacje automatycznie\n* \u015aled\u017a starsze wersje oraz wersje beta\n* Filtruj aplikacje niezgodne z urz\u0105dzeniem\n* Znajduj aplikacje za pomoc\u0105 kategorii i przeszukiwalnych opis\u00f3w\n* Uzyskaj dost\u0119p do powi\u0105zanych adres\u00f3w URL dla darowizn, kodu \u017ar\u00f3d\u0142owego itd.\n* B\u0105d\u017a bezpieczny, sprawdzaj\u0105c sygnatury indeks\u00f3w repozytorium i sumy kontrolne APK\n",
-          "name": "F-Droid",
-          "summary": "Sklep z aplikacjami szanuj\u0105cy wolno\u015b\u0107 i prywatno\u015b\u0107"
+          "summary": "Minimalistyczna apka kliencka dla sklepu z apkami szanuj\u0105ca wolno\u015b\u0107 i prywatno\u015b\u0107"
         },
         "pt": {
-          "description": "F-Droid \u00e9 um cat\u00e1logo de aplica\u00e7\u00f5es de software livre que se podem instalar no Android. A aplica\u00e7\u00e3o-cliente F-Droid facilita a descoberta, instala\u00e7\u00e3o e gest\u00e3o das atualiza\u00e7\u00f5es no seu dispositivo.\n\nEsta conecta-se a qualquer reposit\u00f3rio compat\u00edvel com o F-Droid. O reposit\u00f3rio predefinido encontra-se em f-droid.org, que cont\u00e9m apenas software livre e de boa-f\u00e9 (bona fide).\n\nO Android em si \u00e9 aberto no sentido de que qualquer pessoa tem liberdade para instalar APKs de qualquer origem que desejar, mas h\u00e1 muitas boas raz\u00f5es para usar o F-Droid como o seu gestor de software livre:\n\n* Ser notificado quando as atualiza\u00e7\u00f5es estiverem dispon\u00edveis\n* Opcionalmente, transferir e instalar automaticamente as atualiza\u00e7\u00f5es\n* Opcionalmente, instalar as vers\u00f5es mais antigas e vers\u00f5es em teste (beta) das aplica\u00e7\u00f5es\n* Ocultar aplica\u00e7\u00f5es incompat\u00edveis com o seu dispositivo\n* Encontrar aplica\u00e7\u00f5es atrav\u00e9s de categorias e descri\u00e7\u00f5es pesquis\u00e1veis\n* Aceder aos sites relacionados com a aplica\u00e7\u00e3o: donativos, acesso ao c\u00f3digo-fonte, ao site, ao site de desenvolvimento para reportar problemas, etc.\n* Manter-se seguro, verificando as assinaturas do \u00edndice do reposit\u00f3rio e hashes do APK\n",
-          "name": "F-Droid",
-          "summary": "A loja de aplica\u00e7\u00f5es que respeita a liberdade e a privacidade"
+          "summary": "App cliente m\u00ednima para a loja de apps que respeita a liberdade e a privacidade"
         },
         "pt-BR": {
-          "description": "O F-Droid \u00e9 um cat\u00e1logo instal\u00e1vel de aplicativos de software livre para Android. O aplicativo cliente F-Droid facilita a navega\u00e7\u00e3o,\ninstala\u00e7\u00e3o e acompanhamento de atualiza\u00e7\u00f5es no seu dispositivo.\n\nEle se conecta a qualquer reposit\u00f3rio compat\u00edvel com o F-Droid. O reposit\u00f3rio padr\u00e3o \u00e9 hospedado no f-droid.org, que cont\u00e9m apenas software livre de boa-f\u00e9.\n\nO Android em si \u00e9 aberto no sentido de que voc\u00ea \u00e9 livre para instalar APKs de qualquer lugar que desejar, mas h\u00e1 muitas boas\nraz\u00f5es para usar o F-Droid como seu gerenciador de aplicativos\nde software livre:\n\n* Ser notificado quando atualiza\u00e7\u00f5es estiverem dispon\u00edveis\n* Opcionalmente, baixar e instalar atualiza\u00e7\u00f5es automaticamente\n* Manter rastro de vers\u00f5es antigas e betas\n* Filtrar aplicativos incompat\u00edveis com seu dispositivo\n* Localizar aplicativos por categorias e descri\u00e7\u00f5es pesquis\u00e1veis\n* Acessar URLs associadas para doa\u00e7\u00f5es, c\u00f3digo-fonte, etc.\n* Ficar seguro verificando as assinaturas do \u00edndice do reposit\u00f3rio e hashes de APK\n",
-          "name": "F-Droid",
-          "summary": "A loja de aplicativos que respeita a liberdade e a privacidade"
+          "summary": "O app cliente minimalista para a loja de apps que respeita a liberdade e a priva"
         },
         "pt-PT": {
-          "description": "F-Droid \u00e9 um cat\u00e1logo de apps instal\u00e1veis de software livre para Android. A app cliente F-Droid facilita a navega\u00e7\u00e3o, instala\u00e7\u00e3o e monitoriza\u00e7\u00e3o de atualiza\u00e7\u00f5es no seu aparelho.\n\nLiga-se a qualquer reposit\u00f3rio compat\u00edvel com o F-Droid. O reposit\u00f3rio predefinido encontra-se em f-droid.org, que cont\u00e9m apenas software livre de boa-f\u00e9.\n\nO Android \u00e9 aberto no sentido de que qualquer pessoa \u00e9 livre para instalar APKs de qualquer lugar que desejar, mas h\u00e1 muitas boas raz\u00f5es para usar o F-Droid como o seu gestor de software livre:\n\n* Ser notificado quando as atualiza\u00e7\u00f5es estiverem dispon\u00edveis\n* Opcionalmente, transferir e instalar automaticamente as atualiza\u00e7\u00f5es\n* Monitorizar as vers\u00f5es antigas e beta\n* Filtrar apps incompat\u00edveis com o aparelho\n* Encontrar apps via categorias e descri\u00e7\u00f5es pesquis\u00e1veis\n* Aceder aos URLs associados para doa\u00e7\u00f5es, c\u00f3digo-fonte, etc.\n* Mantenha-se seguro, verificando as assinaturas do \u00edndice do reposit\u00f3rio e hashes do APK\n",
-          "name": "F-Droid",
-          "summary": "A loja de aplica\u00e7\u00f5es que respeita a liberdade e a privacidade"
+          "summary": "App cliente m\u00ednima para a loja de apps que respeita a liberdade e a privacidade"
         },
         "ro": {
-          "description": "F-Droid este un catalog instalabil de aplica\u021bii libere pentru Android. Aplica\u021bia client F-Droid faciliteaz\u0103 navigarea, instalarea \u0219i urm\u0103rirea actualiz\u0103rilor pe dispozitivul dumneavoastr\u0103.\n\nAceasta se conecteaz\u0103 la orice depozit compatibil F-Droid. Depozitulul implicit este g\u0103zduit la f-droid.org, \u0219i con\u021bine numai aplica\u021bii libere de bun\u0103 credin\u021b\u0103.\n\nAndroid \u00een sine este deschis, \u00een sensul c\u0103 sunte\u021bi liber s\u0103 instala\u021bi APK-uri de oriunde dori\u021bi, dar exist\u0103 multe motive \u00eentemeiate pentru a folosi F-Droid ca manager de aplica\u021bii libere:\n\n* Primi\u021bi notific\u0103ri atunci c\u00e2nd sunt disponibile actualiz\u0103ri\n* Desc\u0103rca\u021bi \u0219i instala\u021bi op\u021bional actualiz\u0103ri \u00een mod automat\n* \u021aine\u021bi eviden\u021ba versiunilor mai vechi \u0219i beta\n* Filtra\u021bi aplica\u021biile incompatibile cu dispozitivul\n* G\u0103si\u021bi aplica\u021biile prin intermediul categoriilor \u0219i descrierilor care pot fi c\u0103utate\n* Accesa\u021bi adresele asociate pentru dona\u021bii, codul surs\u0103 etc.\n* R\u0103m\u00e2ne\u021bi \u00een siguran\u021b\u0103 prin verificarea semn\u0103turilor indexurilor depozitelor \u0219i a ha\u0219urilor APK\n",
-          "name": "F-Droid",
-          "summary": "Magazinul de aplica\u021bii ce respect\u0103 libertatea \u0219i intimitatea"
+          "summary": "Client minim pentru magazinul de aplica\u021bii ce respect\u0103 libertatea \u0219i intimitatea"
         },
         "ru": {
-          "description": "F-Droid - \u044d\u0442\u043e \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0434\u043b\u044f Android. \u0421 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f F-Droid \u043c\u043e\u0436\u043d\u043e \u043b\u0435\u0433\u043a\u043e \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c, \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c \u0438 \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u0442\u044c \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435.\n\n\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u043a \u043b\u044e\u0431\u044b\u043c \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f\u043c, \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u044b\u043c \u0441 F-Droid. \u041f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439 f-droid.org, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0434\u043b\u0438\u043d\u043d\u043e \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0435 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435.\n\n\u0421\u0430\u043c Android \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0432 \u0442\u043e\u043c \u0441\u043c\u044b\u0441\u043b\u0435, \u0447\u0442\u043e \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c APK-\u0444\u0430\u0439\u043b\u044b \u043e\u0442\u043a\u0443\u0434\u0430 \u0443\u0433\u043e\u0434\u043d\u043e, \u043d\u043e \u0435\u0441\u0442\u044c \u043c\u043d\u043e\u0433\u043e \u0432\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0438\u0447\u0438\u043d \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f F-Droid \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u0430 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439:\n\n* \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439 \u043e \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0439\n* \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0439\n* \u041e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0443\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0438\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0438 \u0431\u0435\u0442\u0430-\u0432\u0435\u0440\u0441\u0438\u0439\n* \u0424\u0438\u043b\u044c\u0442\u0440\u0430\u0446\u0438\u044f \u043d\u0435\u0441\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u044b\u0445 \u0441 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439\n* \u041f\u043e\u0438\u0441\u043a \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u043f\u043e \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f\u043c \u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u044f\u043c\n* \u0414\u043e\u0441\u0442\u0443\u043f \u043a \u0430\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c URL \u0434\u043b\u044f \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439, \u0438\u0441\u0445\u043e\u0434\u043d\u043e\u0433\u043e \u043a\u043e\u0434\u0430 \u0438 \u0442.\u0434.\n* \u041e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u043f\u0443\u0442\u0435\u043c \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438 \u043f\u043e\u0434\u043f\u0438\u0441\u0435\u0439 \u0438\u043d\u0434\u0435\u043a\u0441\u0430 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0435\u0432 \u0438 \u0445\u044d\u0448\u0435\u0439 APK\n",
-          "name": "F-Droid",
-          "summary": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439, \u0443\u0432\u0430\u0436\u0430\u044e\u0449\u0438\u0439 \u0441\u0432\u043e\u0431\u043e\u0434\u0443 \u0438 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c"
+          "summary": "\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439, \u0443\u0432\u0430\u0436\u0430\u044e\u0449\u0438\u0439 \u0441\u0432\u043e\u0431\u043e\u0434\u0443 \u0438 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u044c"
         },
-        "sc": {
-          "name": "F-Droid",
-          "summary": "Sa butega de aplicatziones chi rispetat sa libertade e sa riservadesa"
-        },
-        "si": {
-          "name": "\u0d91\u0dc6\u0dca-\u0da9\u0dca\u200d\u0dbb\u0ddc\u0dba\u0dd2\u0da9\u0dca",
-          "summary": "\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0da7 \u0dc3\u0dc4 \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a\u0dad\u0dca\u0dc0\u0dba\u0da7 \u0d9c\u0dbb\u0dd4 \u0d9a\u0dbb\u0db1 \u0dba\u0dd9\u0daf\u0dd4\u0db8\u0dca \u0d9c\u0db6\u0da9\u0dcf\u0dc0"
-        },
-        "sk": {
-          "name": "F-Droid",
-          "summary": "Obchod s aplik\u00e1ciami, ktor\u00fd re\u0161pektuje slobodu a s\u00fakromie"
-        },
-        "sl": {
-          "name": "F-Droid",
-          "summary": "Trgovina z aplikacijami, ki spo\u0161tuje svobodo in zasebnost"
-        },
-        "sq": {
-          "description": "F-Droid \u00ebsht\u00eb nj\u00eb katalog i instaluesh\u00ebm aplikacionesh software-i\nt\u00eb lir\u00eb p\u00ebr Android. Aplikacioni klient p\u00ebr F-Droid e b\u00ebn t\u00eb leht\u00eb\nshfletimin, instalimin dhe ndjekjen e p\u00ebrdit\u00ebsimeve n\u00eb pajisjen tuaj.\n\nLidhet me \u00e7far\u00ebdo deposh t\u00eb p\u00ebrputhshme me F-Droid. Depoja\nparazgjedhje strehohet te f-droid.org, e cila p\u00ebrmban vet\u00ebm software\nt\u00eb lir\u00eb <em>bona fide</em>.\n\nAndroid-i vet\u00eb \u00ebsht\u00eb i hapur, n\u00eb kuptimin q\u00eb jeni t\u00eb lir\u00eb t\u00eb instaloni\nAPK-ra prej nga t\u00eb doni, por ka disa arsye t\u00eb mira p\u00ebr p\u00ebrdorimin\ne F-Droid-it si p\u00ebrgjegj\u00ebsin tuaj t\u00eb aplikacioneve software i lir\u00eb,\np\u00ebrmes t\u00eb cilit mund t\u00eb:\n\n* Merrni njoftime kur ka p\u00ebrdit\u00ebsime gati\n* Shkarkoni dhe instaloni automatikisht p\u00ebrdit\u00ebsime, n\u00eb da\u00e7i\n* Ndiqni versione t\u00eb dikursh\u00ebm ose beta\n* Lini jasht\u00eb aplikacione t\u00eb pap\u00ebrputhsh\u00ebm me pajisjen\n* Gjeni aplikacione p\u00ebrmes kategorish dhe p\u00ebrshkrimesh t\u00eb k\u00ebrkuesh\u00ebm\n* T\u00eb p\u00ebrdorni URL shoq\u00ebruese, p\u00ebr dhurime, kod burim, etj.\n* T\u00eb jini t\u00eb parrezikr, p\u00ebrmes marrjesh n\u00ebnshkrimet treguesish\ndeposh dhe hashesh APK-sh\n",
-          "name": "F-Droid",
-          "summary": "Depoja e aplikacioneve q\u00eb respekton lirin\u00eb dhe privat\u00ebsin\u00eb"
-        },
-        "sr": {
-          "description": "F-Droid \u0458\u0435 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u0441\u043b\u043e\u0431\u043e\u0434\u043d\u043e\u0433 \u0441\u043e\u0444\u0442\u0432\u0435\u0440\u0430 \u0437\u0430 Android.\n\u0423\u0437 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0443 F-Droid \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u0430 \u043b\u0430\u043a\u043e\u045b\u043e\u043c \u0434\u0430 \u043f\u0440\u0435\u0433\u043b\u0435\u0434\u0430\u0442\u0435,\n\u0438\u043d\u0441\u0442\u0430\u043b\u0438\u0440\u0430\u0442\u0435 \u0438 \u0430\u0436\u0443\u0440\u0438\u0440\u0430\u0442\u0435 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0435 \u043d\u0430 \u0441\u0432\u043e\u043c \u0443\u0440\u0435\u0452\u0430\u0458\u0443.\n\n\u041c\u043e\u0433\u0443\u045b\u0435 \u0458\u0435 \u043f\u043e\u0432\u0435\u0437\u0438\u0432\u0430\u045a\u0435 \u0441\u0430 \u0431\u0438\u043b\u043e \u043a\u043e\u0458\u0438\u043c \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0458\u0443\u043c\u043e\u043c \u043a\u043e\u0458\u0438 \u0458\u0435 \u043a\u043e\u043c\u043f\u0430\u0442\u0438\u0431\u0438\u043b\u0430\u043d \u0441\u0430 F-Droid-\u043e\u043c.\n\u041f\u043e\u0434\u0440\u0430\u0437\u0443\u043c\u0435\u0432\u0430\u043d\u043e \u0441\u0435 \u043a\u043e\u0440\u0438\u0441\u0442\u0438 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0458\u0443\u043c \u043d\u0430 f-droid.org, \u043a\u043e\u0458\u0438 \u0441\u0430\u0434\u0440\u0436\u0438 \u0441\u0430\u043c\u043e \u0441\u043b\u043e\u0431\u043e\u0434\u0430\u043d \u0441\u043e\u0444\u0442\u0432\u0435\u0440.\n\nAndroid \u0458\u0435 \u0441\u0430\u043c \u043f\u043e \u0441\u0435\u0431\u0438 \u043e\u0442\u0432\u043e\u0440\u0435\u043d \u0443 \u0441\u043c\u0438\u0441\u043b\u0443 \u0434\u0430 \u0458\u0435 \u043c\u043e\u0433\u0443\u045b\u0435 \u0438\u043d\u0441\u0442\u0430\u043b\u0438\u0440\u0430\u0442\u0438 APK-\u043e\u0432\u0435 \u043e\u0434\u0430\u043a\u043b\u0435 \u0436\u0435\u043b\u0438\u0442\u0435,\n\u0430\u043b\u0438 \u0443 \u043d\u0430\u0441\u0442\u0430\u0432\u043a\u0443 \u0441\u0443 \u0441\u0432\u0435 \u043f\u043e\u0433\u043e\u0434\u043d\u043e\u0441\u0442\u0438 \u043a\u043e\u0440\u0438\u0448\u045b\u0435\u045a\u0430 F-Droid-\u0430 \u043a\u0430\u043e \u043c\u0435\u043d\u0430\u045f\u0435\u0440\u0430 \u0441\u043b\u043e\u0431\u043e\u0434\u043d\u0438\u0445 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430:\n\n* \u041e\u0431\u0430\u0432\u0435\u0448\u0442\u0435\u045a\u0430 \u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u0438 \u0430\u0436\u0443\u0440\u0438\u0440\u0430\u045a\u0430\n* \u041c\u043e\u0433\u0443\u045b\u043d\u043e\u0441\u0442 \u0430\u0443\u0442\u043e\u043c\u0430\u0442\u0441\u043a\u043e\u0433 \u043f\u0440\u0435\u0443\u0437\u0438\u043c\u0430\u045a\u0430 \u0438 \u0438\u043d\u0441\u0442\u0430\u043b\u0438\u0440\u0430\u045a\u0430 \u0430\u0436\u0443\u0440\u0438\u0440\u0430\u045a\u0430\n* \u041f\u0440\u0430\u045b\u0435\u045a\u0435 \u0441\u0442\u0430\u0440\u0438\u0458\u0438\u0445 \u0438 \u0431\u0435\u0442\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430\n* \u0424\u0438\u043b\u0442\u0440\u0438\u0440\u0430\u045a\u0435 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u043a\u043e\u0458\u0435 \u043d\u0438\u0441\u0443 \u043a\u043e\u043c\u043f\u0430\u0442\u0438\u0431\u0438\u043b\u043d\u0435 \u0441\u0430 \u0443\u0440\u0435\u0452\u0430\u0458\u0435\u043c\n* \u041f\u0440\u0435\u0442\u0440\u0430\u0433\u0430 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u043f\u043e \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0458\u0430\u043c\u0430 \u0438 \u043e\u043f\u0438\u0441\u0438\u043c\u0430\n* \u041f\u0440\u0438\u0441\u0442\u0443\u043f \u043b\u0438\u043d\u043a\u043e\u0432\u0438\u043c\u0430 \u0437\u0430 \u0434\u043e\u043d\u0430\u0446\u0438\u0458\u0435, \u0438\u0437\u0432\u043e\u0440\u043d\u0438 \u043a\u00f4\u0434 \u0438\u0442\u0434.\n* \u041e\u0434\u0441\u0443\u0441\u0442\u0432\u043e \u0440\u0438\u0437\u0438\u043a\u0430 \u0437\u0430\u0445\u0432\u0430\u0459\u0443\u0458\u0443\u045b\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u0438 \u043f\u043e\u0442\u043f\u0438\u0441\u0430 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0458\u0443\u043c\u0430 \u0438 \u0445\u0435\u0448\u0435\u0432\u0438\u043c\u0430 APK-\u043e\u0432\u0430\n",
-          "name": "F-Droid",
-          "summary": "\u041f\u0440\u043e\u0434\u0430\u0432\u043d\u0438\u0446\u0430 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u043a\u043e\u0458\u0430 \u043f\u043e\u0448\u0442\u0443\u0458\u0435 \u0441\u043b\u043e\u0431\u043e\u0434\u0443 \u0438 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442"
-        },
-        "sv": {
-          "description": "F-Droid \u00e4r en installerbar katalog \u00f6ver libre programvaror\nf\u00f6r Android. F-Droid-klientappen g\u00f6r det det l\u00e4tt att\nbl\u00e4ddra, installera och h\u00e5lla reda p\u00e5 uppdateringar p\u00e5 enheten.\n\nDen ansluter till alla F-Droid kompatibla f\u00f6rr\u00e5d. Standard f\u00f6rr\u00e5det\n\u00e4r v\u00e4rd p\u00e5 f-droid.org som inneh\u00e5ller endast bona fide libre programvaror.\n\nAndroid sj\u00e4lv \u00e4r \u00f6ppen i den meningen att du \u00e4r fri att installera APK:er\nfr\u00e5n var du vill, men det finns m\u00e5nga goda sk\u00e4l att anv\u00e4nda\nF-Droid som din libre programhanterare:\n\n* F\u00e5 meddelande n\u00e4r uppdateringar \u00e4r tillg\u00e4ngliga\n* H\u00e4mta och installera uppdateringar automatiskt\n* H\u00e5ll koll p\u00e5 \u00e4ldre och betaversioner\n* Filtrera bort appar som inte \u00e4r kompatibla med enheten\n* Hitta appar via kategorier och s\u00f6kbara beskrivningar\n* Tillg\u00e5ng associerade webbadresser f\u00f6r donationer, k\u00e4llkod o.s.v.\n* H\u00e5ll dig s\u00e4ker genom att kontrollera f\u00f6rr\u00e5dindex-signaturer och APK-hashar\n",
-          "name": "F-Droid",
-          "summary": "App-lagringen som respekterar frihet och integritet"
-        },
-        "ta": {
-          "name": "\u0b8e\u0b83\u0baa\u0bcd-\u0b9f\u0bbf\u0bb0\u0bbe\u0baf\u0bcd\u0b9f\u0bc1",
-          "summary": "\u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba4\u0ba9\u0bbf\u0baf\u0bc1\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0b99\u0bcd\u0b95\u0bbe\u0b9f\u0bbf"
-        },
-        "te": {
-          "name": "F-Droid",
-          "summary": "\u0c38\u0c4d\u0c35\u0c47\u0c1a\u0c4d\u0c1b \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c17\u0c4b\u0c2a\u0c4d\u0c2f\u0c24\u0c28\u0c41 \u0c17\u0c4c\u0c30\u0c35\u0c3f\u0c02\u0c1a\u0c47 \u0c2f\u0c3e\u0c2a\u0c4d \u0c38\u0c4d\u0c1f\u0c4b\u0c30\u0c4d"
+        "sw": {
+          "summary": "Apu yenye vipengele vichache kwa ajili ya ghala la api linaloheshimu uhuru na fa"
         },
         "tr": {
-          "description": "F-Droid, Android i\u00e7in \u00f6zg\u00fcr yaz\u0131l\u0131m uygulamalar\u0131n\u0131n kurulabilir bir katalo\u011fudur. F-Droid istemci uygulamas\u0131, ayg\u0131t\u0131n\u0131zdaki g\u00fcncellemelere g\u00f6z atmay\u0131, onlar\u0131 kurmay\u0131 ve izlemeyi kolayla\u015ft\u0131r\u0131r.\n\nHerhangi bir F-Droid uyumlu depoya ba\u011flan\u0131r. \u00d6ntan\u0131ml\u0131 depo, yaln\u0131zca iyi niyetli \u00f6zg\u00fcr yaz\u0131l\u0131mlar\u0131 i\u00e7eren f-droid.org adresinde bar\u0131nd\u0131r\u0131lmaktad\u0131r.\n\nAndroid'in kendisi, APK'lar\u0131 istedi\u011finiz yerden kurmakta \u00f6zg\u00fcr oldu\u011funuz anlam\u0131nda a\u00e7\u0131kt\u0131r. Ancak \u00f6zg\u00fcr yaz\u0131l\u0131m uygulama y\u00f6neticiniz olarak F-Droid'i kullanman\u0131z i\u00e7in bir\u00e7ok iyi neden vard\u0131r:\n\n* G\u00fcncellemeler oldu\u011funda bildirim al\u0131n\n* \u0130ste\u011fe ba\u011fl\u0131 olarak g\u00fcncellemeleri otomatik olarak indirin ve kurun\n* Eski ve beta s\u00fcr\u00fcmlerini takip edin\n* Ayg\u0131t ile uyumlu olmayan uygulamalar\u0131 filtreleyin\n* Kategoriler ve aranabilir a\u00e7\u0131klamalar arac\u0131l\u0131\u011f\u0131yla uygulamalar\u0131 bulun\n* Ba\u011f\u0131\u015f, kaynak kodu vb. ile ili\u015fkili ba\u011flant\u0131lara eri\u015fin\n* Depo dizin imzalar\u0131n\u0131 ve APK hash'lerini denetleyerek g\u00fcvende kal\u0131n\n",
-          "name": "F-Droid",
-          "summary": "\u00d6zg\u00fcrl\u00fck ve gizlili\u011fe sayg\u0131l\u0131 uygulama ma\u011fazas\u0131"
-        },
-        "tzm": {
-          "name": "F-Droid"
-        },
-        "ug": {
-          "summary": "\u0628\u06c7 \u0626\u06c7\u064a\u063a\u06c7\u0644\u0649\u0645\u0627 \u062f\u06c7\u0643\u0649\u0646\u0649 \u0626\u06d5\u0631\u0643\u0649\u0646\u0644\u0649\u0643 \u06cb\u06d5 \u0645\u06d5\u062e\u067e\u0649\u064a\u06d5\u062a\u0644\u0649\u0643\u0643\u06d5 \u06be\u06c6\u0631\u0645\u06d5\u062a \u0642\u0649\u0644\u0649\u062f\u06c7"
+          "summary": "\u00d6zg\u00fcrl\u00fck ve gizlili\u011fe sayg\u0131l\u0131 uygulama ma\u011fazas\u0131 i\u00e7in sade bir istemci uygulamas\u0131"
         },
         "uk": {
-          "description": "F-Droid \u2014 \u0446\u0435 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u0434\u043b\u044f \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0432\u0456\u043b\u044c\u043d\u0438\u0445 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0456\u0432 \u0434\u043b\u044f Android. \u041a\u043b\u0456\u0454\u043d\u0442 F-Droid \u0441\u043f\u0440\u043e\u0449\u0443\u0454 \u043f\u043e\u0448\u0443\u043a, \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0442\u0430 \u0432\u0456\u0434\u0441\u0442\u0435\u0436\u0435\u043d\u043d\u044f \u043e\u043d\u043e\u0432\u043b\u0435\u043d\u044c \u043d\u0430 \u0432\u0430\u0448\u043e\u043c\u0443 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0457.\n\n\u0412\u0456\u043d \u043f\u0456\u0434'\u0454\u0434\u043d\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043e \u0431\u0443\u0434\u044c-\u044f\u043a\u0438\u0445 \u0441\u0443\u043c\u0456\u0441\u043d\u0438\u0445 \u0456\u0437 F-Droid \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0456\u0457\u0432. \u0422\u0438\u043f\u043e\u0432\u0438\u0439 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0456\u0439 \u0440\u043e\u0437\u043c\u0456\u0449\u0435\u043d\u0438\u0439 \u043d\u0430 \u0432\u0435\u0431\u0441\u0430\u0439\u0442\u0456 f-droid.org, \u044f\u043a\u0438\u0439 \u043c\u0456\u0441\u0442\u0438\u0442\u044c \u043b\u0438\u0448\u0435 \u0434\u043e\u0431\u0440\u043e\u0441\u043e\u0432\u0456\u0441\u043d\u0435 \u0432\u0456\u043b\u044c\u043d\u0435 \u0442\u0430 \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043d\u0435 \u0437\u0430\u0431\u0435\u0437\u043f\u0435\u0447\u0435\u043d\u043d\u044f.\n\n\u0421\u0430\u043c Android \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0438\u0439 \u0443 \u0442\u043e\u043c\u0443 \u0441\u0435\u043d\u0441\u0456, \u0449\u043e \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u044e\u0432\u0430\u0442\u0438 APK \u0437 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0433\u043e \u043c\u0456\u0441\u0446\u044f, \u0430\u043b\u0435 \u0454 \u0431\u0430\u0433\u0430\u0442\u043e \u0432\u0430\u0433\u043e\u043c\u0438\u0445 \u043f\u0440\u0438\u0447\u0438\u043d \u0434\u043b\u044f \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f F-Droid \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u043e\u043c \u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043d\u043e\u0433\u043e \u0437\u0430\u0431\u0435\u0437\u043f\u0435\u0447\u0435\u043d\u043d\u044f:\n\n* \u041e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u044c, \u043a\u043e\u043b\u0438 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0456 \u043e\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f\n* \u041c\u043e\u0436\u043b\u0438\u0432\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u0435 \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f \u0442\u0430 \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u043e\u043d\u043e\u0432\u043b\u0435\u043d\u044c\n* \u0412\u0456\u0434\u0441\u0442\u0435\u0436\u0435\u043d\u043d\u044f \u0441\u0442\u0430\u0440\u0456\u0448\u0438\u0445 \u0442\u0430 \u0431\u0435\u0442\u0430-\u0432\u0435\u0440\u0441\u0456\u0439\n* \u0424\u0456\u043b\u044c\u0442\u0440 \u0432\u0456\u0434 \u043d\u0435\u0441\u0443\u043c\u0456\u0441\u043d\u0438\u0445 \u0437 \u043f\u0440\u0438\u0441\u0442\u0440\u043e\u0454\u043c \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0456\u0432\n* \u041f\u043e\u0448\u0443\u043a \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0456\u0432 \u0437\u0430 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u044f\u043c\u0438 \u0439 \u043e\u043f\u0438\u0441\u0430\u043c\u0438\n* \u0414\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u0438\u0445 URL-\u043f\u043e\u0441\u0438\u043b\u0430\u043d\u044c \u0434\u043b\u044f \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438, \u043f\u043e\u0447\u0430\u0442\u043a\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u0434\u0443 \u0442\u043e\u0449\u043e\n* \u041f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u043d\u043d\u044f \u0432 \u0431\u0435\u0437\u043f\u0435\u0446\u0456 \u0447\u0435\u0440\u0435\u0437 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0456\u043d\u0434\u0435\u043a\u0441\u043d\u0438\u0445 \u043f\u0456\u0434\u043f\u0438\u0441\u0456\u0432 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0456\u0457\u0432 \u0456 \u0445\u0435\u0448\u0456\u0432 APK\n",
-          "name": "F-Droid",
-          "summary": "\u041a\u0440\u0430\u043c\u043d\u0438\u0446\u044f \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0456\u0432, \u044f\u043a\u0430 \u043f\u043e\u0432\u0430\u0436\u0430\u0454 \u0441\u0432\u043e\u0431\u043e\u0434\u0443 \u0442\u0430 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u0456\u0441\u0442\u044c"
-        },
-        "vi": {
-          "description": "F-Droid l\u00e0 m\u1ed9t m\u1ee5c l\u1ee5c c\u00e1c \u1ee9ng d\u1ee5ng ph\u1ea7n m\u1ec1m t\u1ef1 do\ncho Android. \u1ee8ng d\u1ee5ng kh\u00e1ch F-Droid khi\u1ebfn\nvi\u1ec7c duy\u1ec7t, c\u00e0i \u0111\u1eb7t, v\u00e0 theo d\u00f5i c\u00e1c b\u1ea3n c\u1eadp nh\u1eadt tr\u00ean thi\u1ebft b\u1ecb c\u1ee7a b\u1ea1n \u0111\u01b0\u1ee3c d\u1ec5 d\u00e0ng.\n\n\u1ee8ng d\u1ee5ng n\u00e0y k\u1ebft n\u1ed1i \u0111\u1ebfn b\u1ea5t k\u1ef3 kho n\u00e0o t\u01b0\u01a1ng th\u00edch v\u1edbi F-Droid. Kho m\u1eb7c \u0111\u1ecbnh\n\u0111\u01b0\u1ee3c l\u01b0u tr\u1eef t\u1ea1i f-droid.org, n\u00f3 ch\u1ec9 ch\u1ee9a c\u00e1c ph\u1ea7n m\u1ec1m t\u1ef1 do th\u1ef1c s\u1ef1.\n\nB\u1ea3n th\u00e2n Android l\u00e0 m\u1edf theo c\u00e1ch l\u00e0 b\u1ea1n c\u00f3 th\u1ec3 tu\u1ef3 \u00fd c\u00e0i \u0111\u1eb7t c\u00e1c t\u1ec7p APK\nt\u1eeb b\u1ea5t c\u1ee9 \u0111\u00e2u b\u1ea1n mu\u1ed1n, nh\u01b0ng c\u00f3 nhi\u1ec1u l\u00fd do t\u1ed1t \u0111\u1ec3 s\u1eed d\u1ee5ng\nF-Droid l\u00e0m tr\u00ecnh qu\u1ea3n l\u00fd \u1ee9ng d\u1ee5ng ph\u1ea7n m\u1ec1m t\u1ef1 do:\n\n* C\u00f3 th\u00f4ng b\u00e1o khi c\u00f3 b\u1ea3n c\u1eadp nh\u1eadt\n* T\u1ef1 \u0111\u1ed9ng t\u1ea3i xu\u1ed1ng v\u00e0 c\u00e0i \u0111\u1eb7t c\u00e1c b\u1ea3n c\u1eadp nh\u1eadt (kh\u00f4ng b\u1eaft bu\u1ed9c)\n* Theo d\u00f5i c\u00e1c phi\u00ean b\u1ea3n c\u0169 h\u01a1n v\u00e0 phi\u00ean b\u1ea3n beta\n* L\u1ecdc ra c\u00e1c \u1ee9ng d\u1ee5ng kh\u00f4ng t\u01b0\u01a1ng th\u00edch v\u1edbi thi\u1ebft b\u1ecb\n* T\u00ecm c\u00e1c \u1ee9ng d\u1ee5ng qua c\u00e1c h\u1ea1ng m\u1ee5c v\u00e0 c\u00e1c m\u1ee5c m\u00f4 t\u1ea3 c\u00f3 th\u1ec3 t\u00ecm ki\u1ebfm\n* Truy c\u1eadp c\u00e1c URL \u0111\u01b0\u1ee3c li\u00ean k\u1ebft \u0111\u1ec3 quy\u00ean g\u00f3p, t\u00ecm m\u00e3 ngu\u1ed3n, v.v.\n* Gi\u1eef an to\u00e0n b\u1eb1ng c\u00e1ch ki\u1ec3m tra ch\u1eef k\u00fd m\u1ee5c l\u1ee5c kho v\u00e0 m\u00e3 ki\u1ec3m tra c\u1ee7a c\u00e1c t\u1ec7p APK\n",
-          "name": "F-Droid",
-          "summary": "C\u1eeda h\u00e0ng \u1ee9ng d\u1ee5ng t\u00f4n tr\u1ecdng s\u1ef1 t\u1ef1 do v\u00e0 ri\u00eang t\u01b0"
-        },
-        "yue": {
-          "description": "F-Droid \u4fc2 Android \u4e0a\u9762\u4e00\u500b\u63d0\u4f9b\u5b89\u88dd\u5605\u81ea\u7531\u8edf\u4ef6 apps \u76ee\u9304\u3002F-Droid \u7528\u6236\u7aef app \u7b49\u60a8\u8f15\u9b06\u55ba\u60a8\u90e8\u6a5f\u5ea6\u700f\u89bd\u3001\u5b89\u88dd\u540c\u8ffd\u8e64\u66f4\u65b0\u3002\n\n\u500b app \u53ef\u9023\u63a5\u4efb\u4f55\u517c\u5bb9 F-Droid \u5605\u5b58\u5eab\u3002\u9810\u8a2d\u5b58\u5eab\u67b6\u69cb\u55ba f-droid.org\uff0c\u53ea\u5305\u542b\u771f\u6b63\u81ea\u7531\u5605\u8edf\u4ef6\u3002\n\nAndroid \u672c\u8eab\u67d0\u7a0b\u5ea6\u4e0a\u4fc2\u958b\u653e\u5605\uff0c\u610f\u601d\u4fc2\u60a8\u53ef\u96a8\u610f\u5b89\u88dd\u4efb\u4f55\u4f86\u6e90\u5605 APK\uff0c\u7136\u800c\u6709\u5514\u5c11\u597d\u597d\u5605\u7406\u7531\uff0c\u53bb\u9078\u7528 F-Droid \u505a\u60a8\u5605\u81ea\u7531\u8edf\u4ef6 app \u7e3d\u7ba1\uff1a\n\n* \u51fa\u5497\u66f4\u65b0\u5605\u6642\u5019\u6709\u5f97\u901a\u77e5\u60a8\n* \u6709\u5f97\u63c0\u81ea\u52d5\u4e0b\u8f09\u540c\u5b89\u88dd\u66f4\u65b0\n* \u8ffd\u8e64\u820a\u7248\u540c\u6e2c\u8a66\u7248\u672c\n* \u5254\u9664\u540c\u90e8\u6a5f\u5514\u517c\u5bb9\u5605 apps\n* \u6309\u5206\u985e\u540c\u63cf\u8ff0\u641c\u5c0b\u53bb\u6435 apps\n* \u8df3\u53bb\u6350\u6b3e\u3001\u539f\u59cb\u78bc\u7b49\u76f8\u95dc\u7db2\u5740\n* \u67e5\u9a57\u5b58\u5eab\u7d22\u5f15\u7c3d\u7f72\u540c APK \u96dc\u6e4a\u4ee5\u78ba\u4fdd\u5b89\u5168\n",
-          "name": "F-Droid",
-          "summary": "\u5c0a\u91cd\u81ea\u7531\u8207\u79c1\u96b1\u5605 app store"
+          "summary": "\u041c\u0456\u043d\u0456\u043c\u0430\u043b\u0456\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u043a\u043b\u0456\u0454\u043d\u0442\u0441\u044c\u043a\u0438\u0439 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a, \u044f\u043a\u0438\u0439 \u043f\u043e\u0432\u0430\u0436\u0430\u0454 \u0441\u0432\u043e\u0431\u043e\u0434\u0443 \u0439 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u0456\u0441\u0442\u044c"
         },
         "zh-CN": {
-          "description": "F-Droid \u662f Android \u5e73\u53f0\u4e0a\u7684\u4e00\u4e2a\u81ea\u7531\u8f6f\u4ef6\u5e94\u7528\u5546\u5e97\u3002F-Droid \u5ba2\u6237\u7aef\u5e94\u7528\u4f7f\u5f97\u6d4f\u89c8\u3001\u5b89\u88c5\u548c\u8ddf\u8e2a\u8bbe\u5907\u4e0a\u7684\u5e94\u7528\u66f4\u65b0\u53d8\u5f97\u8f7b\u800c\u6613\u4e3e\u3002\n\n\u5b83\u53ef\u4ee5\u8fde\u63a5\u5230\u4efb\u4f55\u517c\u5bb9 F-Droid \u7684\u5b58\u50a8\u5e93\u3002\u9ed8\u8ba4\u5b58\u50a8\u5e93\u6258\u7ba1\u5728 f-droid.org \u4e0a\uff0c\u5176\u4e2d\u53ea\u5305\u542b\u771f\u6b63\u7684\u81ea\u7531\u8f6f\u4ef6\u3002\n\nAndroid \u672c\u8eab\u662f\u5f00\u653e\u7684\uff0c\u610f\u601d\u662f\u60a8\u53ef\u4ee5\u4ece\u4efb\u4f55\u5730\u65b9\u5b89\u88c5 APK \u5e94\u7528\uff0c\u4f46\u662f\u8fd8\u662f\u6709\u5f88\u591a\u7406\u7531\u4f7f\u7528 F-Droid \u4f5c\u4e3a\u81ea\u7531\u8f6f\u4ef6\u5e94\u7528\u7ba1\u7406\u5668\uff1a\n\n* \u5728\u6709\u53ef\u7528\u66f4\u65b0\u65f6\u6536\u5230\u901a\u77e5\n* \u53ef\u9009\u62e9\u81ea\u52a8\u4e0b\u8f7d\u548c\u5b89\u88c5\u66f4\u65b0\n* \u8ddf\u8e2a\u65e7\u7248\u672c\u548c\u6d4b\u8bd5\u7248\u672c\n* \u8fc7\u6ee4\u4e0e\u8bbe\u5907\u4e0d\u517c\u5bb9\u7684\u5e94\u7528\n* \u901a\u8fc7\u7c7b\u522b\u548c\u53ef\u641c\u7d22\u7684\u63cf\u8ff0\u67e5\u627e\u5e94\u7528\n* \u8bbf\u95ee\u6350\u8d60\u3001\u6e90\u4ee3\u7801\u7b49\u5e94\u7528\u76f8\u5173\u94fe\u63a5\n* \u901a\u8fc7\u68c0\u67e5\u5b58\u50a8\u5e93\u7d22\u5f15\u7b7e\u540d\u548c APK \u54c8\u5e0c\u503c\u6765\u4fdd\u6301\u5b89\u5168\n",
-          "name": "F-Droid",
-          "summary": "\u5c0a\u91cd\u81ea\u7531\u4e0e\u9690\u79c1\u7684\u5e94\u7528\u5546\u5e97"
-        },
-        "zh-Hant-HK": {
-          "description": "F-Droid \u662f\u9069\u7528\u65bc Android \u4e00\u500b\u532f\u96c6\u53ef\u4f9b\u5b89\u88dd\u7684\u81ea\u7531\u8edf\u4ef6\u61c9\u7528\u7a0b\u5f0f\u76ee\u9304\u3002\u6b64 F-Droid \u5ba2\u6236\u7aef\u61c9\u7528\u7a0b\u5f0f\u8b93\u60a8\u53ef\u5728\u60a8\u7684\u88dd\u7f6e\u4e0a\u8f15\u6613\u700f\u89bd\u3001\u5b89\u88dd\u4e26\u8ffd\u8e64\u66f4\u65b0\u3002\n\n\u6b64\u61c9\u7528\u7a0b\u5f0f\u53ef\u9023\u7dda\u81f3\u4efb\u4f55\u8207 F-Droid \u76f8\u5bb9\u7684\u8edf\u4ef6\u5eab\u3002\u9810\u8a2d\u7684\u8edf\u4ef6\u5eab\u67b6\u69cb\u65bc f-droid.org\uff0c\u50c5\u5305\u542b\u771f\u6b63\u7684\u81ea\u7531\u8edf\u4ef6\u3002\n\nAndroid \u672c\u8eab\u4e43\u958b\u653e\u7d66\u60a8\u96a8\u5fc3\u6240\u6b32\u5b89\u88dd\u4e0d\u540c\u4f86\u6e90\u7684 APK \u6a94\u6848\uff0c\u7136\u800c\u9078\u7528 F-Droid \u4f5c\u70ba\u60a8\u7684\u81ea\u7531\u8edf\u4ef6\u61c9\u7528\u7a0b\u5f0f\u9084\u6709\u4e0d\u5c11\u597d\u8655\uff1a\n\n* \u7576\u66f4\u65b0\u53ef\u7528\u6642\u53d6\u5f97\u901a\u77e5\n* \u53ef\u9078\u64c7\u81ea\u52d5\u4e0b\u8f09\u4e26\u5b89\u88dd\u66f4\u65b0\n* \u8ffd\u8e64\u8f03\u820a\u8207\u6e2c\u8a66\u7248\u7684\u7248\u672c\n* \u7be9\u8d70\u8207\u88dd\u7f6e\u4e0d\u76f8\u5bb9\u7684\u61c9\u7528\u7a0b\u5f0f\n* \u6309\u5206\u985e\u6216\u641c\u5c0b\u63cf\u8ff0\u5c0b\u627e\u61c9\u7528\u7a0b\u5f0f\n* \u5b58\u53d6\u6350\u6b3e\u3001\u539f\u59cb\u78bc\u7b49\u76f8\u95dc\u7684 URL\n* \u67e5\u9a57\u8edf\u4ef6\u5eab\u7d22\u5f15\u7c3d\u7f72\u8207 APK \u96dc\u6e4a\u78ba\u4fdd\u5b89\u5168\n",
-          "name": "F-Droid",
-          "summary": "\u5c0a\u91cd\u81ea\u7531\u8207\u79c1\u96b1\u7684\u61c9\u7528\u7a0b\u5f0f\u5546\u5e97"
-        },
-        "zh-TW": {
-          "description": "F-Droid \u662f\u4e00\u500b\u53ef\u5728 Android \u4e0a\u5b89\u88dd\u7684\u81ea\u7531\u7684\u61c9\u7528\u7a0b\u5f0f\u76ee\u9304\u3002\nF-Droid \u7528\u6236\u7aef\u61c9\u7528\u7a0b\u5f0f\u53ef\u4ee5\u8f15\u9b06\u7684\u700f\u89bd\u3001\u5b89\u88dd\u548c\u6301\u7e8c\u8ffd\u8e64\n\u88dd\u7f6e\u4e0a\u61c9\u7528\u7a0b\u5f0f\u7684\u66f4\u65b0\u3002\n\n\u5b83\u80fd\u9023\u63a5\u5230\u4efb\u4f55\u8207 F-Droid \u76f8\u5bb9\u7684\u8edf\u9ad4\u5eab\u3002\u9810\u8a2d\u7684\u8edf\u9ad4\u5eab\u4e3b\u6a5f\n\u4f4d\u65bc f-droid.org\uff0c\u5176\u4e2d\u53ea\u5bb9\u7d0d\u771f\u8aa0\u7684\u81ea\u7531\u8edf\u9ad4\u3002\n\n\u82e5\u5f9e\u4f7f\u7528\u8005\u53ef\u4ee5\u81ea\u7531\u6c7a\u5b9a\u5b89\u88dd\u4ec0\u9ebc APKs \u4f86\u770b\uff0cAndroid \u672c\u8eab\n\u662f\u958b\u653e\u7684\u3002\u4f46\u4ecd\u7136\u6709\u5176\u5b83\u597d\u7406\u7531\u7528 F-Droid \u4f86\u7576\u81ea\u7531\u8edf\u9ad4\u7684\n\u61c9\u7528\u7a0b\u5f0f\u7ba1\u7406\u5668\uff1a\n\n* \u901a\u77e5\u8edf\u9ad4\u6709\u66f4\u65b0\n* \u53ef\u9078\u64c7\u662f\u5426\u81ea\u52d5\u4e0b\u8f09\u8207\u5b89\u88dd\u66f4\u65b0\n* \u8ffd\u8e64\u8001\u820a\u548c\u8a66\u9a57\u7248\u672c\n* \u7be9\u9078\u51fa\u8207\u8a2d\u5099\u4e0d\u76f8\u5bb9\u7684\u61c9\u7528\u8edf\u9ad4\n* \u5229\u7528\u985e\u5225\u548c\u53ef\u641c\u5c0b\u7684\u63cf\u8ff0\u4f86\u627e\u8edf\u9ad4\n* \u5b58\u53d6\u6350\u6b3e\u6216\u539f\u59cb\u78bc\u7b49\u76f8\u95dc\u7684\u7db2\u5740\u8cc7\u6e90\n* \u6aa2\u67e5\u8edf\u9ad4\u5eab\u7d22\u5f15\u7c3d\u7f72\u548c APK \u96dc\u6e4a\u503c\u4ee5\u78ba\u4fdd\u5b89\u5168\n",
-          "name": "F-Droid",
-          "summary": "\u5c0a\u91cd\u81ea\u7531\u548c\u96b1\u79c1\u7684\u61c9\u7528\u7a0b\u5f0f\u5546\u5e97"
-        },
-        "zh_Hant_HK": {
-          "name": "F-Droid"
+          "summary": "\u5c0a\u91cd\u81ea\u7531\u548c\u9690\u79c1\u7684\u5e94\u7528\u5546\u5e97\u7684\u6781\u7b80\u5ba2\u6237\u7aef\u5e94\u7528"
         }
       }
     },
@@ -736,9 +460,9 @@
       "issueTracker": "https://github.com/WangDaYeeeeee/GeometricWeather/issues",
       "license": "LGPL-3.0-only",
       "sourceCode": "https://github.com/WangDaYeeeeee/GeometricWeather",
-      "added": 1697591965000,
+      "added": 1697596311000,
       "packageName": "wangdaye.com.geometricweather",
-      "lastUpdated": 1697591965000,
+      "lastUpdated": 1697596311000,
       "localized": {
         "en-US": {
           "description": "Geometric Weather is a free and open-source Android weather app.\nThis build flavor has all proprietary dependencies and related code stripped out to make it eligible for inclusion on F-Droid.\n\nIn the app, you'll find:<ul>\n<li>Real-time temperature</li>\n<li>Daily forecasts up to 15 days, and hourly forecasts for the next 24 hours</li>\n<li>Air quality and allergen information</li>\n<li>Severe weather and precipitation alerts</li></ul>\n\nThe app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability:<ul>\n<li>Automatic dark theme</li>\n<li>Custom icon themes</li>\n<li>Large selection of home screen widgets for at-a-glance information</li>\n<li>Live wallpaper</li></ul>\n\nCurrent supported weather providers in F-Droid flavor:<ul>\n<li>AccuWeather</li>\n<li>OpenWeatherMap</li>\n<li>M\u00e9t\u00e9o France</li></ul>\n\nThis app requests a number of permissions; some required, some optional.\n\nRequired permissions:<ul>\n<li>Network (ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, INTERNET): Allows the app to fetch weather data from providers over the Internet</li>\n<li>Background updates (RECEIVE_BOOT_COMPLETED, WAKE_LOCK, FOREGROUND_SERVICE, SET_ALARM): Allows the app to refresh weather data in the background</li>\n<li>Tile (EXPAND_STATUS_BAR): Allows the app to launch itself from Quick Settings</li>\n</ul>\n\nOptional permissions: <ul>\n<li>Location (ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION): Allows the app to show weather in your current location</li>\n<li>Storage (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE): Allows the app to set the live weather wallpaper and/or widgets on some devices</li>\n<li>Ignore battery optimizations (REQUEST_IGNORE_BATTERY_OPTIMIZATIONS): Prevents the app from being killed in the background. Potentially more reliable method for fetching background weather data on some devices</li>\n<li>Read phone state (READ_PHONE_STATE): Required by an app dependency: not actually used, but can't be removed. It's okay to never enable this.</li>\n</ul>",
@@ -768,9 +492,9 @@
       "sourceCode": "https://github.com/k9mail/k-9",
       "translation": "https://www.transifex.com/projects/p/k9mail/",
       "webSite": "https://k9mail.app/",
-      "added": 1697591966000,
+      "added": 1697596313000,
       "packageName": "com.fsck.k9",
-      "lastUpdated": 1697591966000,
+      "lastUpdated": 1697596313000,
       "localized": {
         "de": {
           "summary": "Voll ausgestatteter E-Mail-Client"
@@ -845,9 +569,9 @@
       "license": "AGPL-3.0-or-later",
       "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
       "webSite": "https://mupdf.com",
-      "added": 1697591967000,
+      "added": 1697596313000,
       "packageName": "com.artifex.mupdf.viewer.app",
-      "lastUpdated": 1697591967000,
+      "lastUpdated": 1697596313000,
       "localized": {
         "de": {
           "summary": "Leichtgewichtiger Dokumentenbetrachter"
@@ -924,9 +648,9 @@
       "sourceCode": "https://github.com/nextcloud/android",
       "translation": "https://www.transifex.com/nextcloud/nextcloud/",
       "webSite": "https://nextcloud.com",
-      "added": 1697591969000,
+      "added": 1697596316000,
       "packageName": "com.nextcloud.client",
-      "lastUpdated": 1697591969000,
+      "lastUpdated": 1697596316000,
       "localized": {
         "cs": {
           "summary": "Synchroniza\u010dn\u00ed klient"
@@ -1024,9 +748,9 @@
       "sourceCode": "https://github.com/ooni/probe-android",
       "translation": "https://www.transifex.com/otf/ooniprobe/",
       "webSite": "https://ooni.torproject.org/",
-      "added": 1697591972000,
+      "added": 1697596318000,
       "packageName": "org.openobservatory.ooniprobe",
-      "lastUpdated": 1697591972000,
+      "lastUpdated": 1697596318000,
       "localized": {
         "de": {
           "summary": "Offenes Observatorium von Netzerk-Interferenzen (OONI)"
@@ -1103,9 +827,9 @@
       "sourceCode": "https://gitweb.torproject.org/orbot.git",
       "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
       "webSite": "https://www.torproject.org/docs/android.html",
-      "added": 1697591973000,
+      "added": 1697596320000,
       "packageName": "org.torproject.android",
-      "lastUpdated": 1697591973000,
+      "lastUpdated": 1697596320000,
       "localized": {
         "af": {
           "summary": "Verbeter jou privaatheid, breek deur middel van firewalls en meer veilig te komm"
@@ -1233,9 +957,9 @@
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
       "webSite": "https://organicmaps.app/",
-      "added": 1697591976000,
+      "added": 1697596323000,
       "packageName": "app.organicmaps",
-      "lastUpdated": 1697591976000,
+      "lastUpdated": 1697596323000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1265,9 +989,9 @@
       "sourceCode": "https://0xacab.org/leap/bitmask_android",
       "translation": "https://www.transifex.com/projects/p/bitmask-android",
       "webSite": "https://riseup.net/",
-      "added": 1697591978000,
+      "added": 1697596325000,
       "packageName": "se.leap.riseupvpn",
-      "lastUpdated": 1697591978000,
+      "lastUpdated": 1697596325000,
       "localized": {
         "de": {
           "summary": "Sicheres VPN mit Bitmask"
@@ -1344,9 +1068,9 @@
       "license": "GPL-3.0-only",
       "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
       "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
-      "added": 1697591979000,
+      "added": 1697596326000,
       "packageName": "com.jarsilio.android.scrambledeggsif",
-      "lastUpdated": 1697591979000,
+      "lastUpdated": 1697596326000,
       "localized": {
         "cs-CZ": {
           "description": "Scrambled Exit (vyslovov\u00e1no <i>egg</i>sif) v\u00e1m pom\u00e1h\u00e1 odstranit metadata z obr\u00e1zk\u016f ne\u017e je sd\u00edl\u00edte.\n\nPokud se na to c\u00edt\u00edte.\n\nPokud nechcete velk\u00e9 internetov\u00e9 spole\u010dnosti (nebo kohokoliv) aby v\u011bd\u011bl kde jste va\u0161e obr\u00e1zky vyfotili tak nezapome\u0148te z nich odstranit metadata ne\u017e je sd\u00edl\u00edte.\n\nPro odstran\u011bn\u00ed metadat z obr\u00e1zku jej jednodu\u0161e sd\u00edlejte jako obvykle a vyberte <i>Scambled Exif</i>. O moment pozd\u011bji se objev\u00ed dialog pro sd\u00edlen\u00ed. Nyn\u00ed u\u017e jen sd\u00edlejte s jakoukoliv aplikac\u00ed jste cht\u011bli.\n\nA voil\u00e0!\n\n<b>Po\u017eadovan\u00e1 Android Opr\u00e1vn\u011bn\u00ed:</b>\n\n\u2605 READ_EXTERNAL_STORAGE pro \u010dten\u00ed obr\u00e1zk\u016f kter\u00e9 chcete sd\u00edlet.\n\n<b>Zdrojov\u00fd k\u00f3d</b>\n\n\u2605 Tato aplikace je open source. M\u016f\u017eete se pod\u00edvat na zdrojov\u00fd k\u00f3d (a m\u016f\u017eete i p\u0159isp\u011bt jestli chcete) zde:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>P\u0159eklad</b>\n\nPokud tuto aplikaci chete p\u0159elo\u017eit do sv\u00e9ho jazyka, m\u016f\u017eete to ud\u011blat pou\u017eit\u00edm transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Ostatn\u00ed v\u011bci a Fakty</b>\n\n\u2605 Exif je pou\u017e\u00edv\u00e1n form\u00e1tem JPEG, co\u017e je form\u00e1t ve kter\u00e9m Android kamera ukl\u00e1d\u00e1 vyfocen\u00e9 obr\u00e1zky. Pokud se o Exif chcete dozv\u011bd\u011bt v\u00edc, koukn\u011bte se na Wikipedii.\n\n\u2605 Scrambled Exif tak\u00e9 p\u0159ejmenov\u00e1v\u00e1 sd\u00edlen\u00e9 soubory.\n\n\u2605 Pros\u00edm nebu\u010fte a\u017e moc p\u0159esv\u011bd\u010den\u00ed o tom, \u017ee se data vyma\u017eou. Scrambled Exif d\u011bl\u00e1 svou pr\u00e1ci skv\u011ble, ale m\u016f\u017ee se st\u00e1t n\u011bkdy chyba. V\u017edycky to zkontrolujte ne\u017e budete obr\u00e1zek sd\u00edlet.\n\n\u2605 Vlastn\u011b to Exif data <i>nezam\u00edch\u00e1</i>, ale sma\u017ee. Tak\u017ee to jm\u00e9no je docela hloup\u00e9. Ale m\u011b se l\u00edb\u00ed. Ikona tak\u00e9 nezobrazuje m\u00edchan\u00e1 vejce tak\u017ee je asi taky hloup\u00e1. Ale m\u011b se l\u00edb\u00ed. A tak\u00e9 jsem velk\u00fd fanou\u0161ek vajec. Tak\u017ee tahle aplikace m\u00e1 nejen hloup\u00e9 jm\u00e9no a stejn\u011b hloupou ikonu, ale i mou (ne-hloupou) \u00factu k vejc\u00edm. Hlavn\u011b <i>huevos fritos</i>. Proto\u017ee to miluju.\n\n\u2605 U\u017eijte si sd\u00edlen\u00ed fotek!",
@@ -1423,9 +1147,9 @@
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1697591986000,
+      "added": 1697596333000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1697591986000,
+      "lastUpdated": 1697596333000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1455,9 +1179,9 @@
       "name": "Tor Browser for Android",
       "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
       "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
-      "added": 1697591989000,
+      "added": 1697596338000,
       "packageName": "org.torproject.torbrowser",
-      "lastUpdated": 1697591989000,
+      "lastUpdated": 1697596338000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
@@ -1468,7 +1192,7 @@
   "packages": {
     "app.organicmaps": [
       {
-        "added": 1697591976000,
+        "added": 1697596323000,
         "apkName": "OrganicMaps.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -1536,7 +1260,7 @@
     ],
     "at.bitfire.davdroid": [
       {
-        "added": 1697591962000,
+        "added": 1697596308000,
         "apkName": "DAVx5.apk",
         "hash": "99114c9b3147b6e41369d47681aa7292e73c5f78ffe861c3dcd45284cc664407",
         "hashType": "sha256",
@@ -1674,7 +1398,7 @@
     ],
     "com.artifex.mupdf.viewer.app": [
       {
-        "added": 1697591967000,
+        "added": 1697596313000,
         "apkName": "MuPDFviewer.apk",
         "hash": "41ccf3057dac608b53d733175c984cd9b07f650d1f7d408a60aecdfe62bcf91a",
         "hashType": "sha256",
@@ -1701,7 +1425,7 @@
     ],
     "com.aurora.store": [
       {
-        "added": 1697591957000,
+        "added": 1697596302000,
         "apkName": "AuroraStore.apk",
         "hash": "de8aa625fabfde1e5694dc8b6f8cc45605299172b2eb33355619e15248fd661a",
         "hashType": "sha256",
@@ -1795,7 +1519,7 @@
     ],
     "com.fsck.k9": [
       {
-        "added": 1697591966000,
+        "added": 1697596313000,
         "apkName": "K-9Mail.apk",
         "hash": "67b93ecc42751cf1e3ae9c8d93cb635c19a1e34501fbc9ef53347120da35bd31",
         "hashType": "sha256",
@@ -1861,7 +1585,7 @@
     ],
     "com.jarsilio.android.scrambledeggsif": [
       {
-        "added": 1697591979000,
+        "added": 1697596326000,
         "apkName": "ScrambledExif.apk",
         "hash": "4b5e8f2c5d415a09427fa236ea8907bf16e660b2ba628f7cd9f8a1737c4c1009",
         "hashType": "sha256",
@@ -1895,7 +1619,7 @@
     ],
     "com.nextcloud.client": [
       {
-        "added": 1697591969000,
+        "added": 1697596316000,
         "apkName": "Nextcloud.apk",
         "hash": "63a72936ba6d75d516dc88603440ad52b123668c045ac65e5bf934a7ab646066",
         "hashType": "sha256",
@@ -2047,7 +1771,7 @@
     ],
     "org.briarproject.briar.android": [
       {
-        "added": 1697591959000,
+        "added": 1697596304000,
         "apkName": "Briar.apk",
         "hash": "1b69e44ff75b781c30584a98f9ba8dcb7bf908afaa705d0cf3723a7852ff6213",
         "hashType": "sha256",
@@ -2161,7 +1885,7 @@
     ],
     "org.calyxinstitute.vpn": [
       {
-        "added": 1697591961000,
+        "added": 1697596306000,
         "apkName": "CalyxVPN.apk",
         "hash": "990bf8c7e26a8a74bf0b9449812f3f08fe13c98e571bba9c10bde129c996c166",
         "hashType": "sha256",
@@ -2223,23 +1947,19 @@
         "versionName": "1.1.8-1"
       }
     ],
-    "org.fdroid.fdroid": [
+    "org.fdroid.basic": [
       {
-        "added": 1697591964000,
-        "apkName": "F-Droid.apk",
-        "hash": "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75",
+        "added": 1697596310000,
+        "apkName": "F-DroidBasic.apk",
+        "hash": "678e61d3730ae6e43bafac330af15c5db15bf462e3c7306ecd8466a3010d80a7",
         "hashType": "sha256",
         "minSdkVersion": 23,
-        "packageName": "org.fdroid.fdroid",
-        "sig": "9063aaadfff9cfd811a9c72fb5012f28",
-        "signer": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab",
-        "size": 10646430,
-        "targetSdkVersion": 28,
+        "packageName": "org.fdroid.basic",
+        "sig": "b1f4c7b7c59bc03bb2f04845dab36e40",
+        "signer": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312",
+        "size": 9774364,
+        "targetSdkVersion": 33,
         "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
           [
             "android.permission.ACCESS_NETWORK_STATE",
             null
@@ -2249,55 +1969,7 @@
             null
           ],
           [
-            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            32
-          ],
-          [
-            "android.permission.BLUETOOTH_ADMIN",
-            30
-          ],
-          [
-            "android.permission.BLUETOOTH_CONNECT",
-            null
-          ],
-          [
             "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            28
-          ],
-          [
-            "android.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.USB_PERMISSION",
-            22
-          ],
-          [
-            "android.permission.WAKE_LOCK",
             null
           ],
           [
@@ -2313,7 +1985,15 @@
             null
           ],
           [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            28
+          ],
+          [
             "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
             null
           ],
           [
@@ -2325,14 +2005,20 @@
             null
           ],
           [
-            "org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "android.permission.INTERNET",
             null
-          ]
-        ],
-        "uses-permission-sdk-23": [
+          ],
           [
-            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
             null
+          ],
+          [
+            "org.fdroid.basic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            28
           ]
         ],
         "versionCode": 1017050,
@@ -2341,7 +2027,7 @@
     ],
     "org.openobservatory.ooniprobe": [
       {
-        "added": 1697591972000,
+        "added": 1697596318000,
         "apkName": "OONIProbe.apk",
         "hash": "c661f938c44dde071e236fd8208e7e42fd96ebb7b93cd16ecd9201bee55146c4",
         "hashType": "sha256",
@@ -2405,7 +2091,7 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1697591986000,
+        "added": 1697596333000,
         "apkName": "Signal.apk",
         "hash": "4220c9c662987260898ed98f3b67cc9938472d5d9016c7676e9163c51728eea0",
         "hashType": "sha256",
@@ -2729,7 +2415,7 @@
     ],
     "org.torproject.android": [
       {
-        "added": 1697591973000,
+        "added": 1697596320000,
         "apkName": "Orbot.apk",
         "hash": "10a4ad0fe599ed6b5c7fa450a0678b4e4606252be3906f9c27dd2484ea086682",
         "hashType": "sha256",
@@ -2793,7 +2479,7 @@
     ],
     "org.torproject.torbrowser": [
       {
-        "added": 1697591989000,
+        "added": 1697596338000,
         "apkName": "TorBrowser.apk",
         "hash": "8a99a22f52a5ecc2501f167ac66b5119ff4de15243249427afafd990fb0c6d59",
         "hashType": "sha256",
@@ -2892,7 +2578,7 @@
     ],
     "se.leap.riseupvpn": [
       {
-        "added": 1697591978000,
+        "added": 1697596325000,
         "apkName": "RiseupVPN.apk",
         "hash": "a4d748e88ea053412885863f4ed28ed75588596ffb60fc2760796b727ba7f850",
         "hashType": "sha256",
@@ -2964,7 +2650,7 @@
     ],
     "wangdaye.com.geometricweather": [
       {
-        "added": 1697591965000,
+        "added": 1697596311000,
         "apkName": "GeometricWeather.apk",
         "features": [
           "android.software.live_wallpaper",
