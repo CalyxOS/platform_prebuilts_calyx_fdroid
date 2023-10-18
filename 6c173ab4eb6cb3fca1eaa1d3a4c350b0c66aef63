@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a4ccf95_d9f2835a",
+        "filename": "repo/index-v2.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 458,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-10-18T01:27:45Z",
+      "side": 1,
+      "message": "This takes us back to \"current / suggested\" Aurora Store, but that\u0027s fine.",
+      "revId": "6c173ab4eb6cb3fca1eaa1d3a4c350b0c66aef63",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a4219d5_0bdbac15",
+        "filename": "repo/index-v2.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 593,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-10-18T01:27:45Z",
+      "side": 1,
+      "message": "I guess this is also ok?\n\nhttps://f-droid.org/en/packages/com.fsck.k9/\n\nVersion 6.603 (36003) suggested Added on 2023-10-15\nVersion 6.710 (37010) - Added on 2023-08-26\nVersion 6.711 (37011) - Added on 2023-10-08",
+      "revId": "6c173ab4eb6cb3fca1eaa1d3a4c350b0c66aef63",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c2f5baa2_ea46ad2e",
+        "filename": "repo/index-v2.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 1435,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-10-18T01:27:45Z",
+      "side": 1,
+      "message": "1.18.0 would be nice for 14, but we\u0027re switching to Basic anyways so it doesn\u0027t matter.",
+      "revId": "6c173ab4eb6cb3fca1eaa1d3a4c350b0c66aef63",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
