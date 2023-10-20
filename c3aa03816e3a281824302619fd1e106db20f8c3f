@@ -33,6 +33,24 @@
       "message": "Wait for https://gitlab.com/fdroid/fdroidclient/-/issues/2611 (or linked issue)",
       "revId": "c3aa03816e3a281824302619fd1e106db20f8c3f",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f3b81131_67da08e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-10-20T16:54:21Z",
+      "side": 1,
+      "message": "This was done in https://gitlab.com/fdroid/fdroidclient/-/commit/064898cf8766410a4f12d9e389361668ff1db747\n\nTags containing commit: 1.19.0-alpha0",
+      "parentUuid": "58732b3a_ac92ac86",
+      "revId": "c3aa03816e3a281824302619fd1e106db20f8c3f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
