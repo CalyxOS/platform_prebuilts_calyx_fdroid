@@ -51,6 +51,23 @@
       "parentUuid": "58732b3a_ac92ac86",
       "revId": "c3aa03816e3a281824302619fd1e106db20f8c3f",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a1cceff7_3b07e844",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-09T20:08:16Z",
+      "side": 1,
+      "message": "From testing, it appears that additional_repos.xml only has an effect on new installs / cleared storage.\n\nIf we merged this now, new users would have duplicate repos until/unless they dealt with it manually. So I guess we would want to time it carefully with the release that has the removal.\n\nThis change also doesn\u0027t affect F-Droid Basic (expected, I think).",
+      "revId": "c3aa03816e3a281824302619fd1e106db20f8c3f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
