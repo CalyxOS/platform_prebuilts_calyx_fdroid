@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8edd3b12_9ce0cdc4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-09T21:05:47Z",
+      "side": 1,
+      "message": "This makes it so both F-Droid Basic will take advantage of the additional repos, and so will F-Droid if/when present. Do we want this?",
+      "revId": "aa41e5f46656ef6fd2c100d885a4bf51d5c52242",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
