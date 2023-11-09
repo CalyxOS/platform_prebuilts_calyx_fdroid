@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fdroid-repo \
+    fdroid-basic-repo \
     aurora-store \
     AuroraStore \
     Briar \
