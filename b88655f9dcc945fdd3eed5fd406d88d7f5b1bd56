@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "63ff6cc0_51950014",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-09T21:00:42Z",
+      "side": 1,
+      "message": "No icon for F-Droid Basic right now, just the default icon.",
+      "revId": "b88655f9dcc945fdd3eed5fd406d88d7f5b1bd56",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
