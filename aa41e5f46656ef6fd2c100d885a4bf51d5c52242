@@ -87,6 +87,24 @@
       "parentUuid": "f8cdb28f_2fc48345",
       "revId": "aa41e5f46656ef6fd2c100d885a4bf51d5c52242",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "50d6da8f_aa6f28a3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-16T20:03:35Z",
+      "side": 1,
+      "message": "Alright, I noticed when comparing before/after that this change doesn\u0027t replace F-Droid in the packages list with F-DroidBasic, but I guess that\u0027s not needed for this specific change and will be handled with the automated update.",
+      "parentUuid": "e7bd7b2b_b40482d0",
+      "revId": "aa41e5f46656ef6fd2c100d885a4bf51d5c52242",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
