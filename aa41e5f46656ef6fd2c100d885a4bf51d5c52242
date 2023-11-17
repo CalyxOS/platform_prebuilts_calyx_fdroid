@@ -105,6 +105,24 @@
       "parentUuid": "e7bd7b2b_b40482d0",
       "revId": "aa41e5f46656ef6fd2c100d885a4bf51d5c52242",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f13631b_f34f5895",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-11-17T10:30:53Z",
+      "side": 1,
+      "message": "Yes, done in https://review.calyxos.org/c/CalyxOS/platform_prebuilts_calyx_fdroid/+/22194",
+      "parentUuid": "50d6da8f_aa6f28a3",
+      "revId": "aa41e5f46656ef6fd2c100d885a4bf51d5c52242",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
