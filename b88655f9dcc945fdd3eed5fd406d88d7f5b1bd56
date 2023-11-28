@@ -33,6 +33,24 @@
       "message": "I think this works, apart from the missing icon. Existing install, no apparent differences. New install (or work profile, or secondary user), F-Droid Basic.",
       "revId": "b88655f9dcc945fdd3eed5fd406d88d7f5b1bd56",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c4719dd8_aacd7093",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-11-28T20:15:32Z",
+      "side": 1,
+      "message": "Fixed in 23341: Update fdroid repo to 5637055765 | https://review.calyxos.org/c/CalyxOS/platform_prebuilts_calyx_fdroid/+/23341",
+      "parentUuid": "63ff6cc0_51950014",
+      "revId": "b88655f9dcc945fdd3eed5fd406d88d7f5b1bd56",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
