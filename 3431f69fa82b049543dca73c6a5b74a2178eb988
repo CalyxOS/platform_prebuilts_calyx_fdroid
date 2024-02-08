@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5ad28c1e_68f0d130",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-02-08T19:21:01Z",
+      "side": 1,
+      "message": "We\u0027re getting reports of FP4 users having issues with the very latest. They still need something newer than stock, but not too new.\n\n2.1.485499006 is known working",
+      "revId": "3431f69fa82b049543dca73c6a5b74a2178eb988",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
